@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-26T08:00:50.082Z
+date: 2025-07-26T08:02:15.806Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -13,7 +13,7 @@ dateCreated: 2025-07-26T06:57:18.097Z
 
 |-------------|------------|
 |![image.jpg](/image.jpg)|![iléïte.jpg](/iléïte.jpg)|
-
+{.dense}
 
 ![image.jpg](/image.jpg) 
 
