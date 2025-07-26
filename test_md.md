@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-26T08:12:12.449Z
+date: 2025-07-26T08:13:32.450Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -10,9 +10,9 @@ dateCreated: 2025-07-26T06:57:18.097Z
 
 # Header
 
-<!-- {.dense} -->
-![image.jpg](/image.jpg) ![iléïte.jpg](/iléïte.jpg) ![sigmoide7_copie.jpg](/mccolique1/sigmoide7_copie.jpg)
 
+![image.jpg](/image.jpg) ![iléïte.jpg](/iléïte.jpg) ![sigmoide7_copie.jpg](/mccolique1/sigmoide7_copie.jpg)
+<!-- {p:.dense} -->
 
 ![image.jpg](/image.jpg) 
 
