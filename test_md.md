@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-26T09:42:59.225Z
+date: 2025-07-26T09:44:27.472Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -16,7 +16,7 @@ dateCreated: 2025-07-26T06:57:18.097Z
 <!-- {p:.gallerie} -->
 
 ## une video youtube
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](http://www.youtube.com/watch?v=_etHH7s8oNQ "Video Title")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](https://youtube.com/watch?v=_etHH7s8oNQ "Video Title")
 
 
 ## une video et des images dans une gallerie
