@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-26T08:52:35.697Z
+date: 2025-07-26T08:56:24.065Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -16,8 +16,8 @@ voici 3 images organisées dans une "gallerie"
 <!-- {p:.gallerie} -->
 
 
-voici une video youtube "embeded"
-![innovation echographie](https://www.youtube.com/watch?v=_etHH7s8oNQ) 
+voici une video youtube "liée"
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](http://www.youtube.com/watch?v=_etHH7s8oNQ "Video Title")
 
 Salut, madame la sonde,
 cette partie a été éditée sur github
