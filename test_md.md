@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-26T09:26:50.050Z
+date: 2025-07-26T09:27:10.723Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -21,8 +21,7 @@ dateCreated: 2025-07-26T06:57:18.097Z
 
 ## une video et des images dans une gallerie
 
-![illleon_dopplercopie.jpg](/illleon_dopplercopie.jpg) ![iléon14_copie.jpg](/iléon14_copie.jpg)
-![![innovation en échographie](http://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](http://www.youtube.com/watch?v=_etHH7s8oNQ "innovation en échographie")
+![illleon_dopplercopie.jpg](/illleon_dopplercopie.jpg) ![iléon14_copie.jpg](/iléon14_copie.jpg) [![innovation en échographie](http://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](http://www.youtube.com/watch?v=_etHH7s8oNQ "innovation en échographie")
 <!-- {p:.gallerie} -->
 
 Salut, madame la sonde,
