@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-27T08:05:42.382Z
+date: 2025-07-27T08:10:27.869Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -75,3 +75,27 @@ Voici une table en Markdown listant différents **usages courants de l’échogr
 
 
 
+## Diagramme de séquence PlantUML 
+Voici un exemple de diagramme de séquence PlantUML décrivant une interaction typique entre une sonde d’échographie et un logiciel d’imagerie médicale :
+```plantuml
+title Interaction entre une sonde d'échographie et le logiciel d'imagerie
+
+actor Utilisateur
+participant "Sonde d'échographie" as Sonde
+participant "Logiciel d'imagerie" as Logiciel
+
+Utilisateur -> Sonde : Démarrer la capture
+Sonde -> Logiciel : Envoyer signal d'initialisation
+Logiciel -> Sonde : Accuser réception et préparer interface
+
+loop Acquisition continue
+    Sonde -> Logiciel : Envoyer données brutes (ultrasons)
+    Logiciel -> Logiciel : Traitement des données\n(filtrage, interpolation)
+    Logiciel -> Logiciel : Reconstruction de l'image
+    Logiciel -> Utilisateur : Afficher l’image en temps réel
+end
+
+Utilisateur -> Sonde : Arrêter la capture
+Sonde -> Logiciel : Envoyer signal d’arrêt
+Logiciel -> Utilisateur : Confirmer arrêt et sauvegarder l'image
+```
