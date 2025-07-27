@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-27T08:04:17.440Z
+date: 2025-07-27T08:05:06.082Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -60,6 +60,8 @@ journey
 ```
 
 ## une table
+
+Voici une table en Markdown listant différents **usages courants de l’échographie** ainsi qu’une estimation approximative de leur **part dans l’usage global (en pourcentage)**. Ces chiffres sont représentatifs d’une répartition typique en milieu hospitalier ou en cabinet, à titre indicatif.
 
 | Usage de l’échographie                  | Description                                    | Part  de l’usage total (%) |
 |-----------------------------------|------------------------------------------------------|----------------------------|
