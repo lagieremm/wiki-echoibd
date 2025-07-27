@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-27T08:10:27.869Z
+date: 2025-07-27T08:12:38.487Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -24,6 +24,17 @@ dateCreated: 2025-07-26T06:57:18.097Z
 ![illleon_dopplercopie.jpg](/illleon_dopplercopie.jpg) ![iléon14_copie.jpg](/iléon14_copie.jpg) [![innovation en échographie](https://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](https://youtube.com/watch?v=_etHH7s8oNQ "innovation en échographie")
 <!-- {p:.gallerie} -->
 
+
+## une liste d'organes
+
+- Foie
+  - Hépatite virale
+  - Stéatose hépatique
+  - Cirrhose
+- Pancréas
+  - Pancréatite aiguë
+  - Pancréatite chronique
+  - Tumeur pancréatique
 ## un diagramme Mermaid
 
 Ce scénario illustre le parcours type d’un patient venant réaliser un examen échographique dans un établissement de santé. Il s'agit d'un exemple fictif destiné à visualiser les différentes étapes, de l’arrivée du patient à l’hôpital jusqu’à son retour à domicile.
