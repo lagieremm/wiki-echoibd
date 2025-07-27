@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-27T08:12:38.487Z
+date: 2025-07-27T08:14:13.766Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -25,7 +25,9 @@ dateCreated: 2025-07-26T06:57:18.097Z
 <!-- {p:.gallerie} -->
 
 
-## une liste d'organes
+## une liste de pathologies digestives courantes par organe
+
+La liste suivante présente des **exemples de pathologies** associées à certains **organes digestifs** pris en charge en gastro-entérologie.
 
 - Foie
   - Hépatite virale
