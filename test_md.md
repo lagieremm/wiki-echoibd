@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-27T08:14:26.350Z
+date: 2025-07-27T08:14:52.551Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -37,7 +37,8 @@ La liste suivante présente des **exemples de pathologies** associées à certai
   - Pancréatite aiguë
   - Pancréatite chronique
   - Tumeur pancréatique
-## un diagramme Mermaid
+  
+## Un diagramme Mermaid, le parcours de patient
 
 Ce scénario illustre le parcours type d’un patient venant réaliser un examen échographique dans un établissement de santé. Il s'agit d'un exemple fictif destiné à visualiser les différentes étapes, de l’arrivée du patient à l’hôpital jusqu’à son retour à domicile.
 Chaque phase met en lumière l’implication du **soigné** (le patient) et du **soignant** (infirmier, échographiste, personnel administratif…), selon leur rôle respectif dans le déroulement de l’examen.
