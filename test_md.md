@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-27T07:59:55.372Z
+date: 2025-07-27T08:04:17.440Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -42,7 +42,6 @@ journey
       Explication de la procédure: 5: Soignant
       Préparation physique (vêtements, gel, etc.): 3: Soigné, Soignant
 ```
-
 ### Partie 2 : De la réalisation de l’examen jusqu’au retour à domicile
 ```mermaid
 journey
@@ -60,6 +59,17 @@ journey
       Retour à domicile: 5: Soigné
 ```
 
-Salut, madame la sonde,
-cette partie a été éditée sur github
+## une table
+
+| Usage de l’échographie                  | Description                                    | Part  de l’usage total (%) |
+|-----------------------------------|------------------------------------------------------|----------------------------|
+| Obstétrique / Gynécologie         | Suivi de grossesse, exploration pelvienne            | 40%                        |
+| Abdominale                        | Foie, reins, vésicule biliaire, rate, pancréas       | 20%                        |
+| Vasculaire (Doppler)              | Veines, artères, circulation sanguine                | 15%                        |
+| Musculo-squelettique              | Tendons, muscles, ligaments                          | 10%                        |
+| Cardiaque (échocardiographie)     | Fonction cardiaque, valves, péricarde                | 8%                         |
+| Thyroïdienne / cervicale          | Thyroïde, ganglions, glandes salivaires              | 5%                         |
+| Autres                            | Divers examens spécifiques ou guidés                 | 2%                         |
+
+
 
