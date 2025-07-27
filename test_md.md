@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-27T07:56:11.641Z
+date: 2025-07-27T07:59:55.372Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -25,9 +25,13 @@ dateCreated: 2025-07-26T06:57:18.097Z
 <!-- {p:.gallerie} -->
 
 ## un diagramme Mermaid
+
+Ce scénario illustre le parcours type d’un patient venant réaliser un examen échographique dans un établissement de santé. Il s'agit d'un exemple fictif destiné à visualiser les différentes étapes, de l’arrivée du patient à l’hôpital jusqu’à son retour à domicile.
+Chaque phase met en lumière l’implication du **soigné** (le patient) et du **soignant** (infirmier, échographiste, personnel administratif…), selon leur rôle respectif dans le déroulement de l’examen.
+
+### Parcours du patient - Partie 1 : Accueil et préparation
 ```mermaid
 journey
-    title Parcours du patient pour un examen échographique
     section Accueil à l'hôpital
       Arrivée à l'accueil: 5: Soigné
       Enregistrement administratif: 4: Soigné, Soignant
@@ -37,6 +41,12 @@ journey
       Installation dans la salle: 4: Soigné, Soignant
       Explication de la procédure: 5: Soignant
       Préparation physique (vêtements, gel, etc.): 3: Soigné, Soignant
+```
+
+### Partie 2 : De la réalisation de l’examen jusqu’au retour à domicile
+```mermaid
+journey
+    title Parcours du patient - Partie 2 : Examen et sortie
     section Réalisation de l'examen
       Mise en place de l'équipement: 3: Soignant
       Réalisation de l'échographie: 5: Soigné, Soignant
@@ -48,7 +58,6 @@ journey
     section Sortie
       Passage au secrétariat: 3: Soigné
       Retour à domicile: 5: Soigné
-
 ```
 
 Salut, madame la sonde,
