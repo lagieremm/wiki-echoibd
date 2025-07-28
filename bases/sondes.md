@@ -2,7 +2,7 @@
 title: Les différentes sondes
 description: 
 published: true
-date: 2025-07-28T17:16:50.226Z
+date: 2025-07-28T17:19:22.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
@@ -49,3 +49,11 @@ Repérer des **complications** : sténoses, abcès, fistules.
 **Inconvénient :** 
 - Moins de pénétration → limitée aux structures superficielles (jusqu’à ~4–5 cm de profondeur) 
 - ne voit pas les structures au delà (notamment pour le rectum qui est rarement accessible par voie transvésicale en haute fréquence (on pourra souvent y accéder par voie transpérinéale).
+# Sonde microconvexe (moins répendue)
+**Utilisation :** 
+- Zones difficiles d’accès
+- pédiatrie.
+
+**Avantages :** 
+- Bon compromis entre résolution et pénétration
+- Ergonomie.
