@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi digestive normale
 description: 
 published: true
-date: 2025-07-28T17:38:48.736Z
+date: 2025-07-28T17:38:54.129Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:33:23.923Z
