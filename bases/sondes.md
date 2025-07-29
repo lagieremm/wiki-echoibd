@@ -2,7 +2,7 @@
 title: Les différentes sondes
 description: 
 published: true
-date: 2025-07-28T17:22:26.097Z
+date: 2025-07-29T07:47:27.515Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
@@ -63,6 +63,7 @@ On utilise souvent les deux types de sondes, toutes deux indispensables :
 **Sonde BF :**
 - repérage global des structures (colon, estomac)
 - recherche de complications (épanchement, abcès, infiltration de la graisse).
+
 **Sonde HF :**
-- analyse fin de la paroi (épaisseur pariétale, stratification, doppler) 
+- analyse fine de la paroi (épaisseur pariétale, stratification, Doppler) 
 - **indispensable**, on ne peut pas faire d'étude précise de la paroi sans une sonde haute fréquence
