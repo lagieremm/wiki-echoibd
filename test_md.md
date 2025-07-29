@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-29T15:02:27.885Z
+date: 2025-07-29T15:02:47.844Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -138,7 +138,7 @@ La figure 1 illustre les 5 couches de la paroi :
 1. la sous muqueuse (hyper échogène)
 1. la musculeuse (hypo échogène)
 1. l'interface séreuse-extérieur du tube (hyper échogène)
-{ol:.right}
+{list:.right}
 
 ![paroi_interface_5.png](/schémas/paroi_interface_5.png =200x)
 
