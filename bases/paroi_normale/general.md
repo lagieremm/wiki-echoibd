@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi digestive (généralités)
 description: 
 published: true
-date: 2025-07-29T05:27:51.478Z
+date: 2025-07-29T05:28:05.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:24:56.898Z
