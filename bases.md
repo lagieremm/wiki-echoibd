@@ -2,7 +2,7 @@
 title: Les bases de l'échographie intestinale
 description: 
 published: true
-date: 2025-07-29T07:53:24.612Z
+date: 2025-07-29T07:53:27.264Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:11:36.899Z

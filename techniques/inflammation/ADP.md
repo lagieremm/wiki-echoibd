@@ -2,7 +2,7 @@
 title: Les ganglions inflammatoires
 description: 
 published: true
-date: 2025-07-28T19:19:09.534Z
+date: 2025-07-28T19:19:11.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:19:09.534Z
