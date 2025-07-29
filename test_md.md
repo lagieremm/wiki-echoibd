@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-29T14:37:34.312Z
+date: 2025-07-29T14:42:03.761Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -118,7 +118,7 @@ Logiciel -> Utilisateur : Confirmer arrêt et sauvegarder l'image
 
 ## figure
 
-![figure 1: les 5 couches de la paroi](/schémas/paroi_interface_5.png)
+![figure 1: les 5 couches de la paroi](/schémas/paroi_interface_5.png "un texte pour l'image")
 
 La figure 1 illustre les 5 couches de la paroi :
 1. l'interface avec la lumière (hyper échogène)
