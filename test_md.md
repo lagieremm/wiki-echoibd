@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-29T09:37:39.556Z
+date: 2025-07-29T10:25:09.011Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -113,3 +113,25 @@ Utilisateur -> Sonde : Arrêter la capture
 Sonde -> Logiciel : Envoyer signal d’arrêt
 Logiciel -> Utilisateur : Confirmer arrêt et sauvegarder l'image
 ```
+
+
+
+## figure
+
+![figure 1: les 5 couches de la paroi](/schémas/paroi_interface_5.png)
+
+La figure 1 illustre les 5 couches de la paroi :
+1. l'interface avec la lumière (hyper échogène)
+1. la muqueuse (hypo échogène)
+1. la sous muqueuse (hyper échogène)
+1. la musculeuse (hypo échogène)
+1. l'interface séreuse-extérieur du tube (hyper échogène)
+
+## markdown + attributes
+
+![paroi_interface_5.png](/schémas/paroi_interface_5.png){.img-right width=200}
+1. l'interface avec la lumière (hyper échogène)
+1. la muqueuse (hypo échogène)
+1. la sous muqueuse (hyper échogène)
+1. la musculeuse (hypo échogène)
+1. l'interface séreuse-extérieur du tube (hyper échogène)
