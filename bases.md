@@ -2,7 +2,7 @@
 title: Les bases de l'échographie intestinale
 description: 
 published: true
-date: 2025-07-28T17:24:01.817Z
+date: 2025-07-29T07:53:24.612Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:11:36.899Z
@@ -13,4 +13,4 @@ dateCreated: 2025-07-28T16:11:36.899Z
 - Préparation du patient
 - [Les sondes](/bases/sondes)
 - [Paroi normale en échographie](/bases/paroi_normale)
-- Paroi inflammée
+- [Paroi inflammée](/bases/paroi_inflammee/bases)
