@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-07-29T09:08:29.493Z
+date: 2025-07-29T09:17:03.883Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -18,3 +18,5 @@ La paroi du tube digestif a toujours 5 couches en échographie mais son aspect v
 - Sa musculeuse (4 ième hypoéchogène) est très épaissie
 - On peut voir les plis gastriques (aspect en rayon de roue)
 - La paroi normale peut être très épaisse (6 mm) notament lorsque l'estomac n'est pas distendu.
+
+![pylore_duod.jpg](/images typiques anatomie/pylore_duod.jpg)
