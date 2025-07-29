@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-29T15:34:48.020Z
+date: 2025-07-29T15:35:46.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -132,7 +132,7 @@ La figure 1 illustre les 5 couches de la paroi :
 ## markdown + attributes
 
 
-![Figure 1](/schémas/paroi_interface_5.png  "Figure 1" =200x) 
+![Figure 1](/schémas/paroi_interface_5.png =250x) 
 
 La figure 1 illustre les 5 couches de la paroi 
 1. l'interface avec la lumière (hyper échogène)  
