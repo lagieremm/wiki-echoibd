@@ -2,15 +2,15 @@
 title: Les différentes sondes
 description: 
 published: true
-date: 2025-07-29T07:47:27.515Z
+date: 2025-07-29T07:51:34.982Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
 ---
 
 # Les deux grands types de sondes en échographie intestinale
-Il existe deux grands types de sonde utilisées en échographie du tube digestifs, toutes deux indispensable
-## Sonde convexe,basse fréquence (BF) en général 1-5 MHZ
+Il existe deux grands types de sonde utilisées en échographie du tube digestifs, toutes deux indispensables.
+## Sonde convexe, basse fréquence (BF) en général 1-5 MHZ
 ![image.jpg](/image.jpg)
 **Utilisation** : 
 - Permet une vue d’ensemble de l’abdomen
