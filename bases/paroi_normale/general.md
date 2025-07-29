@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi digestive (généralités)
 description: 
 published: true
-date: 2025-07-29T09:46:10.011Z
+date: 2025-07-29T09:53:52.028Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:24:56.898Z
@@ -28,6 +28,17 @@ Les 5 couches sont (de la lumière à l'extérieur du tube)
 1. la musculeuse (hypo échogène)
 1. l'interface séreuse-extérieur du tube (hyper échogène) 
 
+
+
+
+![figure 1: les 5 couhces de la paroi](/schémas/paroi_interface_5.png)
+
+La figure 1 illustre les 5 couches de la paroi :
+1. l'interface avec la lumière (hyper échogène)
+1. la muqueuse (hypo échogène)
+1. la sous muqueuse (hyper échogène)
+1. la musculeuse (hypo échogène)
+1. l'interface séreuse-extérieur du tube (hyper échogène)
 
 
 ## Aspects particuliers
