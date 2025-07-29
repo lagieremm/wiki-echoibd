@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-29T09:37:12.902Z
+date: 2025-07-29T09:37:39.556Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -13,7 +13,7 @@ dateCreated: 2025-07-26T06:57:18.097Z
 ## une galerie d'images
 
 ![image.jpg](/image.jpg) ![iléïte.jpg](/iléïte.jpg) ![sigmoide7_copie.jpg](/mccolique1/sigmoide7_copie.jpg)
-<!-- {p:.gallerie} -->
+<!-- {p:.galerie} -->
 
 ## une video youtube
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](https://youtube.com/watch?v=_etHH7s8oNQ "Video Title")
@@ -22,7 +22,7 @@ dateCreated: 2025-07-26T06:57:18.097Z
 ## une video et des images dans une gallerie
 
 ![illleon_dopplercopie.jpg](/illleon_dopplercopie.jpg) ![iléon14_copie.jpg](/iléon14_copie.jpg) [![innovation en échographie](https://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](https://youtube.com/watch?v=_etHH7s8oNQ "innovation en échographie")
-<!-- {p:.gallerie} -->
+<!-- {p:.galerie} -->
 
 
 ## Une liste de pathologies digestives courantes par organe
