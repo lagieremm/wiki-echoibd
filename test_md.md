@@ -2,15 +2,15 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-28T15:23:11.915Z
+date: 2025-07-29T09:37:12.902Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
 ---
 
-# Test de gallerie d'images et videos
+# Test de galerie d'images et videos
 
-## une gallerie d'images
+## une galerie d'images
 
 ![image.jpg](/image.jpg) ![iléïte.jpg](/iléïte.jpg) ![sigmoide7_copie.jpg](/mccolique1/sigmoide7_copie.jpg)
 <!-- {p:.gallerie} -->
