@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-07-29T15:35:49.765Z
+date: 2025-07-30T04:07:55.701Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -118,9 +118,9 @@ Logiciel -> Utilisateur : Confirmer arrêt et sauvegarder l'image
 - [Installation Guide *Detailed installation instructions for all platforms.*](/install)
 {.links-list}
 
-## figure
+## attributs d'image
 
-![**figure 1:** les 5 couches de la paroi](/schémas/paroi_interface_5.png)
+![**figure 1:** les 5 couches de la paroi](/schémas/paroi_interface_5.png =250x)
 
 La figure 1 illustre les 5 couches de la paroi :
 1. l'interface avec la lumière (hyper échogène)
@@ -132,7 +132,14 @@ La figure 1 illustre les 5 couches de la paroi :
 ## markdown + attributes
 
 
-![Figure 1](/schémas/paroi_interface_5.png =250x) 
+<Figure id="fig1">
+  <img src="/schémas/paroi_interface_5.png" width=200 />
+  <figcaption>Figure 1</figcaption>
+ </Figure>
+ 
+ 
+
+
 
 La figure 1 illustre les 5 couches de la paroi 
 1. l'interface avec la lumière (hyper échogène)  
