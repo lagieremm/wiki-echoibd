@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-01T17:57:22.169Z
+date: 2025-08-01T17:58:39.317Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -14,13 +14,12 @@ En échographie (comme en écho-endoscopie) **la paroi digestive est faite de 5 
 Cet aspect est toujours retrouvé quel que soit le segment anatomique (œsophage, estomac, jéjunum, iléon, colon, rectum et même appendice).
 
 
-Les 5 couches sont (successivement de la lumière vers l'extérieur du tube)
+Les 5 couches sont (successivement de la lumière vers l'extérieur du tube et cela correspond assez bien à l'histologie).
 
 
 **1.  l'interface avec la lumière** (hyper échogène)**<br>2.  la muqueuse** (hypo échogène)**<br>3.  la sous muqueuse** (hyper échogène)**<br>4.  la musculeuse** (hypo échogène)**<br>5.  l'interface séreuse**-extérieur du tube (hyper échogène) 
 ![](/schémas/paroi_interface5-2.png)
-Les interfaces (couches 1 et 5 ) ne varient pas, on peut donc les négliger. 
-Cela correspond assez bien à l'histologie   
+Les interfaces (couches 1 et 5 ) ne varient pas, on peut donc les négliger.  
 Il faut donc en connaitre uniquement  3 :"deux noires entourant une blanche"
 
 **La 2°  hypo = muqueuse**
