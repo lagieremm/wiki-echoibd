@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-01T10:39:08.343Z
+date: 2025-08-01T10:41:05.867Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -67,9 +67,9 @@ En endoscopie les images correspondent l’iléon est inflammé mais présente u
 
 |     |     |
 | --- | --- |
-| ![](/mccolique1/iléon86940032.jpg)<br><br>Inflammation de l'iléon mais structure en couche globalement conservée | ![](/mccolique1/38_202506111006086940038.jpg) |
-| ![](/42_202506111006086940042_copie.jpg)<br><br>Structure en couche conservée | ![](/illleon_dopplercopie.jpg)<br><br>Iléon couches préservées mais Limberg 3, graisse infiltrée |
-| ![](/iléon015_copie.jpg)<br><br>Iléon correspond aux images échographique pas d'ulcération creusante | ![](/iléon14_copie.jpg)<br><br>Iléon atteint mais  pas d'ulcèrations creusantes |
+| ![iléon, structure en couches conservée](/mccolique1/iléon86940032.jpg)<br><br>Inflammation de l'iléon mais structure en couche globalement conservée | ![iléon](/mccolique1/38_202506111006086940038.jpg) |
+| ![iléon transverse](/42_202506111006086940042_copie.jpg)<br><br>Structure en couche conservée | ![Iléon doppler](/illleon_dopplercopie.jpg)<br><br>Iléon couches préservées mais Limberg 3, graisse infiltrée |
+| ![Endoscopie lésions iléales non creusantes](/iléon015_copie.jpg)<br><br>Iléon correspond aux images échographique pas d'ulcération creusante | ![Iléon, lésions non creusantes](/iléon14_copie.jpg)<br><br>Iléon atteint mais  pas d'ulcèrations creusantes |
 
 ## Films échographiques
 
