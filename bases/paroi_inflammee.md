@@ -2,7 +2,7 @@
 title: Modifications échographiques de la paroi en cas d'inflammation
 description: 
 published: true
-date: 2025-08-01T07:04:42.569Z
+date: 2025-08-01T07:06:03.062Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T17:48:25.260Z
@@ -24,10 +24,10 @@ les modifications vont faciliter le repérage de l'anse inflammée et rendre la 
 
 On peut voir 4 types de modifications échographiques,
 
-## Des modifications pariérales :
-- [L'épaississement](/bases/paroi_inflammee/epaississement)
+### Des modifications pariérales :
+- [L'épaississement](/bases/paroi_inflammee/epaississement) c'est l'élément le plus important!
 - [L'hyperactivité Doppler](/bases/paroi_inflammee/doppler)
 
-## Des modifications extra-pariétales
+### Des modifications extra-pariétales
 - [Inflammation de la graisse péri-intestinale](/bases/paroi_inflammee/graisse)
 - [Adénopathies](/bases/paroi_inflammee/adp)
