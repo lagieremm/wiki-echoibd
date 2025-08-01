@@ -2,7 +2,7 @@
 title: Modifications échographiques de la paroi en cas d'inflammation
 description: 
 published: true
-date: 2025-08-01T06:57:40.825Z
+date: 2025-08-01T06:57:53.674Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T17:48:25.260Z
@@ -18,4 +18,4 @@ Par contre, lors de l'inflammation on peut voir 4 types de modifications échogr
 
 ## Des modifications extra-pariétales
 - [Inflammation de la graisse péri-intestinale](/bases/paroi_inflammee/graisse)
-- [adénopathies](/bases/paroi_inflammee/adp)
+- [Adénopathies](/bases/paroi_inflammee/adp)
