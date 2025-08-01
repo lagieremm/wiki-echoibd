@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-01T07:21:15.845Z
+date: 2025-08-01T11:32:35.811Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -21,11 +21,24 @@ La paroi du tube digestif a toujours 5 couches en échographie mais son aspect v
 
 ![pylore_duod.jpg](/images typiques anatomie/pylore_duod.jpg)![antre_bf.bmp](/images typiques anatomie/antre_bf.bmp
 ## Jéjunum
+Il faut très bien connaitre cet aspect avant tout pour éviter les erreurs d'interprétation (on peut voir du jejunum dans tout les secteurs de l'abdomen lorsque l'on cherche à visualiser l'iléon ou le colon).
+La paroi du jejunum a un aspect typique "feuilleté" lié à la visualisation des valvules conniventes. Cet aspect est très marqué au niveau du jejunum proximal et va en diminuant vers l'iléon.
+De plus ces portions ont un peristaltisme important.
+En cas de doute la prise de boisson stimule le péristaltisme de l'anse.
+
 ## Iléon
+Ne présente jamais de valvule (sinon c'est du jéjunum).
+Péristaltisme important.
+Lorsque l'on pense regarder l'iléon terminal, il faut toujours tenter de le relier à la valvule.
 ## Colon
 ## Région iléo-caecale
+
 ## valvule
+aspect en "w" lié aux deux berges de la valvule (généralement hyperéchogènes) rentrant dans le caecum. 
 ## Appendice
+très fin relié au caecum, 
+Pas de péristaltisme propre
+Souvent posé sur le psoas.
 ## Rectum
 
 
