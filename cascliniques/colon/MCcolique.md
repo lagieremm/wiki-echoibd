@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-01T10:41:05.867Z
+date: 2025-08-01T11:14:57.214Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -77,6 +77,7 @@ En endoscopie les images correspondent l’iléon est inflammé mais présente u
 ![Film du sigmoide et du colon gauche](https://player.vimeo.com/video/1102723807)
 
 ### Film du transverse droit et gauche
+{{vimeo>1102723857?medium}}
 
 [colon droit](https://player.vimeo.com/video/1102723937)
 
