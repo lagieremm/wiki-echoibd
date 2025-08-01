@@ -2,7 +2,7 @@
 title: La paroi intestinale en échographie
 description: 
 published: true
-date: 2025-08-01T17:25:33.190Z
+date: 2025-08-01T17:26:51.155Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T17:25:33.190Z
