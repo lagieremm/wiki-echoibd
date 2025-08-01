@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-01T16:48:22.665Z
+date: 2025-08-01T16:49:24.195Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -26,7 +26,7 @@ C'est la même structure échographique que l'écho endoscopie
 | ![](/images typiques anatomie/pylore_duodénum1202_152904_image_copie.jpg) | Exemple au niveau de l'antre gastrique, en coupe longitudinale estomac vide (noter l'importance de la musculeuse, 4 ième couche hypoéchogène à ce niveau, beaucoup plus épaisse que la couche hypoéchogène de la muqueuse à peine visible). |
 # Quelques aspects particuliers
 ## En cas de présence de matière (air)
-On ne voit que la paroi antérieure | ![](/schémas/caecum_air-13.jpg)
+On ne voit que la paroi antérieure (colon droit et caecum notamment) | ![](/schémas/caecum_air-13.jpg)
 ## Tube digestif vide
 ### 2 parois bien visibles (10 couches)
 ![](/schémas/10_couches_bien_séparées.jpg) 
