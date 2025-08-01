@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi digestive normale
 description: 
 published: true
-date: 2025-07-29T08:39:15.077Z
+date: 2025-08-01T17:41:06.933Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:33:23.923Z
@@ -12,4 +12,3 @@ dateCreated: 2025-07-28T16:33:23.923Z
 
 - [Aspect général de la paroi intestinale normale en échographie](/bases/paroi_normale/general)
 - [Modifications de l'aspect de la paroi selon les segments du tube digestif](/bases/paroi_normale/variation_siege)
-- Différents aspects à connaitre
