@@ -2,7 +2,7 @@
 title: Modifications échographiques de la paroi en cas d'inflammation
 description: 
 published: true
-date: 2025-08-01T07:06:03.062Z
+date: 2025-08-01T07:09:29.576Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T17:48:25.260Z
@@ -20,12 +20,12 @@ elle peut faire 1 mm,
 
 les modifications vont faciliter le repérage de l'anse inflammée et rendre la paroi visible
 
-----> **plus l'inflammation est intense plus les lésions sont faciles à voir.**
+----> **plus l'inflammation est intense plus les lésions sont faciles à voir.**![Modifications liées à l'inflammation.jpg](/schémas/nle-_inf_def.jpg)
 
 On peut voir 4 types de modifications échographiques,
 
 ### Des modifications pariérales :
-- [L'épaississement](/bases/paroi_inflammee/epaississement) c'est l'élément le plus important!
+- [L'épaississement](/bases/paroi_inflammee/epaississement) c'est l'élément le plus important!![epais.jpg](/schémas/epais.jpg)
 - [L'hyperactivité Doppler](/bases/paroi_inflammee/doppler)
 
 ### Des modifications extra-pariétales
