@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-01T17:58:39.317Z
+date: 2025-08-01T18:01:11.242Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -30,11 +30,12 @@ Cela correspond assez bien à l'histologie
 **L'épaisseur** se mesure de la muqueuse à la musculeuse
 
 ![](/schémas/capture_d’écran_2025-07-20_à_19.02.19_copie.png)
-Lorsque l'on regarde une anse intestinale on voit donc 2 séries de 5 couches inversées par rapport à la lumière intestinale |
+Lorsque l'on regarde une anse intestinale, les échos atteignent en premier **la paroi antérieure**, puis celles de la **paroi postéieure**
+on voit donc 2 séries de 5 couches inversées par rapport à la lumière intestinale
+Les couches sont dédoublées  (54321 lumière puis 12345)
 ![](/schémas/schéma_double_paroi.jpg)
 ![](/images typiques anatomie/paroi_nle_copie.jpg)
-Les échos atteignent en premier la paroi antérieure, puis celles de la paroi postéieure
-Donc les couches sont dédoublées  (54321 lumière puis 12345)
+
 
 Il faut bien repérer les 2 couches "noires" entourant la"blanche"
 la couche “blanche”, hyperéchogène représente représente le "centre" de la paroi. |
