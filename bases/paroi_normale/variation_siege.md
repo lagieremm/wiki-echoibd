@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-01T07:19:41.745Z
+date: 2025-08-01T07:21:00.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -22,5 +22,10 @@ La paroi du tube digestif a toujours 5 couches en échographie mais son aspect v
 ![pylore_duod.jpg](/images typiques anatomie/pylore_duod.jpg)![antre_bf.bmp](/images typiques anatomie/antre_bf.bmp
 ## Jéjunum
 ## Iléon
+## Colon
+## Région iléo-caecale
+## valvule
+## Appendice
+## Rectum
 
 
