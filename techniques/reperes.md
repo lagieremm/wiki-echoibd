@@ -2,7 +2,7 @@
 title: Technique d'examen et repères anatomiques
 description: Comment ne pas être perdu?
 published: true
-date: 2025-08-01T13:51:45.599Z
+date: 2025-08-01T14:03:32.290Z
 tags: repères anatomiques
 editor: markdown
 dateCreated: 2025-07-10T22:03:15.885Z
@@ -23,4 +23,6 @@ Il faut donc avoir de bons repères pour se raccrocher et reconstruire les image
 ## En pratique
 
 
-On voit bien :<br><br>-   l'iléon terminal<br>-   le colon<br><br>À ce niveau (échographie=Scanner=IRM)<br><br>On voit mal :<br><br>-   le jéjunum<br>-   le rectum<br><br>À ce niveau (échographie< IRM )<br><br>L'IRM est supérieure à l'échographie pour la cartographie des lésions.  ![](/schémas/schéma_colon-grèle.jpg){width=100}
+On voit bien :<br><br>-   l'iléon terminal<br>-   le colon<br><br>À ce niveau (échographie=Scanner=IRM)<br><br>On voit mal :<br><br>-   le jéjunum<br>-   le rectum<br><br>À ce niveau (échographie< IRM )<br><br>L'IRM est supérieure à l'échographie pour la cartographie des lésions.  ![](/schémas/schéma_colon-grèle.jpg)alt="drawing" width="50%"/>
+
+
