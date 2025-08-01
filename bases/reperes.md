@@ -2,7 +2,7 @@
 title: Technique d'examen et repères anatomiques
 description: Comment ne pas être perdu?
 published: true
-date: 2025-08-01T14:03:32.290Z
+date: 2025-08-01T14:06:25.261Z
 tags: repères anatomiques
 editor: markdown
 dateCreated: 2025-07-10T22:03:15.885Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-10T22:03:15.885Z
 
 La première fois qu'on regarde le tube digestif d'un patient en échographie on ne peut qu'être perdu.
 
-1.  La plupart des portions du tube digestifs contiennent de l'air, l'air est  un obstacle à la propagation des échos et gène à l'exploration des organes pleins.
+1.  La plupart des portions du tube digestifs contiennent de l'air, l'air est un obstacle à la propagation des échos et gène l'exploration des organes pleins.
 2.  il y a une grande variation anatomique des différentes portions du tube digestif d'un patient à l'autre notamment du colon
 
 ## Les repères 
