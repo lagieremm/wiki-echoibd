@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-01T10:35:47.464Z
+date: 2025-08-01T10:39:08.343Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -55,9 +55,9 @@ En coupe longitudinale, paroi très épaissie (8 mm) irrégulière, asymétrique
 
 |     |     |
 | --- | --- |
-| ![](/mccolique1/caecum_longitudinal-_copie.jpg)<br><br>Colon droit coupe longitudinale, lésions sévères mais structure en couche encore visible | ![](/mccolique1/49_202506111006086940049.jpg)<br><br>Inflammation de la graisse péricaecale |
-| ![](/mccolique1/iléocaecum_045_copie.jpg)<br><br>Caecum , valvule et iléon atteints | ![](/mccolique1/gg_iléon_copie_2.jpg)<br><br>Volumineuses adénopathies en dedans du cæcum au dessus de l'iléon, graisse inflammée |
-| ![](/mccolique1/cd12_copie.jpg)<br><br>Colon droit | ![](/mccolique1/caecum17_copie.jpg)<br><br>Bas fond caecal |
+| ![Colon droit coupe longitudinale](/mccolique1/caecum_longitudinal-_copie.jpg)<br><br>Colon droit coupe longitudinale, lésions sévères mais structure en couche encore visible | ![Caecum](/mccolique1/49_202506111006086940049.jpg)<br><br>Inflammation de la graisse péricaecale |
+| ![Valvule](/mccolique1/iléocaecum_045_copie.jpg)<br><br>Caecum , valvule et iléon atteints | ![Adénopathies iléales](/mccolique1/gg_iléon_copie_2.jpg)<br><br>Volumineuses adénopathies en dedans du cæcum au dessus de l'iléon, graisse inflammée |
+| ![Colon droit vu de l'angle droit](/mccolique1/cd12_copie.jpg)<br><br>Colon droit | ![Caecum](/mccolique1/caecum17_copie.jpg)<br><br>Bas fond caecal |
 
 ### Iléon 
 
