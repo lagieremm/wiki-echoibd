@@ -2,14 +2,14 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-01T11:36:56.857Z
+date: 2025-08-01T13:05:43.280Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
 ---
 
 # Variation de l'aspect échographique normal selon les organes
-La paroi du tube digestif a toujours 5 couches en échographie mais son aspect varie selon les portions.
+La paroi du tube digestif a toujours 5 couches en échographie mais son aspect varie selon les portions, ce qui peut aider à se repérer.
 
 **L'estomac et le colon** (notamment sigmoïde) ont une musculeuse (4 ième hypoéchogène) épaissie.
 ## Estomac
