@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-01T13:05:43.280Z
+date: 2025-08-01T13:07:35.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -23,8 +23,8 @@ La paroi du tube digestif a toujours 5 couches en échographie mais son aspect v
 ## Jéjunum
 Il faut très bien connaitre cet aspect avant tout pour éviter les erreurs d'interprétation (on peut voir du jejunum dans tout les secteurs de l'abdomen lorsque l'on cherche à visualiser l'iléon ou le colon).
 La paroi du jejunum a un aspect typique "feuilleté" lié à la visualisation des valvules conniventes. Cet aspect est très marqué au niveau du jejunum proximal et va en diminuant vers l'iléon.
-De plus ces portions ont un peristaltisme important.
-En cas de doute la prise de boisson stimule le péristaltisme de l'anse.
+De plus cette partie du tube (comme l'ensemble du grêle) a un péristaltisme important.
+La prise de boisson stimule le péristaltisme de l'anse.
 
 ## Iléon
 Ne présente jamais de valvule (sinon c'est du jéjunum).
