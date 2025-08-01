@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-01T17:13:47.015Z
+date: 2025-08-01T17:15:00.954Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -45,7 +45,18 @@ De plus cette partie du tube (comme l'ensemble du grêle) a un péristaltisme im
 La prise de boisson stimule le péristaltisme de l'anse.
 
 ## Paroi de l'iléon
-Ne présente jamais de valvule (sinon c'est du jéjunum).
+Paroi normal extrêmement fine peut faire un millimètre
+
+Il n'y pas de valvules conniventes dans la lumière (contrairement au jéjunum)
+
+Péristaltisme important
+
+
+1,8 mm
+
+
+1,8 mm
+Ne présente jamais de valvule connivente (sinon c'est du jéjunum).
 Péristaltisme important.
 Lorsque l'on pense regarder l'iléon terminal, il faut toujours tenter de le relier à la valvule.
 ## Paroi du côlon
