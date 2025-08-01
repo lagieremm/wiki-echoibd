@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-01T14:34:11.617Z
+date: 2025-08-01T16:42:36.070Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -24,7 +24,11 @@ C'est la même structure échographique que l'écho endoscopie
 | ![](/schémas/schéma_double_paroi.jpg) | Lorsque l'on regarde une anse intestinale on voit donc 2 séries de 5 couches inversées par rapport à la lumière intestinale |
 | ![](/images typiques anatomie/paroi_nle_copie.jpg) | -   Les échos atteignent en premier la paroi antérieure, puis celles de la paroi postéieure<br>-   donc les couches sont dédoublées  (54321 lumière puis 12345)<br>-   Il faut bien repérer les 2 couches "noires" entourant la"blanche", la couche “blanche”,  hyperéchogène représente représente le "centre" de la paroi. |
 | ![](/images typiques anatomie/pylore_duodénum1202_152904_image_copie.jpg) | Exemple au niveau de l'antre gastrique, en coupe longitudinale estomac vide (noter l'importance de la musculeuse, 4 ième couche hypoéchogène à ce niveau, beaucoup plus épaisse que la couche hypoéchogène de la muqueuse à peine visible). |
-| En cas de présence de matière (air) on ne voit que la paroi antérieure | ![](/schémas/caecum_air-13.jpg) |
-| ![](/schémas/10_couches_bien_séparées.jpg) | Lorsque l'intestin est vide les couches superficielles des 2 parois<br><br> ( les deux interfaces avec la lumières ne sont parfois pas visibleset les 2 muqueuses) sont confondues.<br><br>On a un pseudo aspect à 7 couches, il faut chercher l'interface au centre de la couche hypoéchogène centrale crée par la fusion des deux couches muqueuses. |
+# Quelques aspects particuliers
+## En cas de présence de matière (air)
+On ne voit que la paroi antérieure | ![](/schémas/caecum_air-13.jpg)
+## Tube digestif vide
+### 2 parois bien visibles (10 couches)
+![](/schémas/10_couches_bien_séparées.jpg) | Lorsque l'intestin est vide les couches superficielles des 2 parois<br><br> ( les deux interfaces avec la lumières ne sont parfois pas visibleset les 2 muqueuses) sont confondues.<br><br>On a un pseudo aspect à 7 couches, il faut chercher l'interface au centre de la couche hypoéchogène centrale crée par la fusion des deux couches muqueuses. |
 | ![](/schémas/ppseudo_5_couches.jpg) |
 | ![](/images typiques anatomie/_simiod_nl_.jpg) | -   Exemple d'image du sigmoïde avec pseudo aspect à 7 couches<br>-   on ne distingue pas les parois antérieures et postérieures. |
