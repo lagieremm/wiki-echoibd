@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-01T10:29:16.254Z
+date: 2025-08-01T10:35:47.464Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -23,9 +23,9 @@ Alternance de plages où la paroi a une épaisseur quasi normale (3 mm) avec str
 
 |     |     |
 | --- | --- |
-| ![Sigmoide: inflammation transmurale focale](/mccolique1/24_202505281636458770024_copie.jpg)<br><br>Inflammation transmurale focale typique de la maladie de Crohn | ![](/mccolique1/32_202505281636458770032_copie.jpg)<br><br>Épaississement asymétrique (paroi antérieure très inflammée, paroi postérieure normale) |
-| ![](/mccolique1/25_202505281636458770025_copie.jpg)<br><br>Limberg 3 | ![](/mccolique1/28_202505281636458770028_copie.jpg)<br><br>Hyperactivité Doppler LImberg 3 |
-| ![](/mccolique1/rectum6_copie.jpg)<br><br>Charnière | ![](/mccolique1/sigmoide7_copie.jpg)<br><br>Sigmoïde ulcération creusante entourée de muqueuse peu atteinte |
+| ![Sigmoide: inflammation transmurale focale](/mccolique1/24_202505281636458770024_copie.jpg)<br><br>Inflammation transmurale focale typique de la maladie de Crohn | ![Transmural focal, graisse, ganglion](/mccolique1/32_202505281636458770032_copie.jpg)<br><br>Épaississement asymétrique (paroi antérieure très inflammée, paroi postérieure normale) |
+| ![Doppler limberg 3](/mccolique1/25_202505281636458770025_copie.jpg)<br><br>Limberg 3 | ![Limberg 3](/mccolique1/28_202505281636458770028_copie.jpg)<br><br>Hyperactivité Doppler LImberg 3 |
+| ![Endocopie charnière](/mccolique1/rectum6_copie.jpg)<br><br>Charnière | ![Sigmoide, ulcère creusant](/mccolique1/sigmoide7_copie.jpg)<br><br>Sigmoïde ulcération creusante entourée de muqueuse peu atteinte |
 
 ### Colon gauche
 
@@ -33,8 +33,8 @@ Lésions échographiques plus sévères avec toujours une répartition discontin
 
 |     |     |
 | --- | --- |
-| ![](/mccolique1/35_202505281636458770035_copie.jpg)<br><br>Inflammation discontinue, asymétrique, | ![](/mccolique1/9_202506111006086940009_copie.jpg)<br><br>Limberg 3 |
-| ![](/mccolique1/colon_gauche.jpg) | ![](/mccolique1/transveres10_copie.jpg)<br><br>Colon gauche lésions sévères discontinues |
+| ![Colite discontinue asymétrique](/mccolique1/35_202505281636458770035_copie.jpg)<br><br>Inflammation discontinue, asymétrique, | ![Limberg 3](/mccolique1/9_202506111006086940009_copie.jpg)<br><br>Limberg 3 |
+| ![Limberg 3](/mccolique1/colon_gauche.jpg) | ![Ulceration colique creusante](/mccolique1/transveres10_copie.jpg)<br><br>Colon gauche lésions sévères discontinues |
 
 ### Transverse
 
@@ -44,10 +44,10 @@ A droite, lésions sévères trans-murales mais plus discontinues, épaississeme
 
 |     |     |
 | --- | --- |
-| ![](/mccolique1/58_202505281636458780058_copie.jpg)<br><br>Transverse droit et gauche | ![](/mccolique1/13_202506111006086940013_copie.jpg)<br><br>transverse gauche atteinte transmurale circonférentielle, sténose partielle de la lumière |
-| ![](/mccolique1/41_202505281636458770041_copie.jpg) | ![](/mccolique1/23_202506111006086940023_.jpg)<br><br>atteinte transmurale circonférentielle |
-| ![](/mccolique1/transverse023_copie.jpg)<br><br>Transverse gauche atteinte circonférentielle lumière rétrécie | ![](/mccolique1/angle_droit_ves_2.jpg)<br><br>Angle droit au contact de la vésicule |
-| ![](/mccolique1/transv011_copie.jpg)<br><br>Transverse droit atteinte sévère mais lumière plus large |     |
+| ![transverse droit et gauche](/mccolique1/58_202505281636458780058_copie.jpg)<br><br>Transverse droit et gauche | ![transverse gauche](/mccolique1/13_202506111006086940013_copie.jpg)<br><br>transverse gauche atteinte transmurale circonférentielle, sténose partielle de la lumière |
+| ![transverse gauche](/mccolique1/41_202505281636458770041_copie.jpg) | ![transmural circonférentiel](/mccolique1/23_202506111006086940023_.jpg)<br><br>atteinte transmurale circonférentielle |
+| ![Atteinte circonférentielle](/mccolique1/transverse023_copie.jpg)<br><br>Transverse gauche atteinte circonférentielle lumière rétrécie | ![Angle droit](/mccolique1/angle_droit_ves_2.jpg)<br><br>Angle droit au contact de la vésicule |
+| ![transverse droit](/mccolique1/transv011_copie.jpg)<br><br>Transverse droit atteinte sévère mais lumière plus large |     |
 
 ### Colon droit 
 
