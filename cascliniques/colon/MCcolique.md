@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-01T10:15:10.765Z
+date: 2025-08-01T10:26:49.407Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -10,10 +10,10 @@ dateCreated: 2025-07-16T22:12:42.738Z
 
 # Maladie de Crohn colique (avec iléite modérée)
 
--   [ ] Patient 48 ans, diarrhée chronique depuis 6 mois, douleurs abdominales perte de 3 kg.
--   [ ] tabac 30 PA , alcool 3 l de bierre par jour
--   [ ] Antécédent familial de cancer colique chez sa mère, coloscopie 2021: polype festonné sessile
--   [ ] Biologie: 15200 GB CRP 58
+-    Patient 48 ans, diarrhée chronique depuis 6 mois, douleurs abdominales perte de 3 kg.
+-    tabac 30 PA , alcool 3 l de bierre par jour
+-   Antécédent familial de cancer colique chez sa mère, coloscopie 2021: polype festonné sessile
+-   Biologie: 15200 GB CRP 58
 
 ## Images échographiques et  endoscopique (la coloscopie est faite 15 jours plus tard)
 
@@ -74,12 +74,11 @@ En endoscopie les images correspondent l’iléon est inflammé mais présente u
 ## Films échographiques
 
 ### Film du sigmoïde et du colon gauche
-
-https://vimeo.com/1102723807
+![Film du sigmoide et du colon gauche](https://player.vimeo.com/video/1102723807)
 
 ### Film du transverse droit et gauche
 
-https://player.vimeo.com/video/1102723937
+[colon droit](https://player.vimeo.com/video/1102723937)
 
 ### Film du colon droit et du cæcum
 
