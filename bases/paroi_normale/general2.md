@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-01T18:01:50.229Z
+date: 2025-08-03T22:37:40.451Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -33,6 +33,7 @@ Cela correspond assez bien à l'histologie
 Lorsque l'on regarde une anse intestinale, les échos atteignent en premier **la paroi antérieure**, puis celles de la **paroi postérieure**
 on voit donc 2 séries de 5 couches inversées par rapport à la lumière intestinale
 Les couches sont dédoublées  (54321 lumière puis 12345)
+![double_paroi_site.jpg](/schemas/double_paroi_site.jpg)
 ![](/schémas/schéma_double_paroi.jpg)
 ![](/images typiques anatomie/paroi_nle_copie.jpg)
 
