@@ -2,13 +2,13 @@
 title: Aspect échographique de la paroi digestive (généralités)
 description: 
 published: true
-date: 2025-08-03T22:35:07.230Z
+date: 2025-08-05T18:49:49.061Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:24:56.898Z
 ---
 
-# Aspect échographique de la paroi digestive
+![paroisite2.png](/schemas/paroisite2.png)# Aspect échographique de la paroi digestive
 ## Généralités
 En échographie (comme en écho-endoscopie) la paroi digestive est faite de 5 couches. 
 
