@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-05T21:57:51.379Z
+date: 2025-08-05T22:00:23.184Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -57,6 +57,8 @@ On ne voit que la paroi antérieure (colon droit et caecum notamment)
 ## Tube digestif vide
 ### 2 parois bien visibles (10 couches)
 ![](/schémas/10_couches_bien_séparées.jpg) 
+
+
 ### Pseudo aspect à 7 couches
 Lorsque l'intestin est vide et qu'il y a fusion des images des interfaces avec la lumière et des couches muqueuses antérieure et postérieure
 (les deux interfaces lumière et les 2 muqueuses sont confondues).
