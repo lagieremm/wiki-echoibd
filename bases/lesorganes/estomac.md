@@ -2,7 +2,7 @@
 title: Estomac
 description: 
 published: true
-date: 2025-08-05T22:25:04.967Z
+date: 2025-08-05T22:26:40.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:16:00.811Z
@@ -23,7 +23,9 @@ Antre musculeuse épaisse et muqueuse à peine visible
 ![Antre, sonde BF.jpg](/anatomie_typique/antre_bf2.jpg)
 Antre sous le foie gauche, sonde BF, musculeuse très visible
 ![antre_hff_2_copie.jpg](/anatomie_typique/antre_hff_2_copie.jpg)
+Antre 
 ![Antre sonde HF](/anatomie_typique/antre_hfff.jpg)
+Antre musculeuse épaisse et plis visibles
 ![Antre sonde HF](/anatomie_typique/antre_hffpie.jpg)
-ANtre musculeuse très épaisse et plis gastriques dans la lumière
+Antre musculeuse très épaisse et plis gastriques dans la lumière
 ## repères et astuces
