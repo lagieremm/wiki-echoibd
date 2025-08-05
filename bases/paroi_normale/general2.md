@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-05T21:42:17.447Z
+date: 2025-08-05T21:55:03.523Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -51,7 +51,9 @@ la couche “blanche”, hyperéchogène représente représente le "centre" de
 
 # Quelques aspects particuliers
 ## En cas de présence de matière (air)
-On ne voit que la paroi antérieure (colon droit et caecum notamment) | ![](/schémas/caecum_air-13.jpg)
+On ne voit que la paroi antérieure (colon droit et caecum notamment)
+
+![](/schémas/caecum_air-13.jpg)
 ## Tube digestif vide
 ### 2 parois bien visibles (10 couches)
 ![](/schémas/10_couches_bien_séparées.jpg) 
@@ -59,5 +61,10 @@ On ne voit que la paroi antérieure (colon droit et caecum notamment) | ![](/sch
 Lorsque l'intestin est vide et qu'il y a fusion des images des interfaces avec la lumière et des couches muqueuses antérieure et postérieure
 (les deux interfaces lumière et les 2 muqueuses sont confondues).
 On a un pseudo aspect à 7 couches, il faut chercher l'interface au centre de la couche hypoéchogène centrale crée par la fusion des deux couches muqueuses.
-![](/schémas/ppseudo_5_couches.jpg)![](/images typiques anatomie/_simiod_nl_.jpg) 
-Exemple d'image du sigmoïde avec pseudo aspect à 7 couches<br>-   on ne distingue pas les parois antérieures et postérieures. |
+
+![Pseudofusion des couches superficielles](/schémas/ppseudo_5_couches.jpg)
+
+
+Exemple d'image du sigmoïde avec pseudo aspect à 7 coucheson ne distingue pas les parois antérieures et postérieures.
+
+![simiod_fusion couches.jpg](/anatomie_typique/simiod_fusion couches.jpg)
