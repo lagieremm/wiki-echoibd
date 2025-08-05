@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-05T21:55:03.523Z
+date: 2025-08-05T21:57:51.379Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -65,6 +65,7 @@ On a un pseudo aspect à 7 couches, il faut chercher l'interface au centre de la
 ![Pseudofusion des couches superficielles](/schémas/ppseudo_5_couches.jpg)
 
 
-Exemple d'image du sigmoïde avec pseudo aspect à 7 coucheson ne distingue pas les parois antérieures et postérieures.
+Exemple d'image des 2 parois du sigmoïde avec pseudo aspect à 7 couches
+on ne distingue pas les parois antérieures et postérieures (chaque paroi fait 1,9 mm).
 
-![simiod_fusion couches.jpg](/anatomie_typique/simiod_fusion couches.jpg)
+![_simiod_fusion_couches_.jpg](/anatomie_typique/_simiod_fusion_couches_.jpg)
