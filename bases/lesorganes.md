@@ -1,8 +1,8 @@
 ---
-title: Aspect échographique des diférentes portions du tube digestif
+title: Aspect échographique des différentes portions du tube digestif
 description: 
 published: true
-date: 2025-08-05T21:21:14.193Z
+date: 2025-08-05T21:21:40.299Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:13:06.020Z
