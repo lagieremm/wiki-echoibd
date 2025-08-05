@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-05T19:10:41.345Z
+date: 2025-08-05T19:12:53.378Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
