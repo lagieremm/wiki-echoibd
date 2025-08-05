@@ -2,7 +2,7 @@
 title: Estomac
 description: 
 published: true
-date: 2025-08-05T22:19:01.535Z
+date: 2025-08-05T22:25:04.967Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:16:00.811Z
@@ -17,6 +17,13 @@ On peut voir les plis gastriques dans la lumière (surtout à jeun)
 ![antre haute fréquence.jpg](/anatomie_typique/antre_hf2.jpg)
 Antre, musculeuse épaisse et plis gastriques visibles en rayon de roue
 
-![Antre sonde BF0.jpg](/anatomie_typique/antre_bf.jpg)
+![Antre sonde BF.jpg](/anatomie_typique/antre_bf.jpg)
 Antre musculeuse épaisse et muqueuse à peine visible
+
+![Antre, sonde BF.jpg](/anatomie_typique/antre_bf2.jpg)
+Antre sous le foie gauche, sonde BF, musculeuse très visible
+![antre_hff_2_copie.jpg](/anatomie_typique/antre_hff_2_copie.jpg)
+![Antre sonde HF](/anatomie_typique/antre_hfff.jpg)
+![Antre sonde HF](/anatomie_typique/antre_hffpie.jpg)
+ANtre musculeuse très épaisse et plis gastriques dans la lumière
 ## repères et astuces
