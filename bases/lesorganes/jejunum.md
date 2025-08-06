@@ -2,13 +2,15 @@
 title: Jéjunum
 description: 
 published: true
-date: 2025-08-06T17:36:57.557Z
+date: 2025-08-06T21:12:56.005Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:16:57.323Z
 ---
 
-![jejunum4.jpg](/anatomie_typique/jejunum4.jpg)![jejunum4.jpg](/anatomie_typique/jejunum4.jpg)# Jéjunum
+# Jéjunum
+
+
 ## Aspect
 Il faut très bien connaitre cet aspect typique car on peut rencontrer du jéjunum dans tous les cadrans de l'abdomen et cela permet rapidement de le différencié du colon ou de l'iléon.
 
