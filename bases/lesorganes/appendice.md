@@ -2,7 +2,7 @@
 title: Appendice
 description: 
 published: true
-date: 2025-08-06T17:44:15.181Z
+date: 2025-08-06T17:49:05.422Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:20:28.301Z
@@ -17,11 +17,23 @@ Toutes les couches sont visibles mais très petites
 Aspect de tube en long et de cible en tranversal
 
 ![appendice1](/anatomie_typique/appendice_1_copie.jpg)
-ici toutes les couches se voient
+
+Ci dessous toutes les couches se voient
 ![appendice 2](/anatomie_typique/appe2.jpg)
-![appe3.jpg](/anatomie_typique/appe3.jpg)
-![appendice_3.jpg](/anatomie_typique/appendice_3.jpg)
+
+Ci dessous coupe longitudinale tube de très petite taille
+![appendice 3.jpg](/anatomie_typique/appe3.jpg)
+
+Ci dessous image de l'iléon non inflammé et de l'appendice très proches
+![appendice_4.jpg](/anatomie_typique/appendice_3.jpg)
+
+Ci dessous iléon non inflammé et appendice en cible très proche
+![appendice_CT_cible.jpg](/anatomie_typique/appendice_ct_cible.jpg)
+
 ![appen6.jpg](/anatomie_typique/appen6.jpg)
-![appendice_ct_cible.jpg](/anatomie_typique/appendice_ct_cible.jpg)
+
+Ci dessous raccord en entonnoir et muqueuse bien visible
 ![append5ie_.jpg](/anatomie_typique/append5ie_.jpg)
+
+Ci dessous contenu parfois échogène de l'appendice
 ![app2_copie.jpg](/anatomie_typique/app2_copie.jpg)
