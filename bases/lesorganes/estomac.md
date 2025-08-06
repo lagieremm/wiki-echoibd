@@ -2,13 +2,13 @@
 title: Estomac
 description: 
 published: true
-date: 2025-08-05T22:29:03.761Z
+date: 2025-08-06T21:11:11.884Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:16:00.811Z
 ---
 
-# Paroi de l'estomac
+# Echographie de l'estomac
 ## aspects
 La paroi normale peut atteindre jusqu'à 6 mm
 La musculeuse est généralement très épaisse
