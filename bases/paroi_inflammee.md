@@ -2,7 +2,7 @@
 title: Modifications échographiques de la paroi en cas d'inflammation
 description: 
 published: true
-date: 2025-08-06T16:01:02.174Z
+date: 2025-08-06T16:01:46.773Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T17:48:25.260Z
@@ -28,7 +28,7 @@ Doppler= 0
 Graisse normale
 Pas de ganglion**
 ### Paroi inflammée
-![gang_site.jpg](/schemas/gang_site.jpg)
+![Paroi inflammée](/schemas/gang_site.jpg)
 **> 3 mm
 Doppler +
 Graisse inflammée
