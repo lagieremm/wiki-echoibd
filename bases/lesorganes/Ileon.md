@@ -2,13 +2,13 @@
 title: Ileon
 description: 
 published: true
-date: 2025-08-06T16:27:04.306Z
+date: 2025-08-06T21:11:36.089Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:17:40.305Z
 ---
 
-# Paroi de l'iléon
+# L'iléon
 ## Aspects
 Présente un péristaltisme important, (stimulé par boisson et alimentation) 
 Pas de relief dans la lumière (pas de valvules conniventes) **pas d'aspect feuilleté** sinon c'est du jéjunum
