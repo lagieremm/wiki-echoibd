@@ -2,7 +2,7 @@
 title: Jéjunum
 description: 
 published: true
-date: 2025-08-06T17:29:49.890Z
+date: 2025-08-06T17:36:57.557Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:16:57.323Z
@@ -18,5 +18,6 @@ Aspect typique feuilleté du jéjunum proximal lié à la présence des valvules
 ![jejunum](/anatomie_typique/jejunum1.jpg)
 ![jejunum](/anatomie_typique/jejunum2.jpg)
 ![jejunum](/anatomie_typique/jejunum3.jpg)
+![jejunum4.jpg](/anatomie_typique/jejunum4.jpg)
 ![jejunum_5.jpg](/anatomie_typique/jejunum_5.jpg)
 ## Repères
