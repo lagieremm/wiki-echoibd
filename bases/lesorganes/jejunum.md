@@ -2,7 +2,7 @@
 title: Jéjunum
 description: 
 published: true
-date: 2025-08-06T17:29:26.606Z
+date: 2025-08-06T17:29:49.890Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:16:57.323Z
