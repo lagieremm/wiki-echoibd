@@ -2,7 +2,7 @@
 title: Ileon
 description: 
 published: true
-date: 2025-08-06T16:26:12.009Z
+date: 2025-08-06T16:27:04.306Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:17:40.305Z
@@ -19,7 +19,7 @@ Il faut toujour essayer de le relier à la valvule au niveau de l'iléon termina
 ## Valvule iléo caecale
 La valvule se repère sur le bord interne du caecum (souvent à hauteur de l'ombilic)
 Sous forme d'un "w"
-On repère les deux lèvres épaissies hyperéchogène (du fait de la consistance graisseuse)
+On repère les deux lèvres épaissies hyperéchogène (du fait du contenu graisseux de la sous muqueuse)
 
 ![valvule_dessin.jpg](/schemas/valvule_dessin.jpg)
 ![valvule1.jpg](/anatomie_typique/valvule1.jpg)
