@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-07T22:06:47.189Z
+date: 2025-08-07T22:10:50.860Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -65,6 +65,7 @@ Iléon terminal- appendice
 
 ## Paroi du côlon
 En basse fréquence (BF) on repère surtout l'air colique sous forme de plages hyperéchogènes avec haustrations
+![colon_copie.jpg](/anatomie_typique/colon_copie.jpg)
 ## Région iléo-caecale
 
 ## valvule
