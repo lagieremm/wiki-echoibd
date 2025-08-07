@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-07T21:50:58.380Z
+date: 2025-08-07T22:06:47.189Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -60,7 +60,8 @@ Paroi normal extrêmement fine peut faire un millimètre
 1,8 mm
 ![ileon03_.jpg](/anatomie_typique/ileon03_.jpg)
 
-
+Iléon terminal- appendice
+![ileon-app.jpg](/anatomie_typique/ileon-app.jpg)
 
 ## Paroi du côlon
 En basse fréquence (BF) on repère surtout l'air colique sous forme de plages hyperéchogènes avec haustrations
