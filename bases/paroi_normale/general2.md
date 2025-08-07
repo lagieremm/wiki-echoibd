@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-05T22:05:05.465Z
+date: 2025-08-07T21:39:45.809Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -54,12 +54,15 @@ la couche “blanche”, hyperéchogène représente représente le "centre" de
 On ne voit que la paroi antérieure (colon droit et caecum notamment)
 
 ![](/schémas/caecum_air-13.jpg)
+
+Ci-dessous exemples d'iléon non pathologique paroi postérieure non visible
+![paroi_antérieure_seule_visible.jpg](/anatomie_typique/paroi_antérieure_seule_visible.jpg)
+![paroi_antérieure_seule_visible.2.jpg](/anatomie_typique/paroi_antérieure_seule_visible.2.jpg)
 ## Tube digestif vide
 ### 2 parois bien visibles (10 couches)
 ![2 parois bien visibles ](/schémas/10_couches_bien_séparées.jpg) 
 
-
-![iléon 2 mm.jpg](/anatomie_typique/iléon03_.jpg)![iléon normal.jpg](/anatomie_typique/ileeon_nl.jpg)
+![double_paroi_10_couches.jpg](/anatomie_typique/double_paroi_10_couches.jpg)
 ### Pseudo aspect à 7 couches
 Lorsque l'intestin est vide et qu'il y a fusion des images des interfaces avec la lumière et des couches muqueuses antérieure et postérieure
 (les deux interfaces lumière et les 2 muqueuses sont confondues).
@@ -72,3 +75,9 @@ Exemple d'image des 2 parois du sigmoïde avec pseudo aspect à 7 couches
 on ne distingue pas les parois antérieures et postérieures (chaque paroi fait 1,9 mm).
 
 ![_simiod_fusion_couches_.jpg](/anatomie_typique/_simiod_fusion_couches_.jpg)
+
+Autre exemple sigmoïde
+![pseudo_7_couches_2.jpg](/anatomie_typique/pseudo_7_couches_2.jpg)
+
+Autre exemple
+![pseudo_7_couches.jpg](/anatomie_typique/pseudo_7_couches.jpg)
