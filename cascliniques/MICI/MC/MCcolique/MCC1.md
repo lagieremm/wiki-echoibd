@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-10T19:43:56.652Z
+date: 2025-08-10T19:47:18.767Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -95,11 +95,15 @@ En endoscopie les images correspondent l’iléon est inflammé mais présente u
         allowfullscreen>
 </iframe>
 ### Film de l'iléon
-<iframe src="https://player.vimeo.com/video/1102723937"
-        width="640" height="360" frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen>
-</iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://player.vimeo.com/video/1102723937?dnt=1"
+          style="position:absolute;top:0;left:0;width:100%;height:100%;"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen>
+  </iframe>
+</div>
+
 
 ## Conclusion
 
