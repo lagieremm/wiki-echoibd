@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-10T14:03:22.213Z
+date: 2025-08-10T14:09:29.218Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -14,6 +14,12 @@ dateCreated: 2025-07-16T22:12:42.738Z
 -    tabac 30 PA , alcool 3 l de bierre par jour
 -   Antécédent familial de cancer colique chez sa mère, coloscopie 2021: polype festonné sessile
 -   Biologie: 15200 GB CRP 58
+
+<iframe src="https://player.vimeo.com/video/1102723937"
+        width="640" height="360" frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+</iframe>
 
 ## Images échographiques et  endoscopique (la coloscopie est faite 15 jours plus tard)
 
