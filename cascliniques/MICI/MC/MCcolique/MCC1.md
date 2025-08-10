@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-10T13:04:23.473Z
+date: 2025-08-10T13:58:05.728Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -72,6 +72,23 @@ En endoscopie les images correspondent l’iléon est inflammé mais présente u
 | ![Endoscopie lésions iléales non creusantes](/iléon015_copie.jpg)<br><br>Iléon correspond aux images échographique pas d'ulcération creusante | ![Iléon, lésions non creusantes](/iléon14_copie.jpg)<br><br>Iléon atteint mais  pas d'ulcèrations creusantes |
 
 ## Films échographiques
+https://vimeo.com/1102723807?share=copy#t=0
+https://player.vimeo.com/progressive_redirect/playback/1102723807/rendition/540p/file.mp4?loc=external&signature=2fefe50199dc205e3a1c09f9e8d2d3a0d08fd267f2574846dac06b2c452dd409
+<iframe src="https://vimeo.com/video/1102723807" 
+        width="640" 
+        height="360" 
+        frameborder="0" 
+        allow="autoplay; fullscreen; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+<iframe src="https://player.vimeo.com/video/123456789" 
+        width="640" 
+        height="360" 
+        frameborder="0" 
+        allow="autoplay; fullscreen; picture-in-picture" 
+        allowfullscreen>
+</iframe>
 
 ### Film du sigmoïde et du colon gauche
 !https://vimeo.com/manage/videos/1102723807
