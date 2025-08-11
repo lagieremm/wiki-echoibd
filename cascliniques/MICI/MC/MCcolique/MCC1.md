@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-11T18:29:36.042Z
+date: 2025-08-11T18:35:46.236Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -74,7 +74,7 @@ En endoscopie les images correspondent l’iléon est inflammé mais présente u
 ## Films échographiques
 
 ### Film du sigmoïde et du colon gauche
-[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723807 "sigmoide")
+[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723807 "Sigmoide et Colon gauche")
 
 
 ttt
@@ -86,6 +86,9 @@ ttt
 </iframe>
 
 ### Film du transverse droit et gauche
+
+[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723857 "transverse droit et gauche")
+
 <iframe src="https://player.vimeo.com/video/1102723857"
         width="640" height="360" frameborder="0"
         allow="autoplay; fullscreen; picture-in-picture"
@@ -93,6 +96,7 @@ ttt
 </iframe>
 
 ### Film du colon droit et du cæcum
+[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723908 "Colon droit et Caecum")
 
 <iframe src="https://player.vimeo.com/video/1102723908"
         width="640" height="360" frameborder="0"
@@ -100,6 +104,9 @@ ttt
         allowfullscreen>
 </iframe>
 ### Film de l'iléon
+
+[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723937 "Iléon")
+
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe src="https://player.vimeo.com/video/1102723937?dnt=1"
           style="position:absolute;top:0;left:0;width:100%;height:100%;"
