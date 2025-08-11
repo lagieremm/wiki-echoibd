@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-08-11T13:05:08.651Z
+date: 2025-08-11T13:11:02.930Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -19,7 +19,7 @@ dateCreated: 2025-07-26T06:57:18.097Z
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](https://youtube.com/watch?v=_etHH7s8oNQ "Video Title")
 
 ## une video vimeo
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/_etHH7s8oNQ/0.jpg)](https://player.vimeo.com/video/1102723937 "iléon")
+[![IMAGE ALT TEXT](https://vimeo.com/api/oembed.json?url=https://vimeo.com/1102723937)](https://player.vimeo.com/video/1102723937 "iléon")
 
 
 
