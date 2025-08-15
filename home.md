@@ -2,7 +2,7 @@
 title: accueil
 description: 
 published: true
-date: 2025-08-15T09:00:01.137Z
+date: 2025-08-15T09:01:14.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -22,4 +22,4 @@ Ce site est là pour:
 - Partager quelques astuces et conseils pour progresser rapidement
 - perfectionner ses images
 - éviter les erreurs
-- [partager des cas cliniques](/cascliniques/home)
+- [partager des cas cliniques](/cascliniques[cascliniques](/cascliniques))
