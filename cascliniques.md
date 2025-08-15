@@ -2,21 +2,22 @@
 title: Cas cliniques
 description: 
 published: true
-date: 2025-08-15T08:48:48.246Z
+date: 2025-08-15T08:53:31.608Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-15T08:45:47.400Z
 ---
 
 # Cas cliniques
-# Maladie de Crohn ( MC)
+# MICI Maladie de Crohn ( MC)
 ## Maladie de Crohn iléales
 ## Maladie de Crohn coliques
+### [Crohn colique ulcèré avec iléïte MCC1](/cascliniques/MICI/MC/MCcolique/MCC1) 
 ## complications 
 ### Sténose
 ### Fistule
 ### Abcès
-# Rectocolite hémorragique (RCH)
+# MICI Rectocolite hémorragique (RCH)
 # Estomac
 # Grêle
 # Autres maladies coliques
