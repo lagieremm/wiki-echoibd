@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-11T18:35:46.236Z
+date: 2025-08-15T08:57:59.658Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -137,4 +137,4 @@ est indispensable pour confirmer le diagnostic et faire des biopsies. 
 
 ### **L’échographie**  
 
-utile au diagnostic initial, permettra de mesurer **la réponse aux traitements** par la diminution de l’épaississement, de l’infiltration de la graisse, des ganglions (il faut savoir attendre au moins 8  semaines)
+utile au diagnostic initial, permettra de mesurer **la réponse aux traitements** par la diminution de l’épaississement, de l’infiltration de la graisse, des ganglions (il faut savoir attendre au moins 8  semaines pour la maladie de Crohn)
