@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-20T19:56:34.339Z
+date: 2025-08-20T20:10:46.592Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -84,5 +84,6 @@ Pas de péristaltisme propre
 Souvent posé sur le psoas.
 ## Paroi du Rectum
 On le voit difficilement et pas toujours 
+
 
 
