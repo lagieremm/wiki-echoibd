@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-07T22:18:29.784Z
+date: 2025-08-20T19:51:34.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -31,7 +31,7 @@ Antre, coupe sagitale, Basse fréquence, musculeuse bien visible
 Coupe sagitale BF sous le foie gauche, musculeuse très visible
 ![antre_bf2.jpg](/anatomie_typique/antre_bf2.jpg)
 
-Antre HF: plis gastriques visibles dans la lumière
+Antre HF: plis gastriques visibles dans la lumière, musculeuse très épaisse
 ![antre_hfff.jpg](/anatomie_typique/antre_hfff.jpg)
 
 Antre HF, musculeuse épaisse et plis gastriques
