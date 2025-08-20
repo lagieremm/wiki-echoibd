@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-20T20:10:46.592Z
+date: 2025-08-20T20:12:43.238Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -52,9 +52,9 @@ Ci dessous anses jéjunales typiques
 ![jejunum2.jpg](/anatomie_typique/jejunum2.jpg)
 
 ## Paroi de l'iléon
-Paroi normal extrêmement fine peut faire un millimètre
+Paroi normale extrêmement fine peut faire un millimètre
 
-- Il n'y **pas de valvules conniventes** dans la lumière (sinon c'est du jéjunum)
+- structure plutôt tubulaire, il n'y **pas de valvules conniventes** dans la lumière (sinon c'est du jéjunum), 
 
 - **Péristaltisme important** (stimulé par prise de boissons)
 
