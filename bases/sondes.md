@@ -2,7 +2,7 @@
 title: Les différentes sondes
 description: 
 published: true
-date: 2025-07-29T07:51:37.479Z
+date: 2025-09-16T21:33:15.803Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
@@ -12,9 +12,9 @@ dateCreated: 2025-07-28T16:56:15.722Z
 Il existe deux grands types de sonde utilisées en échographie du tube digestifs, toutes deux indispensables.
 ## Sonde convexe, basse fréquence (BF) en général 1-5 MHZ
 ![image.jpg](/image.jpg)
-**Utilisation** : 
+**Utilisation** : on commence toujours avec cette sonde 
 - Permet une vue d’ensemble de l’abdomen
-- le repérage global des anses.
+- le repérage global des anses, leur position, une éventuelle anse inflammée.
 
 **Avantages :**
 
@@ -27,7 +27,8 @@ Idéale pour les patients corpulents ou pour visualiser des segments profonds  (
 
 **Inconvénient :**
 
-Moins bonne résolution que les sondes HF→  elle **ne permet donc pas de mesurer précisément l'épaisseur de la paroi intestinale**.
+Moins bonne résolution que les sondes HF
+→  elle **ne permet pas de mesurer précisément l'épaisseur de la paroi intestinale**.
 ## sonde linéaire, haute fréquence (HF) en général 6-17 MHZ
 ![sondehf.jpg](/sondehf.jpg)
 **Utilisation :** 
@@ -49,7 +50,7 @@ Repérer des **complications** : sténoses, abcès, fistules.
 **Inconvénient :** 
 - Moins de pénétration → limitée aux structures superficielles (jusqu’à ~4–5 cm de profondeur) 
 - ne voit pas les structures au delà (notamment pour le rectum qui est rarement accessible par voie transvésicale en haute fréquence (on pourra souvent y accéder par voie transpérinéale).
-# Sonde microconvexe (moins répendue)
+# Sonde microconvexe (moins répandue)
 **Utilisation :** 
 - Zones difficiles d’accès
 - pédiatrie.
@@ -65,5 +66,5 @@ On utilise souvent les deux types de sondes, toutes deux indispensables :
 - recherche de complications (épanchement, abcès, infiltration de la graisse).
 
 **Sonde HF :**
-- analyse fine de la paroi (épaisseur pariétale, stratification, Doppler) 
+- analyse fine de la paroi (c'est la seule qui permet la mesure de l'épaisseur pariétale, la stratification) 
 - **indispensable**, on ne peut pas faire d'étude précise de la paroi sans une sonde haute fréquence
