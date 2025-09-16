@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-08-07T21:39:45.809Z
+date: 2025-09-16T21:20:30.906Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -21,15 +21,16 @@ Les 5 couches sont (successivement de la lumière vers l'extérieur du tube et c
 
 ![les 5 couches en échographie](/schémas/paroi_interface5-2.png)
 
-Les interfaces (couches 1 et 5 ) ne varient pas, on peut donc les négliger.  
-Il faut donc en connaitre uniquement  3 :"deux noires entourant une blanche"
+Les interfaces (couches 1 et 5 ) ne varient pas, on peut donc les négliger. 
+
+Il faut en connaitre uniquement  3 :"deux noires entourant une blanche"
 
 **La 2°  hypo = muqueuse**
 **la 3° hyper = sous muqueuse**
 **la 4°  hypo = musculeuse**
 
 Cela correspond assez bien à l'histologie
-**L'épaisseur** se mesure de la muqueuse à la musculeuse (couches 2 à 4) 
+**L'épaisseur de la paroi** se mesure de la muqueuse à la musculeuse (de la couche 2 à la 4) 
 
 ![correspondance échographie-histologie](/schémas/capture_d’écran_2025-07-20_à_19.02.19_copie.png)
 
@@ -47,11 +48,12 @@ la couche “blanche”, hyperéchogène représente représente le "centre" de
 
 ![double paroi pylore](/anatomie_typique/pylore_duod.jpg)
 
-**Exemple au niveau de l'antre gastrique, en coupe longitudinale estomac vide** (noter l'importance de la musculeuse, 4 ième couche hypoéchogène à ce niveau, beaucoup plus épaisse que la couche hypoéchogène de la muqueuse à peine visible).
+**Exemple au niveau de l'antre gastrique, en coupe longitudinale estomac vide** (noter l'importance de la musculeuse, 4 ième couche hypoéchogène à ce niveau, beaucoup plus épaisse que la couche hypoéchogène de la muqueuse qui est ici à peine visible).
 
 # Quelques aspects particuliers
 ## En cas de présence de matière (air)
-On ne voit que la paroi antérieure (colon droit et caecum notamment)
+On ne voit que la paroi antérieure, 
+La paroi postérieure est masqué par les gaz (aspect classique du colon droit et du caecum)
 
 ![](/schémas/caecum_air-13.jpg)
 
