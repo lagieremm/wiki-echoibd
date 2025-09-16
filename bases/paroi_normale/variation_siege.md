@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-08-20T20:12:43.238Z
+date: 2025-09-16T21:22:31.396Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -19,7 +19,7 @@ On finit par
 
 - La paroi de l'estomac se voit très bien au niveau de l'antre, sous le foie gauche
 - **Sa musculeuse (4 ième hypoéchogène) est très épaissie**
-- On peut voir les **plis gastriques** (aspect en rayon de roue)
+- On peut voir les **plis gastriques** au niveau de la muqueuse (aspect en rayon de roue)
 - La paroi normale elle même peut être très épaisse (6 mm) notament lorsque l'estomac n'est pas distendu.
 
 
