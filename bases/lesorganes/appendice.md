@@ -2,7 +2,7 @@
 title: Appendice
 description: 
 published: true
-date: 2025-08-06T21:03:33.475Z
+date: 2025-09-18T08:25:43.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:20:28.301Z
@@ -10,11 +10,15 @@ dateCreated: 2025-08-01T14:20:28.301Z
 
 # Appendice
 
-Pas de péristaltisme
-Posé sur le psoas (la plupart du temps) généralement sous l'Iléon qu'il croise
-Raccord en entonnoir à la paroi du caecum (pas de w comme pour la valvule)
+Tube digestif de petite taille (6 cm en moyenne)
 Toutes les couches sont visibles mais très petites
-Aspect de tube en long et de cible en tranversal
+Aspect **tubulaire** en coupe longitudinale / de **cible** en tranversal
+
+Par rapport à l'iléon
+- Pas de péristaltisme
+- Posé sur le psoas (la plupart du temps) généralement sous l'Iléon qu'il croise
+- Raccord en entonnoir à la paroi du caecum (pas d'image en "w" ou de sous muqueuse graisseuse comme pour la valvule)
+
 
 ![appendice1](/anatomie_typique/appendice_1_copie.jpg)
 
