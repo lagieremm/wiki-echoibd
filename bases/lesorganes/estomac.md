@@ -2,7 +2,7 @@
 title: Estomac
 description: 
 published: true
-date: 2025-09-18T08:37:06.940Z
+date: 2025-09-18T08:38:27.544Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:16:00.811Z
@@ -28,9 +28,9 @@ Antre musculeuse épaisse et plis visibles estomac vide
 ![Antre sonde HF](/anatomie_typique/antre_hffpie.jpg)
 Antre musculeuse très épaisse et plis gastriques dans la lumière
 ## Repères anatomique et astuces
-Très faicle à repérer par une Coupe sagitale sur le foie gauche
+Très facile à repérer par une Coupe sagitale sur le foie gauche
 
-L'antre est quasiment toujours situé sous le foie gauche
+L'antre est quasiment toujours située sous le foie gauche (musculeuse épaisse et plis gastrique dans la lumière) 
 A partir de là on peut voir
 -le fundus en arrière et sous le foie (demander au patient d'inspirer profondément) 
 -le Pylore en tournant la sonde horizontalement vers l'angle droit du colon, on peut suivre le cadre duodénal avec le pancréas en arrière
