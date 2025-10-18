@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-10-18T17:37:31.102Z
+date: 2025-10-18T17:38:32.901Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -89,7 +89,8 @@ Souvent posé sur le psoas.
 ## Paroi du Rectum
 On le voit difficilement et pas toujours 
 En arrière de la vessie (on le voit mieux vessie semi pleine)
-
+Ici femme en coupe transversale en arrière de l'utérus
+![rectum_femme_ct.jpg](/anatomie_typique/rectum_femme_ct.jpg)
 
 
 
