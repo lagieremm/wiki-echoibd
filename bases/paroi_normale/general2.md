@@ -2,7 +2,7 @@
 title: Aspect échographique de la paroi intestinale normale
 description: 
 published: true
-date: 2025-09-16T21:20:37.899Z
+date: 2025-10-18T17:16:43.042Z
 tags: paroi
 editor: markdown
 dateCreated: 2025-07-14T20:37:41.795Z
@@ -14,7 +14,7 @@ En échographie (comme en écho-endoscopie) **la paroi digestive est faite de 5 
 Cet aspect est toujours retrouvé quel que soit le segment anatomique (œsophage, estomac, jéjunum, iléon, colon, rectum et même appendice).
 
 
-Les 5 couches sont (successivement de la lumière vers l'extérieur du tube et cela correspond assez bien à l'histologie).
+Les 5 couches sont (successivement de la lumière vers l'extérieur du tube, avec une bonne corrélation à l'histologie).
 
 
 **1.  l'interface avec la lumière** (hyper échogène)**<br>2.  la muqueuse** (hypo échogène)**<br>3.  la sous muqueuse** (hyper échogène)**<br>4.  la musculeuse** (hypo échogène)**<br>5.  l'interface séreuse**-extérieur du tube (hyper échogène) 
@@ -25,9 +25,9 @@ Les interfaces (couches 1 et 5 ) ne varient pas, on peut donc les négliger.
 
 Il faut en connaitre uniquement  3 :"deux noires entourant une blanche"
 
-**La 2°  hypo = muqueuse**
-**la 3° hyper = sous muqueuse**
-**la 4°  hypo = musculeuse**
+**2°  hypo = muqueuse**
+**3° hyper = sous muqueuse**
+**4°  hypo = musculeuse**
 
 Cela correspond assez bien à l'histologie
 **L'épaisseur de la paroi** se mesure de la muqueuse à la musculeuse (de la couche 2 à la 4) 
@@ -74,7 +74,7 @@ On a un pseudo aspect à 7 couches, il faut chercher l'interface au centre de la
 
 
 Exemple d'image des 2 parois du sigmoïde avec pseudo aspect à 7 couches
-on ne distingue pas les parois antérieures et postérieures (chaque paroi fait 1,9 mm).
+on ne distingue pas les parois antérieures et postérieures (chaque paroi fait 1,9 mm).Il faut toujours essayer de repérer le centre.
 
 ![_simiod_fusion_couches_.jpg](/anatomie_typique/_simiod_fusion_couches_.jpg)
 
