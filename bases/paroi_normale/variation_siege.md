@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-09-16T21:22:31.396Z
+date: 2025-10-18T17:37:31.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -44,8 +44,8 @@ Musculeuse très épaisse et plis gastriques dans la lumière
 ## Paroi du jéjunum
 Il faut très bien connaitre cet aspect avant tout pour éviter les erreurs d'interprétation (on peut voir du jejunum dans tous les secteurs de l'abdomen lorsque l'on cherche à visualiser l'iléon ou le colon).
 - La paroi du jejunum **a un aspect typique feuilleté**, lié à la visualisation des valvules conniventes. Cet aspect est très marqué au niveau du jejunum proximal et va en diminuant vers l'iléon.
-- De plus cette partie du tube (comme l'ensemble du grêle) a un **péristaltisme important**.
-La prise de boisson stimule le péristaltisme de l'anse.
+- De plus cette partie du tube (comme l'ensemble du grêle) a un **péristaltisme important**.(≠côlon)
+La prise de boisson stimule le péristaltisme de l'anse.(≠côlon)
 
 Ci dessous anses jéjunales typiques
 ![Jéjunum aspect feuilleté typique](/anatomie_typique/jejunum1.jpg)
@@ -77,13 +77,19 @@ Hautrations coliques (haute fréquence)
 ## Région iléo-caecale
 
 ## valvule
-aspect en "w" lié aux deux berges de la valvule (généralement hyperéchogènes) rentrant dans le caecum. 
+aspect en "w" lié aux deux berges de la valvule (généralement hyperéchogènes) rentrant dans le caecum.
+![valvule1.jpg](/anatomie_typique/valvule1.jpg)
+![valvule2.jpg](/anatomie_typique/valvule2.jpg)
+
 ## Paroi de l'appendice
 très fin relié au caecum, 
 Pas de péristaltisme propre
 Souvent posé sur le psoas.
+![appendice_1_copie.jpg](/anatomie_typique/appendice_1_copie.jpg)![appe2.jpg](/anatomie_typique/appe2.jpg)![appe3.jpg](/anatomie_typique/appe3.jpg)![appendice_ct_cible.jpg](/anatomie_typique/appendice_ct_cible.jpg)
 ## Paroi du Rectum
 On le voit difficilement et pas toujours 
+En arrière de la vessie (on le voit mieux vessie semi pleine)
+
 
 
 
