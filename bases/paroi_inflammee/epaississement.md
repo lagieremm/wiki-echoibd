@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T14:56:13.045Z
+date: 2025-10-19T19:16:50.360Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -25,7 +25,7 @@ Ci dessous même portion avec et sans compression douce.
 Il faut faire la moyenne de plusieurs mesures (≥3) en coupe longitudinale et transversale
 ![mesparoi.png](/schemas/mesparoi.png)
 - Coupe longitudinale
-au moins 3 mesures espacées d'un centimétre
+au moins 3 mesures espacées > 1 cm
 Il faut éviter les contractions
 - Coupe tranversale
 les mesures doivent être à plus de 90° les unes des autres
