@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T19:16:50.360Z
+date: 2025-10-19T20:02:01.677Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -32,9 +32,30 @@ les mesures doivent être à plus de 90° les unes des autres
 ## Les différents types d'épaississements
 L'échographie est la technique radiologique qui a la meilleure résolution (millimètre)
 L'analyse du type des couches épaissies peut nous orienté vers le type de maladie.
+### Epaississement prédominant à la couche 2
+Correspond à une inflammation aigue de la muqueuse
+
+Iléïte aigue inflammation de la muqueuse très hypoéchogène, la sous muqueuse et la musculeuse sont intactes
+![mepileite1.jpg](/paroiinflammee/mepileite1.jpg)
+Iléïte aiguë infectieuse![mepileite2.jpg](/paroiinflammee/mepileite2.jpg)
+Iléïte aiguë infecctieuse
+![mepileite3e.jpg](/paroiinflammee/mepileite3e.jpg)
+
+### Epaississement prédominant à la couche 2 et surtout 3
+Inflammation de la sous muqueuse, c'est l'image élémentaire typique des RCH (et des maladie de Crohn coliques RCH likes)
+
+RCH muqueuse et sous muqueuse épaissie
+![msmepaissies_copie.jpg](/paroiinflammee/msmepaissies_copie.jpg)
+
+Ci dessous RCH avec sous muqueuse épaisse et hyperéchogène.
+![smhyperechog.jpg](/paroiinflammee/smhyperechog.jpg)
+
+Ci-dessous seule la sous muqueuse hyperéchogène est épaissie
+![smhyper3.jpg](/paroiinflammee/smhyper3.jpg)
 ## La disparition de la structure en couches
 La sous muqueuse hyper échogène prend un aspect hypo-échogène qui se confond avec la sous muqueuse. La paroi devient totalement hypoéchogène **c'est un signe échographique de gravité**.
 
-- Localisée (image transmurale focale) c'est l'image caractéristique de la maladie de Crohn ( non spécifique cependant) elle témoigne d'une inflammation transmurale, ulcère ou granulome.
+- Localisée et discontinue (image transmurale focale) c'est l'image caractéristique de la maladie de Crohn ( non spécifique cependant) elle témoigne d'une inflammation transmurale, ulcère ou granulome.
+
 - Diffuse, c'est une forme de gravité dans la RCH, les colites ischémiques, ou les colites graves de maladie de Crohn par exemple.
 ## Problème du seuil
