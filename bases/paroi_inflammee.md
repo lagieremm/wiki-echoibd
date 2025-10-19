@@ -2,7 +2,7 @@
 title: Modifications échographiques de la paroi en cas d'inflammation
 description: 
 published: true
-date: 2025-10-19T05:26:19.890Z
+date: 2025-10-19T05:27:48.259Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T17:48:25.260Z
@@ -46,6 +46,7 @@ En cas d'inflammation, on peut voir 4 types de modifications échographique:
 - [L'épaississement](/bases/paroi_inflammee/epaississement) 
 c'est l'élément le plus important de repérage et de suivi!![épaississement lié à l'inflammation](/schémas/epais.jpg)
 ![sigm_epais.jpg](/anatomie_typique/sigm_epais.jpg)
+Sigmo¨de épaissie (RCH) structure en couche conservée, paroi 4,5 mm.
 - [L'hyperactivité Doppler](/bases/paroi_inflammee/doppler)![hyper activité Doppler](/schémas/doppl.jpg)
 ![limberg3.jpg](/anatomie_typique/limberg3.jpg)
 Limberg modifié 3
