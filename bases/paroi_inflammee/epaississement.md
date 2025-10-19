@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-18T17:45:55.646Z
+date: 2025-10-19T14:40:46.650Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -12,7 +12,20 @@ dateCreated: 2025-07-28T19:10:33.606Z
 C'est l'élément le plus sensible et le plus reproductible (inter et intra observateur)
 Au delà de **3 mm** la paroi est épaissie
 ## Technique de mesure de l'épaississement
-Elle est très importante si on veut être fiable et reproductible et pouvoir suivre l'évolution de l'inflammation
+Elle est **très importante** si on veut être fiable et reproductible et pouvoir suivre l'évolution de l'inflammation
+
+**L'épaississement se mesure entre la muqueuse (hypoéchogène) et la musculeuse (hypoéchogène)**, en compression douce. 
+Ci dessous même portion avec et sans compression douce.
+![1ct0comp_copie.jpg](/schemas/1ct0comp_copie.jpg)
+![2ct1comp.jpg](/schemas/2ct1comp.jpg)
+
+Il faut faire la moyenne de plusieurs mesures (≥3) en coupe longitudinale et transversale
+![mesparoi.png](/schemas/mesparoi.png)
+- Coupe longitudinale
+au moins 3 mesures espacées d'un centimétre
+Il faut éviter les contractions
+- Coupe tranversale
+les mesures doivent être à plus de 90° les unes des autres
 ## Les différents types d'épaississements
 L'échographie est la technique radiologique qui a la plus grande résolution
 ## La disparition de la structure en couches
