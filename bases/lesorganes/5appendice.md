@@ -2,7 +2,7 @@
 title: Appendice
 description: 
 published: true
-date: 2025-10-19T13:46:18.244Z
+date: 2025-10-19T13:46:22.916Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:20:28.301Z
