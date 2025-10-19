@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T20:44:54.777Z
+date: 2025-10-19T20:52:47.449Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -64,6 +64,8 @@ Ci-dessous epaississements asymétriques et discontinus avec inflammation transm
 ![colon_gauche.jpg](/mccolique1/colon_gauche.jpg)
 
 - Diffuse, c'est une forme de gravité dans la RCH, les colites ischémiques, ou les colites graves de maladie de Crohn par exemple.
-![12_202506111006086940012_copie_2.jpg](/mccolique1/12_202506111006086940012_copie_2.jpg)
-![13_202506111006086940013_copie.jpg](/mccolique1/13_202506111006086940013_copie.jpg)![23_202506111006086940023_.jpg](/mccolique1/23_202506111006086940023_.jpg)
+Atteinte colique transverse de maladie de Crohn
+![13_202506111006086940013_copie.jpg](/mccolique1/13_202506111006086940013_copie.jpg)
+même localisation en coupe transversale![23_202506111006086940023_.jpg](/mccolique1/23_202506111006086940023_.jpg)
+![rchgravedispccouches.jpg](/paroiinflammee/rchgravedispccouches.jpg)
 ## Problème du seuil
