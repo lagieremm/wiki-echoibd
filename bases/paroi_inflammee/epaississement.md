@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T14:43:26.775Z
+date: 2025-10-19T14:55:30.228Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -30,9 +30,10 @@ Il faut éviter les contractions
 - Coupe tranversale
 les mesures doivent être à plus de 90° les unes des autres
 ## Les différents types d'épaississements
-L'échographie est la technique radiologique qui a la plus grande résolution
+L'échographie est la technique radiologique qui a la meilleure résolution (millimètre)
+L'analyse du type des couches épaissies peut nous orienté vers le type de maladie.
 ## La disparition de la structure en couches
-La sous muqueuse hyper échogène prend un aspect hypo-échogène qui se confond avec la sous muqueuse. La paroi devient totalement hypoéchogène cest un signe échgraphique de gravité.
+La sous muqueuse hyper échogène prend un aspect hypo-échogène qui se confond avec la sous muqueuse. La paroi devient totalement hypoéchogène **c'est un signe échographique de gravité**.
 
 - Localisée (image transmurale focale) c'est l'image caractéristique de la maladie de Crohn ( non spécifique cependant) elle témoigne d'une inflammation transmurale, ulcère ou granulome.
 - Diffuse, c'est une forme de gravité dans la RCH, les colites ischémiques, ou les colites graves de maladie de Crohn par exemple.
