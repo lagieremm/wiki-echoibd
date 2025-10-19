@@ -2,7 +2,7 @@
 title: Colon
 description: 
 published: true
-date: 2025-10-19T14:51:15.409Z
+date: 2025-10-19T14:57:29.113Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:18:49.729Z
@@ -15,7 +15,7 @@ Aspect général avec haustrations (typique lorsqu'on le voit) et contenu aériq
 Pas de péristaltisme
 ![paroi_colique_nle_sigm_2.jpg](/anatomie_typique/paroi_colique_nle_sigm_2.jpg)
 
-
+![colonsigmhfnl.jpg](/images typiques anatomie/colonsigmhfnl.jpg)
 ![colonsigmhfnl.jpg](/images typiques anatomie/colonsigmhfnl.jpg)
 ## Repères
 FIG et psoas
