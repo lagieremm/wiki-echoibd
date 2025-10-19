@@ -2,7 +2,7 @@
 title: Colon
 description: 
 published: true
-date: 2025-09-18T08:31:03.685Z
+date: 2025-10-19T04:03:26.892Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:18:49.729Z
