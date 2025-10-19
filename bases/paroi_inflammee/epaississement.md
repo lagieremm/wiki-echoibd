@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T21:05:07.884Z
+date: 2025-10-19T21:19:42.684Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -34,6 +34,7 @@ L'échographie est la technique radiologique qui a la meilleure résolution (mil
 L'analyse du type des couches épaissies peut nous orienté vers le type de maladie.
 ### Epaississement prédominant à la couche 2
 Correspond à une inflammation aigue de la muqueuse
+![epm2.jpg](/paroiinflammee/epm2.jpg)
 
 Iléïte aigue inflammation de la muqueuse très hypoéchogène, la sous muqueuse et la musculeuse sont intactes
 ![mepileite1.jpg](/paroiinflammee/mepileite1.jpg)
@@ -43,6 +44,7 @@ Iléïte aiguë infecctieuse
 
 ### Epaississement prédominant à la couche 2 et surtout 3
 Inflammation de la sous muqueuse, c'est l'image élémentaire typique des RCH (et des maladie de Crohn coliques RCH likes)
+![epsm3.jpg](/paroiinflammee/epsm3.jpg)
 
 RCH muqueuse et sous muqueuse épaissie
 ![msmepaissies_copie.jpg](/paroiinflammee/msmepaissies_copie.jpg)
@@ -53,7 +55,9 @@ Ci dessous RCH avec sous muqueuse épaisse et hyperéchogène.
 Ci-dessous seule la sous muqueuse hyperéchogène est épaissie
 ![smhyper3.jpg](/paroiinflammee/smhyper3.jpg)
 ## La disparition de la structure en couches
-La sous muqueuse hyper échogène prend un aspect hypo-échogène qui se confond avec la sous muqueuse. La paroi devient totalement hypoéchogène **c'est un signe échographique de gravité**.
+La sous muqueuse hyper échogène prend un aspect hypo-échogène qui se confond avec la sous muqueuse (fusion de l'ensemble des couches). 
+La paroi devient totalement hypoéchogène **c'est un signe échographique de gravité**.
+![eptransm.jpg](/paroiinflammee/eptransm.jpg)
 
 - **Localisée et discontinue (image transmurale focale)**
 c'est l'image caractéristique de la maladie de Crohn ( non spécifique cependant) elle témoigne d'une inflammation transmurale, ulcère ou granulome.
