@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T14:40:46.650Z
+date: 2025-10-19T14:43:26.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -14,7 +14,10 @@ Au delà de **3 mm** la paroi est épaissie
 ## Technique de mesure de l'épaississement
 Elle est **très importante** si on veut être fiable et reproductible et pouvoir suivre l'évolution de l'inflammation
 
-**L'épaississement se mesure entre la muqueuse (hypoéchogène) et la musculeuse (hypoéchogène)**, en compression douce. 
+**L'épaississement se mesure entre la muqueuse (hypoéchogène) et la musculeuse (hypoéchogène)**, 
+- en compression douce. 
+- le curseur doit être bien perpendiculaire à la lumière.
+
 Ci dessous même portion avec et sans compression douce.
 ![1ct0comp_copie.jpg](/schemas/1ct0comp_copie.jpg)
 ![2ct1comp.jpg](/schemas/2ct1comp.jpg)
