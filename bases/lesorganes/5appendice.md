@@ -2,7 +2,7 @@
 title: Appendice
 description: 
 published: true
-date: 2025-10-19T04:17:51.749Z
+date: 2025-10-19T13:42:36.091Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:20:28.301Z
@@ -41,3 +41,27 @@ Ci dessous raccord en entonnoir et muqueuse bien visible
 
 Ci dessous contenu parfois échogène de l'appendice
 ![app2_copie.jpg](/anatomie_typique/app2_copie.jpg)
+[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723857 "transverse droit et gauche")
+
+<iframe src="https://player.vimeo.com/video/1102723857"
+        width="640" height="360" frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+</iframe>
+![app2_copie.jpg](/anatomie_typique/app2_copie.jpg)
+[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723857 "transverse droit et gauche")
+
+<iframe src="https://player.vimeo.com/video/1102723857"
+        width="640" height="360" frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+</iframe>
+![app2_copie.jpg](/anatomie_typique/app2_copie.jpg)
+[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723857 "transverse droit et gauche")
+
+<iframe src="https://player.vimeo.com/video/1102723857"
+        width="640" height="360" frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+</iframe>
+Vidéo d'un iléon normal et un appendice normal au devant du psoas
