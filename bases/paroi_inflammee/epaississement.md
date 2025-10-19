@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T20:02:01.677Z
+date: 2025-10-19T20:04:45.679Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
