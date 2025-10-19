@@ -2,7 +2,7 @@
 title: Modifications échographiques de la paroi en cas d'inflammation
 description: 
 published: true
-date: 2025-10-19T14:04:30.264Z
+date: 2025-10-19T21:04:22.381Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T17:48:25.260Z
