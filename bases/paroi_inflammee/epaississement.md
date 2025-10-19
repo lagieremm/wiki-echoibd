@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T21:43:33.972Z
+date: 2025-10-19T21:44:22.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -81,7 +81,7 @@ C'est plutôt un diagnostic différentiel des MICI car on l'observe surtout au n
 ![epmusc4.jpg](/paroiinflammee/epmusc4.jpg)
 En basse fréquence la musculeuse épaissie hypoéchogène souligne les parois du sigmoide
 ![bfsimoidedivertnoninfie.jpg](/paroiinflammee/bfsimoidedivertnoninfie.jpg)
-Epaississement musculeuse et image diverticulaire![divert_non_inf.jpg](/paroiinflammee/divert_non_inf.jpg)
+Epaississement musculeuse et image diverticulaire
 ![divert_non_inf.jpg](/paroiinflammee/divert_non_inf.jpg)
 
 Musculeuse sigmoidienne épaissie paroi non inflammée![divertmuscu4.jpg](/paroiinflammee/divertmuscu4.jpg)![divertmuscu.jpg](/paroiinflammee/divertmuscu.jpg)
