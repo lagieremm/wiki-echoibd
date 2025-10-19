@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T20:34:20.432Z
+date: 2025-10-19T20:44:54.777Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -55,9 +55,15 @@ Ci-dessous seule la sous muqueuse hyperéchogène est épaissie
 ## La disparition de la structure en couches
 La sous muqueuse hyper échogène prend un aspect hypo-échogène qui se confond avec la sous muqueuse. La paroi devient totalement hypoéchogène **c'est un signe échographique de gravité**.
 
-- Localisée et discontinue (image transmurale focale) c'est l'image caractéristique de la maladie de Crohn ( non spécifique cependant) elle témoigne d'une inflammation transmurale, ulcère ou granulome.
+- **Localisée et discontinue (image transmurale focale)**
+c'est l'image caractéristique de la maladie de Crohn ( non spécifique cependant) elle témoigne d'une inflammation transmurale, ulcère ou granulome.
+
+Ci-dessous, maladie de Crohn colique, inflammation transmurale focale, et très important infiltrat de la graisse.
+![24_202505281636458770024_copie.jpg](/mccolique1/24_202505281636458770024_copie.jpg)![32_202505281636458770032_copie.jpg](/mccolique1/32_202505281636458770032_copie.jpg)
+Ci-dessous epaississements asymétriques et discontinus avec inflammation transmurale focale à plusieurs endroits alternant avec des zones intactes
 ![colon_gauche.jpg](/mccolique1/colon_gauche.jpg)
 
 - Diffuse, c'est une forme de gravité dans la RCH, les colites ischémiques, ou les colites graves de maladie de Crohn par exemple.
 ![12_202506111006086940012_copie_2.jpg](/mccolique1/12_202506111006086940012_copie_2.jpg)
+![13_202506111006086940013_copie.jpg](/mccolique1/13_202506111006086940013_copie.jpg)![23_202506111006086940023_.jpg](/mccolique1/23_202506111006086940023_.jpg)
 ## Problème du seuil
