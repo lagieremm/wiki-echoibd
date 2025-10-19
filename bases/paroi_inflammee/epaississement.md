@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T14:55:30.228Z
+date: 2025-10-19T14:56:13.045Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-28T19:10:33.606Z
 
 # L'épaississement de la paroi intestinale
 C'est l'élément le plus sensible et le plus reproductible (inter et intra observateur)
-Au delà de **3 mm** la paroi est épaissie
+Au delà de **3 mm** la paroi est épaissie.
 ## Technique de mesure de l'épaississement
 Elle est **très importante** si on veut être fiable et reproductible et pouvoir suivre l'évolution de l'inflammation
 
