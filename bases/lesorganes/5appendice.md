@@ -2,7 +2,7 @@
 title: Appendice
 description: 
 published: true
-date: 2025-10-19T13:45:43.448Z
+date: 2025-10-19T13:46:18.244Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:20:28.301Z
@@ -43,10 +43,4 @@ Ci dessous contenu parfois échogène de l'appendice
 ![app2_copie.jpg](/anatomie_typique/app2_copie.jpg)
 
 Vidéo d'un iléon normal et un appendice normal au devant du psoas
-[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723857 "transverse droit et gauche")
 
-<iframe src="https://player.vimeo.com/video/16650489"
-        width="640" height="360" frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen>
-</iframe>
