@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T21:19:42.684Z
+date: 2025-10-19T21:41:08.623Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -76,4 +76,12 @@ RCH colite grave (paroi 5 mm totalement hypoéchogène de façon diffuse)
 RCH colite aigue grave (paroi 8 mm et disparition partielle de la structure en couches)
 ![rchgravedispcouches.jpg](/paroiinflammee/rchgravedispcouches.jpg)
 ![disparition_des_couches_copie_2.jpg](/paroiinflammee/disparition_des_couches_copie_2.jpg)
+## Epaississement prédominant à la musculeuse (4 ième couche)
+C'est plutôt un diagnostic différentiel des MICI car on l'observe surtout au niveau du sigmoide dans la maladie diverticulaire.
+![epmusc4.jpg](/paroiinflammee/epmusc4.jpg)
+En basse fréquence la musculeuse épaissie hypoéchogène souligne les parois du sigmoide
+![bfsimoidedivertnoninfie.jpg](/paroiinflammee/bfsimoidedivertnoninfie.jpg)
+Epaississement musculeuse et image diverticulaire![divert_non_inf.jpg](/paroiinflammee/divert_non_inf.jpg)
+![divert_non_inf.jpg](/paroiinflammee/divert_non_inf.jpg)
+
 ## Problème du seuil
