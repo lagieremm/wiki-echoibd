@@ -2,7 +2,7 @@
 title: Estomac
 description: 
 published: true
-date: 2025-10-19T03:59:50.946Z
+date: 2025-10-19T04:01:54.591Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:16:00.811Z
