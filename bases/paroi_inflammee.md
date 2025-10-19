@@ -2,7 +2,7 @@
 title: Modifications échographiques de la paroi en cas d'inflammation
 description: 
 published: true
-date: 2025-10-19T05:27:48.259Z
+date: 2025-10-19T14:04:30.264Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T17:48:25.260Z
@@ -53,7 +53,12 @@ Limberg modifié 3
 ### 2 modifications extra-pariétales
 - [Inflammation de la graisse péri-intestinale](/bases/paroi_inflammee/graisse)![Inflammation de la graisse](/schémas/gras.jpg)
 ![graisse_copie.jpg](/paroiinflammee/graisse_copie.jpg)
-Crohn localisation sigmoide disparition de la strucutre en couche et graisse infiltrée.On la voit mieux en coupe tranversale
+Crohn localisation sigmoide disparition de la strucutre en couche et graisse infiltrée.
+L'inflammation de la graisse s'aprécie mieux en coupe transversale.
 - [Adénopathies](/bases/paroi_inflammee/adp)![adénopathies inflammatoires](/schémas/gang.jpg)
 ![gg_graisse.jpg](/paroiinflammee/gg_graisse.jpg)
-Maladie de Crohn colique, graisse infiltrée et ganglion
+Maladie de Crohn colique, graisse infiltrée et ganglion.
+### Autres modifications
+- Perte des haustrations
+La portion de tube digestif inflammée perd ses haustrations (notament au niveau du côlon), leur récupération est un signe de cicatrisation
+- Rigidité et diminution de la motricité
