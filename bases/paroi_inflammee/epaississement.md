@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T20:04:45.679Z
+date: 2025-10-19T20:34:20.432Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -56,6 +56,8 @@ Ci-dessous seule la sous muqueuse hyperéchogène est épaissie
 La sous muqueuse hyper échogène prend un aspect hypo-échogène qui se confond avec la sous muqueuse. La paroi devient totalement hypoéchogène **c'est un signe échographique de gravité**.
 
 - Localisée et discontinue (image transmurale focale) c'est l'image caractéristique de la maladie de Crohn ( non spécifique cependant) elle témoigne d'une inflammation transmurale, ulcère ou granulome.
+![colon_gauche.jpg](/mccolique1/colon_gauche.jpg)
 
 - Diffuse, c'est une forme de gravité dans la RCH, les colites ischémiques, ou les colites graves de maladie de Crohn par exemple.
+![12_202506111006086940012_copie_2.jpg](/mccolique1/12_202506111006086940012_copie_2.jpg)
 ## Problème du seuil
