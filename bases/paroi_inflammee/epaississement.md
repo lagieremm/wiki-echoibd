@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T20:52:47.449Z
+date: 2025-10-19T20:57:10.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -67,5 +67,8 @@ Ci-dessous epaississements asymétriques et discontinus avec inflammation transm
 Atteinte colique transverse de maladie de Crohn
 ![13_202506111006086940013_copie.jpg](/mccolique1/13_202506111006086940013_copie.jpg)
 même localisation en coupe transversale![23_202506111006086940023_.jpg](/mccolique1/23_202506111006086940023_.jpg)
+RCH colite grave (paroi 5 mm totalement hypoéchogène de façon diffuse)
 ![rchgravedispccouches.jpg](/paroiinflammee/rchgravedispccouches.jpg)
+RCH colite aigue grave (paroi 8 mm et disparition partielle de la structure en couches)
+![rchgravedispcouches.jpg](/paroiinflammee/rchgravedispcouches.jpg)
 ## Problème du seuil
