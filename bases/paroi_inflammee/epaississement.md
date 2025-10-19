@@ -2,7 +2,7 @@
 title: L'épaississement
 description: 
 published: true
-date: 2025-10-19T21:41:08.623Z
+date: 2025-10-19T21:43:21.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:10:33.606Z
@@ -83,5 +83,7 @@ En basse fréquence la musculeuse épaissie hypoéchogène souligne les parois d
 ![bfsimoidedivertnoninfie.jpg](/paroiinflammee/bfsimoidedivertnoninfie.jpg)
 Epaississement musculeuse et image diverticulaire![divert_non_inf.jpg](/paroiinflammee/divert_non_inf.jpg)
 ![divert_non_inf.jpg](/paroiinflammee/divert_non_inf.jpg)
+
+Musculeuse sigmoidienne épaissie paroi non inflammée![divertmuscu4.jpg](/paroiinflammee/divertmuscu4.jpg)![divertmuscu.jpg](/paroiinflammee/divertmuscu.jpg)
 
 ## Problème du seuil
