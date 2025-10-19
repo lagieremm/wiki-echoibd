@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-08-15T08:57:59.658Z
+date: 2025-10-19T04:32:36.968Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -24,7 +24,7 @@ Alternance de plages où la paroi a une épaisseur quasi normale (3 mm) avec str
 |     |     |
 | --- | --- |
 | ![Sigmoide: inflammation transmurale focale](/mccolique1/24_202505281636458770024_copie.jpg)<br><br>Inflammation transmurale focale typique de la maladie de Crohn | ![Transmural focal, graisse, ganglion](/mccolique1/32_202505281636458770032_copie.jpg)<br><br>Épaississement asymétrique (paroi antérieure très inflammée, paroi postérieure normale) |
-| ![Doppler limberg 3](/mccolique1/25_202505281636458770025_copie.jpg)<br><br>Limberg 3 | ![Limberg 3](/mccolique1/28_202505281636458770028_copie.jpg)<br><br>Hyperactivité Doppler LImberg 3 |
+| ![Doppler limberg 3](/mccolique1/25_202505281636458770025_copie.jpg)<br><br>Limberg 3 | ![Limberg 3](/mccolique1/28_202505281636458770028_copie.jpg)<br><br>Doppler Limberg 3 |
 | ![Endocopie charnière](/mccolique1/rectum6_copie.jpg)<br><br>Charnière | ![Sigmoide, ulcère creusant](/mccolique1/sigmoide7_copie.jpg)<br><br>Sigmoïde ulcération creusante entourée de muqueuse peu atteinte |
 
 ### Colon gauche
