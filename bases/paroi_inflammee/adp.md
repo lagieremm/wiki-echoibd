@@ -2,7 +2,7 @@
 title: Inflammation des ganglions satellites de l'anse
 description: 
 published: true
-date: 2025-10-25T15:22:37.997Z
+date: 2025-10-25T15:22:41.632Z
 tags: ganglions
 editor: markdown
 dateCreated: 2025-08-01T06:54:53.441Z
