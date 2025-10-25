@@ -2,7 +2,7 @@
 title: Inflammation des ganglions satellites de l'anse
 description: 
 published: true
-date: 2025-10-25T15:22:41.632Z
+date: 2025-10-25T16:18:54.105Z
 tags: ganglions
 editor: markdown
 dateCreated: 2025-08-01T06:54:53.441Z
@@ -12,12 +12,13 @@ dateCreated: 2025-08-01T06:54:53.441Z
 # Les aires ganglionnaires satellites #
 ![ganglionscolon.jpg](/anatomie_typique/ganglionscolon.jpg)
 ## Сoliques ##
-- Colon gauche : le long du bord interne, donc à gauche du côlon.
-- Colon droit : le long du bord interne, donc à droite du côlon.
-- Transverse : au dessus du côlon, entre l'estomac et le transverse
+- Colon gauche : le long du bord interne, donc **sur le coté droit** du côlon.
+- Colon droit : le long du bord interne, donc **sur le côté gauche** du côlon.
+- Transverse : **au dessus** du côlon, entre l'estomac et le transverse
 
 ## Grêles ##
-- L'iléon se draine vers le mésentère donc il faut chercher les ganglions au dessus de l'iléon, en direction des vaisseaux mésentériques.
+- L'iléon se draine vers le mésentère 
+- donc il faut chercher les ganglions **au dessus** de l'iléon, en direction des vaisseaux mésentériques.
 
 # les modifications inflammatoires des ganglions 
 - Classiquement on mesure le petit axe, > 5 mm en cas d'inflammation.C'est surtout vrai pour l'iléon
