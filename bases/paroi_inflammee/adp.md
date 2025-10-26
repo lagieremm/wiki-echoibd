@@ -2,7 +2,7 @@
 title: Inflammation des ganglions satellites de l'anse
 description: 
 published: true
-date: 2025-10-26T11:46:26.541Z
+date: 2025-10-26T12:07:49.164Z
 tags: ganglions
 editor: markdown
 dateCreated: 2025-08-01T06:54:53.441Z
@@ -22,7 +22,12 @@ dateCreated: 2025-08-01T06:54:53.441Z
 
 # les modifications inflammatoires des ganglions 
 - Classiquement on mesure **le petit axe**, > 5 mm en cas d'inflammation. C'est surtout vrai pour l'iléon
+*Ci-dessous ganglions de petite taille (5 mm) arrondis, hypo échogènes et situés au sein d'une inflammation de la graisse*
 ![gginflammes.jpg](/imagetypeetanatomie/gginflammes.jpg)
+*Ci-dessous volumineux ganglion (9,6 mm) inflammatoire*
+![grosgginflam2.jpg](/imagetypeetanatomie/grosgginflam2.jpg)
 - **En cas de RCH**, La présence de multiples petits ganglions le long du colon de 3 ou 4 mm est cependant pathologique.
+*Ci-dessous RCH sigmoïde avec sous muqueuse très hyperéchogène, petit ganglion satellite posé sur le psoas*
+![rchpetitgginf.jpg](/imagetypeetanatomie/rchpetitgginf.jpg)
 - **En cas de colite infecteuse**, on a de multiples ganglions associés à une importante infiltration du mesentère 
 - **En cas de très gros ganglions > 2 cm**, il faut penser au lymphome.
