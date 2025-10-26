@@ -2,7 +2,7 @@
 title: Inflammation des ganglions satellites de l'anse
 description: 
 published: true
-date: 2025-10-26T12:07:49.164Z
+date: 2025-10-26T12:12:48.979Z
 tags: ganglions
 editor: markdown
 dateCreated: 2025-08-01T06:54:53.441Z
@@ -27,7 +27,7 @@ dateCreated: 2025-08-01T06:54:53.441Z
 *Ci-dessous volumineux ganglion (9,6 mm) inflammatoire*
 ![grosgginflam2.jpg](/imagetypeetanatomie/grosgginflam2.jpg)
 - **En cas de RCH**, La présence de multiples petits ganglions le long du colon de 3 ou 4 mm est cependant pathologique.
-*Ci-dessous RCH sigmoïde avec sous muqueuse très hyperéchogène, petit ganglion satellite posé sur le psoas*
-![rchpetitgginf.jpg](/imagetypeetanatomie/rchpetitgginf.jpg)
+*Ci-dessous RCH sigmoïde avec sous muqueuse très hyperéchogène, petit ganglion (3 mm) satellite posé sur le psoas*
+![rchpetitgginf.jpg](/imagetypeetanatomie/rchpetitgginf.jpg)*Plus loin gros ganglion (8mm) en arrière du sigmoïde*![rchgrosgg2.jpg](/imagetypeetanatomie/rchgrosgg2.jpg)
 - **En cas de colite infecteuse**, on a de multiples ganglions associés à une importante infiltration du mesentère 
 - **En cas de très gros ganglions > 2 cm**, il faut penser au lymphome.
