@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2025-10-27T09:33:26.679Z
+date: 2025-10-27T10:00:08.263Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
@@ -33,6 +33,9 @@ Activité Doppler limitée à la paroi, intense
 Activité Doppler intense de la paroi et de la graisse
 *Maladie de Crohn intense activité Doppler paroi et graisse*
 ![limb3mcc1.jpg](/imagetypeetanatomie/limb3mcc1.jpg)
+![limb36.jpg](/imagetypeetanatomie/limb36.jpg)
+![limb33e.jpg](/imagetypeetanatomie/limb33e.jpg)![limb34.jpg](/imagetypeetanatomie/limb34.jpg)
+![limb35e.jpg](/imagetypeetanatomie/limb35e.jpg)
 Il exite différents Doppler
 Le Doppler Couleur
 Le Doppler Energie
