@@ -2,7 +2,7 @@
 title: Inflammation ou infiltration de la graisse mésentérique
 description: 
 published: true
-date: 2025-10-27T10:39:26.858Z
+date: 2025-10-27T10:48:23.918Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:18:15.686Z
