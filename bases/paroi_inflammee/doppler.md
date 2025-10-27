@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2025-10-27T09:05:40.800Z
+date: 2025-10-27T09:21:58.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
@@ -20,9 +20,12 @@ Aucune activité Doppler
 ## Limberg 1
 Activité Doppler limitée à la paroi, peu intense
 - spots épars de petite taille
+![limberg1.jpg](/imagetypeetanatomie/limberg1.jpg)
+![limb1e.jpg](/imagetypeetanatomie/limb1e.jpg)
 ## Limberg 2
 Activité Doppler limitée à la paroi, intense
-- spots longs et multiples
+- spots longs et multiples (limités à la paroi)
+![limb2.jpg](/imagetypeetanatomie/limb2.jpg)
 ## Limberg 3
 Activité Doppler intense de la paroi et de la graisse
 *Maladie de Crohn intense activité Doppler paroi et graisse*
