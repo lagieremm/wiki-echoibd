@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-10-18T17:38:32.901Z
+date: 2025-10-27T09:07:11.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -74,6 +74,8 @@ Hautrations coliques  (basse fréquence)
 
 Hautrations coliques (haute fréquence)
 ![colon_copie.jpg](/anatomie_typique/colon_copie.jpg)
+Paroi du sigmoide (HF)
+![signlelimberg0.jpg](/imagetypeetanatomie/signlelimberg0.jpg)
 ## Région iléo-caecale
 
 ## valvule
