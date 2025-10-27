@@ -2,7 +2,7 @@
 title: Inflammation ou infiltration de la graisse mésentérique
 description: 
 published: true
-date: 2025-09-29T16:59:48.104Z
+date: 2025-10-27T10:39:26.858Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:18:15.686Z
@@ -12,12 +12,23 @@ dateCreated: 2025-07-28T19:18:15.686Z
 La graisse infammēe autour d'une anse devient hyper-échogene.
 C'est un élément majeur de l'inflammation en échographie.
 - Elle oriente le diagnostic, lorsque l'on voit une inflammation, il faut trouver la cause.
+*Basse Fréquence inflammation de la graisse autour du colon transverse (maladie de Crohn colique)*
+![graissebf.jpg](/imagetypeetanatomie/graissebf.jpg)
+- On la mesure mieux sur **une coupe transversale**.
+![graissecolocl.jpg](/imagetypeetanatomie/graissecolocl.jpg)
+*Coupe transversale permet de mieux aprécier l'inflammation de la graisse*
+![graissecolonct.jpg](/imagetypeetanatomie/graissecolonct.jpg)
+![infiltrat_graisse_copie.jpg](/imagetypeetanatomie/infiltrat_graisse_copie.jpg)
+- Plus l'inflammation atteint la séreuse, plus la graisse environnante devient infiltrée 
+1. habituellement faible dans la RCH, si elle est présente cest un argument de gravité (colite aigue grave, habituellement associée à une perte diffuse de la structure en couches).
+2. plus importante en cas d'inflammation transmurale, type Crohn ou colite ischemique.
+3. IMportante et localisée dans la diverticulite, ou importante et diffuse en cas de complication (fistule et abcès)
+- Le caractère inflammatoire peut se voir en Doppler, présence d'une hyper-activté doppler au sein de la graisse ( cela définit le stade 3 de Limberg).
 
-- On la mesure mieux sur une coupe transversale.
-- Plus l'inflammation atteint la séreuse plus la graisse est inflammatoire (faible dans la RCH,si elle est présente cest un argument de gravité, plus importante en cas d'inflammation transmurale type Crohn ou colite ischemique, maximale et localisée dans la diverticulite)
-- Le caractère inflammatoire peut se voir en Doppler ( cela définit le stade 3 de Limberg).
 
-Elle peut régresser très rapidement ou disparaitre lorsque l'inflammation diminue.  
+Elle peut régresser très rapidement ou disparaitre lorsque l'inflammation diminue. 
+
+
 
 ## Cas particulier de la sclérolipomatose ##
 
