@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2025-10-27T10:09:24.394Z
+date: 2025-10-27T10:12:32.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
@@ -45,7 +45,11 @@ La microcirculation (fournie par certains constructeurs)
 Les flux dans les petits capillaires circulent entre 4 et 8 cm/s
 - **Règler la vitesse cible entre 6 et 8 cm/s**
 si la vitesse est règlée à 20 cm/s comme pour la veine porte, on ne les détectera pas.
+Au contraire si on est réglé à 1 ou 2 cm/s on aura beaucoup d'artéfact.
 - **Monter la PRF au maximum des artefacts, puis la descendre à la mesure à laquelle ces artéfacts disparaissent**
+- **À ces vitesses tous les mouvements vont déclencher le Doppler**
+Les mouvements du grèle déclenchent le Doppler ne pas les confondre avec une hyperactivité
+Demander au patient de ne pas respirer, pour diminuer les artéfacts
 - **Ne pas tenir compte des images doppler dans la lumière** du tube digestif
 au delà l'interface avec la lumière, ce sont toujours des artéfacts
 
