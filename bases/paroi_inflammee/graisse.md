@@ -2,7 +2,7 @@
 title: Inflammation ou infiltration de la graisse mésentérique
 description: 
 published: true
-date: 2025-10-27T11:21:49.193Z
+date: 2025-10-27T11:22:42.206Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:18:15.686Z
@@ -32,7 +32,7 @@ Elle peut régresser très rapidement ou disparaitre lorsque l'inflammation dimi
 
 ## Cas particulier de la sclérolipomatose ##
 
-C'est la forme chronique de l'inflammation, l'inflammation devient scléreuse, figée arrondie 
+C'est la forme chronique de l'inflammation de la graisse, l'inflammation devient scléreuse, figée arrondie, plus hypoéchogène
 - attraction de la séreuse en profondeur qui prend un aspect spiculé
 - plus hypoéchogène
 - Déformant la paroi localement
