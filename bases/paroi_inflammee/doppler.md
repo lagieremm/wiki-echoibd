@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2025-10-27T10:14:36.452Z
+date: 2025-10-27T10:15:39.943Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
@@ -12,6 +12,18 @@ dateCreated: 2025-07-28T19:11:47.617Z
 C'est un des signes importants de l'inflammation de la paroi intestinale
 On utilise **la classification de Limberg "modifiée"** qui ne tient compte que de l'activité Doppler
 **Attention: les réglages Doppler modifient énormément les résultats!!**
+## Astuces pour améliorer ses mesures
+Les flux dans les petits capillaires circulent entre 4 et 8 cm/s
+- **Règler la vitesse cible entre 6 et 8 cm/s**
+si la vitesse est règlée à 20 cm/s comme pour la veine porte, on ne les détectera pas.
+Au contraire si on est réglé à 1 ou 2 cm/s on aura beaucoup d'artéfact.
+- **Monter la PRF au maximum des artefacts, puis la descendre à la mesure à laquelle ces artéfacts disparaissent**
+- **À ces vitesses tous les mouvements vont déclencher le Doppler**
+Les mouvements du grèle déclenchent le Doppler, ne pas les confondre avec une hyperactivité
+Demander au patient de ne pas respirer, pour diminuer les artéfacts
+- **Ne pas tenir compte des images doppler dans la lumière** du tube digestif
+au delà l'interface avec la lumière, ce sont toujours des artéfacts
+
 ## Limberg 0
 Aucune activité Doppler 
 *Paroi non épaissie, aucune actibvité Doppler dans la fenêtre*
@@ -41,17 +53,6 @@ Le Doppler Couleur (qui enregistre la direction des flux (rouge se rapproche de 
 Le Doppler Energie (qui ne mesure que les flux d'une seule couleur)
 La microcirculation (fournie par certains constructeurs)
 
-## Astuces pour améliorer ses mesures
-Les flux dans les petits capillaires circulent entre 4 et 8 cm/s
-- **Règler la vitesse cible entre 6 et 8 cm/s**
-si la vitesse est règlée à 20 cm/s comme pour la veine porte, on ne les détectera pas.
-Au contraire si on est réglé à 1 ou 2 cm/s on aura beaucoup d'artéfact.
-- **Monter la PRF au maximum des artefacts, puis la descendre à la mesure à laquelle ces artéfacts disparaissent**
-- **À ces vitesses tous les mouvements vont déclencher le Doppler**
-Les mouvements du grèle déclenchent le Doppler, ne pas les confondre avec une hyperactivité
-Demander au patient de ne pas respirer, pour diminuer les artéfacts
-- **Ne pas tenir compte des images doppler dans la lumière** du tube digestif
-au delà l'interface avec la lumière, ce sont toujours des artéfacts
 
 
 
