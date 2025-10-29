@@ -2,7 +2,7 @@
 title: Les différentes sondes
 description: 
 published: true
-date: 2025-09-16T21:33:59.511Z
+date: 2025-10-29T14:53:11.808Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
@@ -10,26 +10,26 @@ dateCreated: 2025-07-28T16:56:15.722Z
 
 # Les deux grands types de sondes en échographie intestinale
 Il existe deux grands types de sonde utilisées en échographie du tube digestifs, toutes deux indispensables.
-## Sonde convexe, basse fréquence (BF) en général 1-5 MHZ
+## 1) Sonde convexe, basse fréquence (BF) en général 1-5 MHZ
 ![image.jpg](/image.jpg)
 **Utilisation** : on commence toujours avec cette sonde 
 - Permet une vue d’ensemble de l’abdomen
-- le repérage global des anses, leur position, une éventuelle anse inflammée.
+- le repérage global des anses (estomac,les portions du colon, iléon, rectum), leur position, repérage d'une éventuelle anse inflammée.
 
 **Avantages :**
 
 - Bonne pénétration en profondeur (jusqu'à 10-20 cm)
 - Visualise l'ensemble de la cavité abdominale.
 - Permet de repérer les organes et les différentes portions du tube digestif et de repérer une anse épaissie.
-- Détecte les complications (épanchements, abcès infiltration de la graisse, complications à distance notamment foie)
+- Détecte les complications en profondeur (épanchements, abcès, infiltration de la graisse du mésentère, occlusion, complications à distance notamment foie)
 
 Idéale pour les patients corpulents ou pour visualiser des segments profonds  (c'est parfois la seule à voir le rectum par voie abdominale trans-vésicale).
 
 **Inconvénient :**
 
 Moins bonne résolution que les sondes HF
-→  elle **ne permet pas de mesurer précisément l'épaisseur de la paroi intestinale**.
-## sonde linéaire, haute fréquence (HF) en général 6-17 MHZ
+→  **elle ne permet pas de mesurer précisément l'épaisseur de la paroi intestinale**.
+## 2) sonde linéaire, haute fréquence (HF) en général 6-17 MHZ
 ![sondehf.jpg](/sondehf.jpg)
 **Utilisation :** 
 - indispensable, **on ne peut pas faire d'étude du tube digestif sans une sonde haute fréquence de qualité**
