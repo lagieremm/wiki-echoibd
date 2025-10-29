@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-10-29T18:37:03.279Z
+date: 2025-10-29T18:37:51.331Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -93,7 +93,7 @@ On le voit difficilement et pas toujours
 On le voit rarement avec la sonde superficielle qui ne pénètre que de 5 cm
 Difficile donc de bien voir les couches et d'avoir des mesures précises.
 Situé en arrière de la vessie (on le voit mieux vessie semi pleine)
-*Ici rectum, femme en coupe transversale en arrière de l'utérus*
+*Ici rectum, femme en coupe transversale en arrière de l'utérus en basse fréquence*
 ![rectum_femme_ct.jpg](/anatomie_typique/rectum_femme_ct.jpg)
 
 
