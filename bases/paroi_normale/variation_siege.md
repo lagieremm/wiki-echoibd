@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-10-27T09:07:11.247Z
+date: 2025-10-29T18:37:03.279Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -42,7 +42,7 @@ Musculeuse très épaisse et plis gastriques dans la lumière
 
 ![pylore_duod.jpg](/images typiques anatomie/pylore_duod.jpg)!
 ## Paroi du jéjunum
-Il faut très bien connaitre cet aspect avant tout pour éviter les erreurs d'interprétation (on peut voir du jejunum dans tous les secteurs de l'abdomen lorsque l'on cherche à visualiser l'iléon ou le colon).
+Il faut très bien connaitre cet aspect avant tout pour éviter les erreurs d'interprétation (on peut voir du jéjunum dans tous les secteurs de l'abdomen lorsque l'on cherche à visualiser l'iléon ou le côlon).
 - La paroi du jejunum **a un aspect typique feuilleté**, lié à la visualisation des valvules conniventes. Cet aspect est très marqué au niveau du jejunum proximal et va en diminuant vers l'iléon.
 - De plus cette partie du tube (comme l'ensemble du grêle) a un **péristaltisme important**.(≠côlon)
 La prise de boisson stimule le péristaltisme de l'anse.(≠côlon)
@@ -52,18 +52,17 @@ Ci dessous anses jéjunales typiques
 ![jejunum2.jpg](/anatomie_typique/jejunum2.jpg)
 
 ## Paroi de l'iléon
-Paroi normale extrêmement fine peut faire un millimètre
+Paroi normale extrêmement fine peut faire un millimètre, les 5 couches peuvent être très fines.
 
 - structure plutôt tubulaire, il n'y **pas de valvules conniventes** dans la lumière (sinon c'est du jéjunum), 
 
-- **Péristaltisme important** (stimulé par prise de boissons)
+- **Péristaltisme important** (là encore, stimulé par prise de boissons)
 
-- Lorsque l'on pense regarder l'iléon terminal, il faut toujours tenter de le relier à la valvule.
-
-1,8 mm
+- Pour être certain qu'il s'agit de l'iléon terminal, il faut toujours tenter de le relier à la valvule.
+*Iléon paroi 1,8 mm*
 ![ileon03_.jpg](/anatomie_typique/ileon03_.jpg)
 
-Iléon terminal- appendice
+*Iléon terminal et appendice*
 ![ileon-app.jpg](/anatomie_typique/ileon-app.jpg)
 
 ## Paroi du côlon
@@ -84,14 +83,17 @@ aspect en "w" lié aux deux berges de la valvule (généralement hyperéchogène
 ![valvule2.jpg](/anatomie_typique/valvule2.jpg)
 
 ## Paroi de l'appendice
-très fin relié au caecum, 
+Là encore les 5 couches sont très fines
+Aspect de tube très fin relié au caecum, 
 Pas de péristaltisme propre
-Souvent posé sur le psoas.
+Souvent posé sur le psoas. 
 ![appendice_1_copie.jpg](/anatomie_typique/appendice_1_copie.jpg)![appe2.jpg](/anatomie_typique/appe2.jpg)![appe3.jpg](/anatomie_typique/appe3.jpg)![appendice_ct_cible.jpg](/anatomie_typique/appendice_ct_cible.jpg)
 ## Paroi du Rectum
 On le voit difficilement et pas toujours 
-En arrière de la vessie (on le voit mieux vessie semi pleine)
-Ici femme en coupe transversale en arrière de l'utérus
+On le voit rarement avec la sonde superficielle qui ne pénètre que de 5 cm
+Difficile donc de bien voir les couches et d'avoir des mesures précises.
+Situé en arrière de la vessie (on le voit mieux vessie semi pleine)
+*Ici rectum, femme en coupe transversale en arrière de l'utérus*
 ![rectum_femme_ct.jpg](/anatomie_typique/rectum_femme_ct.jpg)
 
 
