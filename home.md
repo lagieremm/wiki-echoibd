@@ -1,8 +1,8 @@
 ---
-title: accueil
+title: Accueil
 description: 
 published: true
-date: 2025-10-29T14:44:51.673Z
+date: 2025-10-30T08:40:38.175Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
