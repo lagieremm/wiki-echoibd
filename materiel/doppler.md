@@ -2,13 +2,13 @@
 title: 4 Les Doppler
 description: 
 published: true
-date: 2025-10-30T09:15:52.657Z
+date: 2025-10-30T15:42:38.884Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-30T08:48:45.318Z
 ---
 
-# Les doppler
+[doppler](/bases/paroi_inflammee/doppler)# Les doppler
 ## Les réglages des doppler
 Les réglages sont très importants car ils influencent énormément les résultats et peuvent paraitre un peu compliqués initialement
 En matière de vaisseaux de la paroi intestinale, on doit viser **une vitesse cible basse, entre 4 et 8 cm/s (toujours moins de 8 cm/s)**
