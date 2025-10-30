@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2025-10-30T08:40:38.175Z
+date: 2025-10-30T11:07:13.139Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-28T16:06:33.456Z
 
 L'échographie est une formidable technique d'exploration du tube digestif, 
 - elle donne des informations immédiates, 
-- ne comporte aucune irradiation
+- sans aucune irradiation
 - ne coute pas cher
 - non invasive, très bien acceptée par les patients
 
