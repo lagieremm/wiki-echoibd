@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-11-02T21:21:00.110Z
+date: 2025-11-02T21:51:48.687Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -88,6 +88,7 @@ Aspect de tube très fin relié au caecum,
 Pas de péristaltisme propre
 Souvent posé sur le psoas. 
 ![appendice_1_copie.jpg](/anatomie_typique/appendice_1_copie.jpg)![appe2.jpg](/anatomie_typique/appe2.jpg)![appe3.jpg](/anatomie_typique/appe3.jpg)![appendice_ct_cible.jpg](/anatomie_typique/appendice_ct_cible.jpg)
+![appendice_trans_copie.jpg](/anatomie_typique/appendice_trans_copie.jpg)
 ## Paroi du Rectum
 On le voit difficilement et pas toujours 
 On le voit rarement avec la sonde superficielle qui ne pénètre que de 5 cm
