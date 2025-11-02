@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-11-02T21:19:17.714Z
+date: 2025-11-02T21:21:00.110Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
@@ -68,10 +68,10 @@ Paroi normale extrêmement fine peut faire un millimètre, les 5 couches peuvent
 ## Paroi du côlon
 En basse fréquence (BF) on repère surtout l'air colique sous forme de plages hyperéchogènes avec haustrations
 
-Hautrations coliques  (basse fréquence)
+*Hautrations coliques  (basse fréquence), on ne distingue pas les couches*
 ![colon_bf.jpg](/anatomie_typique/colon_bf.jpg)
 
-Hautrations coliques (haute fréquence)
+*Hautrations coliques (haute fréquence)*
 ![colon_copie.jpg](/anatomie_typique/colon_copie.jpg)
 Paroi du sigmoide (HF)
 ![signlelimberg0.jpg](/imagetypeetanatomie/signlelimberg0.jpg)
