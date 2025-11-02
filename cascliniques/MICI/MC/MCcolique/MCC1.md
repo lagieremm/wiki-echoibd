@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-11-02T19:00:02.463Z
+date: 2025-11-02T19:00:55.613Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -96,7 +96,8 @@ ttt
 </iframe>
 
 ### Film du colon droit et du cæcum
-[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723908 "Colon droit et Caecum")
+
+[![IMAGE ALT TEXT](/mccolique1/capturecaecum3.jpg)](https://player.vimeo.com/video/1102723908 "Colon droit et Caecum")
 
 <iframe src="https://player.vimeo.com/video/1102723908"
         width="640" height="360" frameborder="0"
