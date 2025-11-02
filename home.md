@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2025-10-30T11:10:05.685Z
+date: 2025-11-02T18:34:37.349Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -21,7 +21,7 @@ L'échographie est une formidable technique d'exploration du tube digestif,
 Elle n'est pas assez utilisée,
 Elle peut sembler compliquée à apprendre au premier abord
 
-Ce site est là pour:
+Ce site est là pour essayer d'y remédier:
 
 - [Donner rapidement les bases techniques de l'échographie intestinale](/bases)
 - Partager quelques astuces et conseils pour progresser rapidement
