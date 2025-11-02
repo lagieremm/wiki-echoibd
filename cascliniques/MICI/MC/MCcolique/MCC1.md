@@ -2,7 +2,7 @@
 title: maladie de crohn colique (avec iléïte)
 description: 
 published: true
-date: 2025-11-02T18:57:58.484Z
+date: 2025-11-02T19:00:02.463Z
 tags: maladie de chron, colon, iléïte
 editor: markdown
 dateCreated: 2025-07-16T22:12:42.738Z
@@ -87,7 +87,7 @@ ttt
 
 ### Film du transverse droit et gauche
 
-[![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723857 "transverse droit et gauche")
+[![IMAGE ALT TEXT](/mccolique1/capturetransverse2.jpg)](https://player.vimeo.com/video/1102723857 "transverse droit et gauche")
 
 <iframe src="https://player.vimeo.com/video/1102723857"
         width="640" height="360" frameborder="0"
