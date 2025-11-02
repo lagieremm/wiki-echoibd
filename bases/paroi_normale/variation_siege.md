@@ -2,7 +2,7 @@
 title: Variation de l'aspect échographique normal de la paroi selon la portion du tube digestif
 description: 
 published: true
-date: 2025-10-29T18:37:51.331Z
+date: 2025-11-02T21:19:17.714Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T08:36:20.312Z
