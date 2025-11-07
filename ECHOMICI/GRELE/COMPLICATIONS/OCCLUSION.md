@@ -2,7 +2,7 @@
 title: Occlusions
 description: 
 published: true
-date: 2025-11-07T16:13:48.599Z
+date: 2025-11-07T16:26:09.009Z
 tags: crohn, grele, complications des ileites, occlusion
 editor: markdown
 dateCreated: 2025-11-07T16:13:48.599Z
@@ -13,10 +13,12 @@ L'occlusion du grêle est très facile à détecter en échographie
 C'est la seule technique radiologique qui montre la motricité intestinale en temps réel
 On observe 
 - Des **mouvements de va et vient ou de reflux** du contenu intestinal
-- Une dilatation des anses d'amont avec des images en **"marche d'escalier" ou en "touches de piano"**.
+- Une **dilatation des anses** d'amont avec des images en **"marche d'escalier" ou en "touches de piano"**.
+- Il s'associe souvent **un épanchement** lié à la souffrance des anses
+
 Il faut essayer de trouver la cause
 - Sténose serrée
 - Fistule ou abcès
 - Association des deux types de lésion
-- Tumeur plus rarement
+- Tumeur eceptionnellement
 En revanche la visualisation de la cause ou du siège de l'occlusion est plus difficile du fait de la distension des anses et de l'air dans les anses.
