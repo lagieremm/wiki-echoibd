@@ -2,7 +2,7 @@
 title: 4 Les Doppler
 description: 
 published: true
-date: 2025-11-07T15:29:00.505Z
+date: 2025-11-07T15:31:25.969Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-30T08:48:45.318Z
@@ -22,15 +22,16 @@ Il faut **monter la PRF au maximum (artéfacts dans toutes la fenêtre) puis la 
 On utilise [**la classification de Limberg Modifiée**](/bases/paroi_inflammee/doppler) beaucoup plus simple (qui ne tient compte que du doppler, alors que la Classification de Limberg initiale mélangeait des éléments d'épaisseur de la paroi et de doppler)
 Tous les Doppler peuvent être utilisé à conditions de respecter les réglages indiqués plus haut.
 ## Le doppler couleur
-*Doppler classique Limberg 3 (paroi+ graisse) Crohn jéjunal
+*Doppler classique Limberg 1 sur l'image (limité à la paroi et faible) Crohn jéjunal
 La couleur représente le sens du flux 
-(rouge vient vers la sonde, bleu s'éloigne, peu utile en microcirculation)*
+(rouge vient vers la sonde, bleu s'éloigne, peu utile en microcirculation)
+La taille de la fenêtre est adaptée à la paroi étudiée*
 ![limberg3d.jpg](/techniques/limberg3d.jpg)
 
 ## Le doppler énergie
-*Doppler énergie LImberg 3 (parois+ graisse) même patient, pas d'indication de sens du flux* 
+*Doppler énergie LImberg 3 (activité intense de la paroi+ graisse) même patient, pas d'indication de sens du flux* 
 ![limberg3e_.jpg](/techniques/limberg3e_.jpg)
 ## La microcirculation
-*Doppler microcirculation LImberg 3 (parois+ graisse)
+*Doppler microcirculation LImberg 3 (activité intense de la paroi+ graisse)
 même patient, pas d'indication de sens du flux* 
 ![limberg3e.jpg](/techniques/limberg3e.jpg)
