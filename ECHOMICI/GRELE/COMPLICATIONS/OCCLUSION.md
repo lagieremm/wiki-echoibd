@@ -2,7 +2,7 @@
 title: Occlusions
 description: 
 published: true
-date: 2025-11-07T16:26:09.009Z
+date: 2025-11-07T16:34:56.129Z
 tags: crohn, grele, complications des ileites, occlusion
 editor: markdown
 dateCreated: 2025-11-07T16:13:48.599Z
@@ -15,10 +15,13 @@ On observe
 - Des **mouvements de va et vient ou de reflux** du contenu intestinal
 - Une **dilatation des anses** d'amont avec des images en **"marche d'escalier" ou en "touches de piano"**.
 - Il s'associe souvent **un épanchement** lié à la souffrance des anses
+*Anses grêles distendues contenu épais immobile*
 
+![distension.jpg](/complications-grele/occlusion/distension.jpg)
 Il faut essayer de trouver la cause
 - Sténose serrée
 - Fistule ou abcès
 - Association des deux types de lésion
+- Présence d'un bézoard exceptionnellement, témoigne de la sténose
 - Tumeur eceptionnellement
 En revanche la visualisation de la cause ou du siège de l'occlusion est plus difficile du fait de la distension des anses et de l'air dans les anses.
