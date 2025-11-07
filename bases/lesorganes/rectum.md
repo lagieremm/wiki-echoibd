@@ -2,7 +2,7 @@
 title: Rectum
 description: 
 published: true
-date: 2025-11-07T11:00:04.960Z
+date: 2025-11-07T11:01:09.176Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:19:40.880Z
@@ -36,6 +36,7 @@ Le rectum
 ![rectummcct1.jpg](/rectum/rectummcct1.jpg)
 
 #### Coupe longitudinale homme (BF)
+*Même patient coupe longitudinale*
 ![rectummccl1.jpg](/rectum/rectummccl1.jpg)
 *Epaississement asymétrique prédominant partie postérieure (9 mm)*
 ![rectummccl2.jpg](/rectum/rectummccl2.jpg)
