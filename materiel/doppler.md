@@ -1,14 +1,14 @@
 ---
-title: 4 Les Doppler
+title: 4 Les Dopplers
 description: 
 published: true
-date: 2025-11-07T15:31:25.969Z
+date: 2025-11-07T15:32:17.132Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-30T08:48:45.318Z
 ---
 
-# Les doppler
+# Les dopplers
 ## Les réglages des doppler
 Les réglages sont très importants car ils influencent énormément les résultats et peuvent paraitre un peu compliqués initialement
 En matière de vaisseaux de la paroi intestinale, on doit viser **une vitesse cible basse, entre 4 et 8 cm/s (toujours moins de 8 cm/s)**
