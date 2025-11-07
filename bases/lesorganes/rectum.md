@@ -2,7 +2,7 @@
 title: Rectum
 description: 
 published: true
-date: 2025-11-07T09:50:02.087Z
+date: 2025-11-07T11:00:04.960Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T14:19:40.880Z
@@ -29,6 +29,16 @@ On voit successivement
 La vessie
 l'axe prostate-vésicule séminales
 Le rectum
+#### Coupe transversale homme (BF)
+*Même patient, coupe passant par les vésicules séminales*
+![rectummcct2.jpg](/rectum/rectummcct2.jpg)
+*Maladie de Crohn, rectum (épaissisement asymétrique prédominant à la partie postérieure) coupe passant par la prostate*
+![rectummcct1.jpg](/rectum/rectummcct1.jpg)
+
+#### Coupe longitudinale homme (BF)
+![rectummccl1.jpg](/rectum/rectummccl1.jpg)
+*Epaississement asymétrique prédominant partie postérieure (9 mm)*
+![rectummccl2.jpg](/rectum/rectummccl2.jpg)
 ## Pièges
 # Rectum (voie trans-périnéale)
 La voie transpérinéale permet d'observer le rectum dans 100 % des cas avec la sonde HF 
