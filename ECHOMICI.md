@@ -2,22 +2,25 @@
 title: ECHO MICI en pratique
 description: 
 published: true
-date: 2025-10-29T22:03:40.976Z
+date: 2025-11-07T16:03:59.596Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
 ---
 
 # Lésions intestinales des MICI
-## Atteintes coliques
+## [Atteintes coliques](/ECHOMICI/COLON)
 ### Généralités
 ### RCH
 ### MC coliques
-## Atteintes du grêle
+## [Maladie de Crohn du grêle](/ECHOMICI/GRELE)
 ### Iléïte
-### Localisations multiples du grêle
-### Sténose, rétrodilatation occlusions
-### Fistule
-### Abcès
+### Localisations multiples du grêle, atteintes étendues
+### Complications des iléïtes[COMPLICATIONS](/ECHOMICI/GRELE/COMPLICATIONS)
+- Sténose,rétrodilatation 
+- Occlusions
+- Fistule
+- Abcès
+### MC jéjunales
 # Mesure de l'activité des MICI
-# Mesure de la réponse aux traitements pas l'échographie
+# Utilisation de l'échographie pour mesurer de la réponse aux traitements par l'échographie
