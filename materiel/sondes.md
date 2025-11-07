@@ -2,7 +2,7 @@
 title: 2 Les différentes sondes
 description: 
 published: true
-date: 2025-11-07T10:29:51.644Z
+date: 2025-11-07T10:33:55.077Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
@@ -50,6 +50,9 @@ Repérer des **complications** : sténoses, abcès, fistules.
 **Inconvénient :** 
 - Moins de pénétration → limitée aux structures superficielles (jusqu’à ~4–5 cm de profondeur) 
 - ne voit pas les structures au delà (notamment pour le rectum qui est rarement accessible par voie transvésicale en haute fréquence (on pourra souvent y accéder par voie transpérinéale).
+
+*ci-dessous même iléîte terminale vue en basse fréquence et en haute fréquence*![ileitebf.jpg](/techniques/ileitebf.jpg)
+*la sonde HF est la seule qui permette une analyse précise de la paroi*![ileitehf.jpg](/techniques/ileitehf.jpg)
 # Sonde microconvexe (moins répandue)
 **Utilisation :** 
 - Zones difficiles d’accès
@@ -59,8 +62,6 @@ Repérer des **complications** : sténoses, abcès, fistules.
 - Bon compromis entre résolution et pénétration
 - Ergonomie (notamment très pratique pour l'examen du rectum par voie transpérinéale).
 
-*ci-dessous même iléîte terminale vue en basse fréquence et en haute fréquence*![ileitebf.jpg](/techniques/ileitebf.jpg)
-*la sonde HF est la seule qui permette une analyse précise de la paroi*![ileitehf.jpg](/techniques/ileitehf.jpg)
 # En pratique pour les MICI (maladies inflammatoires intestinales)
 On utilise souvent les deux types de sondes, toutes deux indispensables :
 
