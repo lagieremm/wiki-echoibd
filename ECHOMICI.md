@@ -2,7 +2,7 @@
 title: ECHO MICI en pratique
 description: 
 published: true
-date: 2025-11-07T16:03:59.596Z
+date: 2025-11-07T16:04:41.443Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
@@ -16,7 +16,7 @@ dateCreated: 2025-08-05T21:39:15.751Z
 ## [Maladie de Crohn du grêle](/ECHOMICI/GRELE)
 ### Iléïte
 ### Localisations multiples du grêle, atteintes étendues
-### Complications des iléïtes[COMPLICATIONS](/ECHOMICI/GRELE/COMPLICATIONS)
+### [Complications des iléïtes](/ECHOMICI/GRELE/COMPLICATIONS)
 - Sténose,rétrodilatation 
 - Occlusions
 - Fistule
