@@ -2,7 +2,7 @@
 title: Occlusions
 description: 
 published: true
-date: 2025-11-07T17:18:55.347Z
+date: 2025-11-07T17:28:12.698Z
 tags: crohn, grele, complications des ileites, occlusion
 editor: markdown
 dateCreated: 2025-11-07T16:13:48.599Z
@@ -20,7 +20,8 @@ On observe
 ![distension2.jpg](/complications-grele/occlusion/distension2.jpg)
 *touches de piano ou marches d'escalier*
 ![marche_d'escalier_copie.png](/complications-grele/occlusion/marche_d'escalier_copie.png)
-
+*Anse distendue, stase, épanchement*
+![occlusion_epa_copie.jpg](/complications-grele/occlusion/occlusion_epa_copie.jpg)
 Il faut essayer de trouver la cause
 - Sténose serrée
 - Fistule ou abcès
