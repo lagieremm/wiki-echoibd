@@ -2,7 +2,7 @@
 title: 2 Les différentes sondes
 description: 
 published: true
-date: 2025-10-30T08:50:00.181Z
+date: 2025-11-07T10:29:51.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
@@ -53,11 +53,14 @@ Repérer des **complications** : sténoses, abcès, fistules.
 # Sonde microconvexe (moins répandue)
 **Utilisation :** 
 - Zones difficiles d’accès
-- pédiatrie.
+- Pédiatrie.
 
 **Avantages :** 
 - Bon compromis entre résolution et pénétration
-- Ergonomie.
+- Ergonomie (notamment très pratique pour l'examen du rectum par voie transpérinéale).
+
+*ci-dessous même iléîte terminale vue en basse fréquence et en haute fréquence*![ileitebf.jpg](/techniques/ileitebf.jpg)
+*la sonde HF est la seule qui permette une analyse précise de la paroi*![ileitehf.jpg](/techniques/ileitehf.jpg)
 # En pratique pour les MICI (maladies inflammatoires intestinales)
 On utilise souvent les deux types de sondes, toutes deux indispensables :
 
