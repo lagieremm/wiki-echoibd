@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2025-11-08T07:10:07.387Z
+date: 2025-11-08T07:11:24.840Z
 tags: doppler, doppler couleur, doppler energie, microcirculation
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
@@ -48,7 +48,7 @@ Activité Doppler intense de la paroi et de la graisse
 ![limb36.jpg](/imagetypeetanatomie/limb36.jpg)
 ![limb33e.jpg](/imagetypeetanatomie/limb33e.jpg)![limb34.jpg](/imagetypeetanatomie/limb34.jpg)
 ![limb35e.jpg](/imagetypeetanatomie/limb35e.jpg)
-Il exite différents [doppler](/materiel/doppler) qui peuvent tous être utilisés pour mesurer l'activité.
+Il exite différents [doppler](/materiel/doppler) qui peuvent tous être utilisés pour mesurer **l'activité** inflammatoire de la paroi intestinale.
 Le Doppler Couleur (qui enregistre la direction des flux (rouge se rapproche de la sonde et bleu s'éloigne de la sonde)
 Le Doppler Energie (qui ne mesure que les flux d'une seule couleur)
 La microcirculation (fournie par certains constructeurs)
