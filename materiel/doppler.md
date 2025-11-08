@@ -2,7 +2,7 @@
 title: 4 Les Dopplers
 description: 
 published: true
-date: 2025-11-08T07:17:21.539Z
+date: 2025-11-08T07:24:30.815Z
 tags: doppler, doppler couleur, doppler energie, microcirculation
 editor: markdown
 dateCreated: 2025-10-30T08:48:45.318Z
@@ -18,6 +18,12 @@ En matière de vaisseaux de la paroi intestinale, on doit viser **une vitesse ci
 
 Il faut **adapter la fenêtre Doppler à la taille de l'image** étudiée carré ou rectangle de 1 cm au dessus et au dessous de la paroi intestinale)
 Il faut **monter la PRF au maximum (artéfacts dans toutes la fenêtre) puis la descendre jusqu'au seuil** où les artéfacts disparaissent et mesurer alors l'activité
+A ces vitesses, les moindres mouvements vont déclencher un signal doppler, il faut donc faire attention à:
+- ne pas bouger la sonde lors de l'enregistrement du doppler
+- demander au patient de ne pas respirer
+- ne pas tenir compte du signal lié au péristaltisme lors que l'intestin se contracte
+- ne pas tenir compte des signaux dans la lumière qui sont des artéfacts
+
 
 On utilise [**la classification de Limberg Modifiée**](/bases/paroi_inflammee/doppler) beaucoup plus simple (qui ne tient compte que du doppler, alors que la Classification de Limberg initiale mélangeait des éléments d'épaisseur de la paroi et de doppler)
 Tous les Doppler peuvent être utilisé à conditions de respecter les réglages indiqués plus haut.
