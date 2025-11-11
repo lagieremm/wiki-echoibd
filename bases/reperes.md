@@ -2,7 +2,7 @@
 title: Technique d'examen et repères anatomiques
 description: Comment ne pas être perdu?
 published: true
-date: 2025-11-11T20:14:56.269Z
+date: 2025-11-11T20:15:53.904Z
 tags: repères anatomiques
 editor: markdown
 dateCreated: 2025-07-10T22:03:15.885Z
@@ -38,4 +38,4 @@ On voit mal :
 -   le jéjunum
 -   le rectum
 À ce niveau (échographie< IRM )
-L'IRM est supérieure à l'échographie pour la cartographie des lésions.  ![](/schémas/schéma_colon-grèle.jpg)![schemaechocolongrele_petit-4.jpg](/schemas/schemaechocolongrele_petit-4.jpg)![schema-colon-grele-petit.jpg](/schemas/schema-colon-grele-petit.jpg)![schéma_colon-grèle.jpg](/schemas/schéma_colon-grèle.jpg)
+L'IRM est supérieure à l'échographie pour la cartographie des lésions.  ![schéma_colon-grèle.jpg](/schemas/schéma_colon-grèle.jpg)
