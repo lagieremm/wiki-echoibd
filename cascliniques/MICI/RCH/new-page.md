@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2025-11-13T21:32:38.109Z
+date: 2025-11-13T21:34:24.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -33,4 +33,5 @@ reprise
 3) evolution
 
 quelques soit les marques échographe
-## extension et gravité de la maladie
+## extension et gravité de la maladie 2022
+echographe hitachi 2022
