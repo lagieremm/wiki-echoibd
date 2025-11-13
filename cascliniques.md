@@ -2,7 +2,7 @@
 title: Cas cliniques
 description: 
 published: true
-date: 2025-11-13T22:43:29.852Z
+date: 2025-11-13T22:44:04.594Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-15T08:45:47.400Z
@@ -19,7 +19,7 @@ le dernier cas publié
 ### Fistule
 ### Abcès
 # MICI Rectocolite hémorragique
-
+[RCH](/cascliniques/MICI/RCH)
 # Estomac
 # Grêle
 # Autres maladies coliques
