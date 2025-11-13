@@ -2,13 +2,13 @@
 title: Cas cliniques
 description: 
 published: true
-date: 2025-11-13T20:57:04.765Z
+date: 2025-11-13T20:57:27.239Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-15T08:45:47.400Z
 ---
 
-[](/cascliniques/MICI/RCH/)# Cas cliniques
+# Cas cliniques
 le dernier cas publié
 # MICI Maladie de Crohn ( MC)
 ## Maladie de Crohn iléales
@@ -18,7 +18,7 @@ le dernier cas publié
 ### Sténose
 ### Fistule
 ### Abcès
-# MICI Rectocolite hémorragique(RCH)[cascliniques](/cascliniques/MICI/RCH/cascliniques)
+# MICI Rectocolite hémorragique(RCH)[](/cascliniques/MICI/RCH/)
 # Estomac
 # Grêle
 # Autres maladies coliques
