@@ -2,7 +2,7 @@
 title: Cas cliniques
 description: 
 published: true
-date: 2025-11-13T22:44:45.670Z
+date: 2025-11-13T23:46:23.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-15T08:45:47.400Z
@@ -21,7 +21,7 @@ le dernier cas publié
 #  [MICI Rectocolite hémorragique RCH](/cascliniques/MICI/RCH)
 
 # Estomac
-# Grêle
+# Grêle autres que MICI
 # Autres maladies coliques
 ## Diverticules
 ## Colite ischémique
