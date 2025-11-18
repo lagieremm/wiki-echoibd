@@ -2,7 +2,7 @@
 title: Mucocèle
 description: 
 published: true
-date: 2025-11-18T22:38:48.252Z
+date: 2025-11-18T22:49:13.170Z
 tags: mucocele
 editor: markdown
 dateCreated: 2025-11-18T22:35:19.509Z
@@ -14,4 +14,5 @@ Aspect bombant de l'orifice appendiculaire, évoquant la présence d'une tumeur 
 ## Coloscopie
 ![mucolblanc.jpg](/cascliniques/mucolblanc.jpg)![mucoceleblanc.jpg](/cascliniques/mucoceleblanc.jpg)![mucocelenbi.jpg](/cascliniques/mucocelenbi.jpg)
 ## Echographie
+![mucoecho.jpg](/cascliniques/mucoecho.jpg)
 ## Chirurgie
