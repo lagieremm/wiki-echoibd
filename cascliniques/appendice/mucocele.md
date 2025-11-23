@@ -2,7 +2,7 @@
 title: Mucocèle
 description: 
 published: true
-date: 2025-11-23T18:50:10.582Z
+date: 2025-11-23T19:00:58.512Z
 tags: mucocele
 editor: markdown
 dateCreated: 2025-11-18T22:35:19.509Z
@@ -28,5 +28,7 @@ En échographie à distance (il faut éviter de la faire le jour de la coloscopi
 *Corps de l'appendice vermiculaire distendu (8 mm de large)*
 ![mucocorps.jpg](/cascliniques/mucocele/mucocorps.jpg)
 *Pointe de l'appendice distendue (7.5 mm de large)*![mucopointe.jpg](/cascliniques/mucocele/mucopointe.jpg)
+## Film d'échographie
+
 ## Chirurgie
 Anatomopathologie: tumeur bénigne
