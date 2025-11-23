@@ -2,7 +2,7 @@
 title: Mucocèle
 description: 
 published: true
-date: 2025-11-23T19:13:04.501Z
+date: 2025-11-23T19:21:08.597Z
 tags: mucocele
 editor: markdown
 dateCreated: 2025-11-18T22:35:19.509Z
@@ -30,7 +30,7 @@ En échographie à distance (il faut éviter de la faire le jour de la coloscopi
 *Pointe de l'appendice distendue (7.5 mm de large)*![mucopointe.jpg](/cascliniques/mucocele/mucopointe.jpg)
 ## Film d'échographie
 
-[![mucocel44.png](/cascliniques/mucocele/mucocel44.png)](https://player.vimeo.com/videos/1139838633"Mucocèle appendiculaire")
+[![IMAGE ALT TEXT](/cascliniques/mucocele/mucocel44.png)](https://player.vimeo.com/videos/1139838633"Mucocèle appendiculaire")
 
 <iframe src="https://vimeo.com/manage/videos/1139838633"
         width="640" height="360" frameborder="0"
