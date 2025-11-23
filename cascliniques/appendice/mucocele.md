@@ -2,7 +2,7 @@
 title: Mucocèle
 description: 
 published: true
-date: 2025-11-23T13:22:02.765Z
+date: 2025-11-23T18:50:10.582Z
 tags: mucocele
 editor: markdown
 dateCreated: 2025-11-18T22:35:19.509Z
@@ -21,6 +21,12 @@ Aspect bombant de l'orifice appendiculaire, évoquant la présence d'une tumeur 
 ![mucocelenbi.jpg](/cascliniques/mucocelenbi.jpg)
 ## Echographie
 En échographie à distance (il faut éviter de la faire le jour de la coloscopie car l'air peut masquer les images), on voit parfaitement les lésions au delà de l'orifice appendiculaire, la tumeur fait 18 mm x 10 mm et l'appendice au delà est rempli de mucus.
+*Schéma représentatif du mucocèle*
 ![mucocele22.jpg](/cascliniques/mucocele/mucocele22.jpg)
+*Image échographique de l'appendice au niveau du caecum*
 ![mucoecho.jpg](/cascliniques/mucoecho.jpg)
+*Corps de l'appendice vermiculaire distendu (8 mm de large)*
+![mucocorps.jpg](/cascliniques/mucocele/mucocorps.jpg)
+*Pointe de l'appendice distendue (7.5 mm de large)*![mucopointe.jpg](/cascliniques/mucocele/mucopointe.jpg)
 ## Chirurgie
+Anatomopathologie: tumeur bénigne
