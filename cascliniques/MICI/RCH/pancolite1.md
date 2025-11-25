@@ -2,7 +2,7 @@
 title: RCH-pancolite1
 description: 
 published: true
-date: 2025-11-25T23:05:41.695Z
+date: 2025-11-25T23:08:08.245Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T17:16:25.675Z
@@ -49,6 +49,7 @@ Hb 14 g
 -de l'expertise de l'opérateur 
 Elle se fait mieux par **voie transpérinéale**
 L'endoscopie est indispensable au diagnostic initial
+- L'EI peut etre utlisée chez la femme enceinte, surtout au premier trimestre, en fin de grossesse l'utérus refoule le tube en périphérie.
 - L'EI est un très bon examen de suivi pour **mesurer la réponse** au traitement
 - L'EI est un très bon examen pour affirmer **la rémission** (attention à la rectite résiduelle) 
 
