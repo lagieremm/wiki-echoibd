@@ -2,7 +2,7 @@
 title: RCH-pancolite1
 description: 
 published: true
-date: 2025-11-25T22:58:38.825Z
+date: 2025-11-25T23:05:41.695Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T17:16:25.675Z
@@ -42,11 +42,14 @@ Hb 11 g CRP neg
 ## octobre 2025
 Hb 14 g
 ## Conclusions
-- C'est  un très bon examen pour évaluer **l'extension colique** de la maladie, 
+- L'échographie intestinale (EI) est  un très bon examen pour évaluer **l'extension colique** de la maladie, 
 - **l'atteinte rectale**  est plus difficile à évaluer et varie en fonction:
 -de l'échogénicité des patients, 
 -de la distance entre la sonde et le rectum
 -de l'expertise de l'opérateur 
 Elle se fait mieux par **voie transpérinéale**
+L'endoscopie est indispensable au diagnostic initial
+- L'EI est un très bon examen de suivi pour **mesurer la réponse** au traitement
+- L'EI est un très bon examen pour affirmer **la rémission** (attention à la rectite résiduelle) 
 
 
