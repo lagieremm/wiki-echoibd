@@ -2,7 +2,7 @@
 title: Mucocèle
 description: 
 published: true
-date: 2025-11-25T12:05:02.418Z
+date: 2025-11-25T12:05:48.897Z
 tags: mucocele
 editor: markdown
 dateCreated: 2025-11-18T22:35:19.509Z
@@ -24,11 +24,11 @@ En échographie, à distance (éviter le jour de la coloscopie car l'air peut ma
 *Schéma représentatif du mucocèle*
 ![Schéma du mucocèle](/cascliniques/mucocele/mucocele22.jpg)
 *Image échographique de l'appendice au niveau du caecum*
-![Tumeur dans l'orifice en coupe](/cascliniques/mucoecho.jpg)
+![Tumeur dans l'orifice appendiculaire en coupe](/cascliniques/mucoecho.jpg)
 *Corps de l'appendice vermiculaire distendu (8 mm de large)*
-![corps de l'appendice distendu](/cascliniques/mucocele/mucocorps.jpg)
+![Corps de l'appendice distendu](/cascliniques/mucocele/mucocorps.jpg)
 *Pointe de l'appendice distendue (7.5 mm de large)*
-![pointe de l'appendice](/cascliniques/mucocele/mucopointe.jpg)
+![Pointe de l'appendice](/cascliniques/mucocele/mucopointe.jpg)
 ## Film d'échographie
 
 
