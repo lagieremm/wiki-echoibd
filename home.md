@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2025-11-02T18:34:37.349Z
+date: 2025-11-25T22:01:05.583Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -15,7 +15,7 @@ L'échographie est une formidable technique d'exploration du tube digestif,
 - sans aucune irradiation
 - son coût est faible
 - c'est la technique qui consomme le moins de CO2
-- non invasive, très bien acceptée par les patients
+- non invasive, très bien acceptée par les patients, on peut la répéter facilement
 - les échographes sont très répandus, disponibles partout
 
 Elle n'est pas assez utilisée,
