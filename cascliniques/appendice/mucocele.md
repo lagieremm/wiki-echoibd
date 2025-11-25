@@ -2,7 +2,7 @@
 title: Mucocèle
 description: 
 published: true
-date: 2025-11-25T08:21:05.460Z
+date: 2025-11-25T11:52:55.139Z
 tags: mucocele
 editor: markdown
 dateCreated: 2025-11-18T22:35:19.509Z
@@ -27,7 +27,8 @@ En échographie, à distance (éviter le jour de la coloscopie car l'air peut ma
 ![mucoecho.jpg](/cascliniques/mucoecho.jpg)
 *Corps de l'appendice vermiculaire distendu (8 mm de large)*
 ![mucocorps.jpg](/cascliniques/mucocele/mucocorps.jpg)
-*Pointe de l'appendice distendue (7.5 mm de large)*![mucopointe.jpg](/cascliniques/mucocele/mucopointe.jpg)
+*Pointe de l'appendice distendue (7.5 mm de large)*
+![mucopointe.jpg](/cascliniques/mucocele/mucopointe.jpg)
 ## Film d'échographie
 
 
