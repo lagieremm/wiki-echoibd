@@ -2,7 +2,7 @@
 title: Mucocèle
 description: 
 published: true
-date: 2025-11-25T12:05:48.897Z
+date: 2025-11-25T12:13:54.212Z
 tags: mucocele
 editor: markdown
 dateCreated: 2025-11-18T22:35:19.509Z
@@ -32,7 +32,7 @@ En échographie, à distance (éviter le jour de la coloscopie car l'air peut ma
 ## Film d'échographie
 
 
-[![IMAGE ALT TEXT](/cascliniques/mucocele/mucocel44.png)](https://vimeo.com/manage/videos/1139838633 "Mucocèle appendiculaire")
+[![IMAGE ALT TEXT](/cascliniques/mucocele/mucocel44.png)](https://vimeo.com/1139838633 "Mucocèle appendiculaire")
 
 
 
