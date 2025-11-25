@@ -2,7 +2,7 @@
 title: RCH-pancolite1
 description: 
 published: true
-date: 2025-11-11T19:56:52.570Z
+date: 2025-11-25T22:58:38.825Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T17:16:25.675Z
@@ -12,9 +12,9 @@ dateCreated: 2025-11-11T17:16:25.675Z
 
 ## mai 2025
 - Patiente 32 ans
-- antécédent familial de CCR (grand mère paternelle et père 55 ans)
-- Diarrhée depusi 12/23 (première grossesse G1P1 2023) suite à l'arret du tabac,non explorée à l'époque. 
-- Elle a 10 selles par jour (3 la nuit) 100 % de sang et glaires, parfois incontinence, perte de 3 kg.
+- antécédent familial de CCR (grand mère  et père)
+- Diarrhée depusi 2023 (première grossesse G1P1 2023) suite à l'arret du tabac,non explorée à l'époque. 
+- 10 selles par jour (3 nocturnes) 100 % de sang et glaires, parfois incontinence, perte de 3 kg.
 
 ### L'échographie confirme le diagnostic évoqué
 Il existe une pancolite continue prédominant au rectum et au sigmoide
@@ -41,4 +41,12 @@ Hb 11 g CRP neg
 2 selles par jour pas de sang ni de faux besoin
 ## octobre 2025
 Hb 14 g
+## Conclusions
+- C'est  un très bon examen pour évaluer **l'extension colique** de la maladie, 
+- **l'atteinte rectale**  est plus difficile à évaluer et varie en fonction:
+-de l'échogénicité des patients, 
+-de la distance entre la sonde et le rectum
+-de l'expertise de l'opérateur 
+Elle se fait mieux par **voie transpérinéale**
+
 
