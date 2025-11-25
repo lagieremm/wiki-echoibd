@@ -2,7 +2,7 @@
 title: Mucocèle
 description: 
 published: true
-date: 2025-11-25T06:46:19.943Z
+date: 2025-11-25T08:21:05.460Z
 tags: mucocele
 editor: markdown
 dateCreated: 2025-11-18T22:35:19.509Z
@@ -29,13 +29,11 @@ En échographie, à distance (éviter le jour de la coloscopie car l'air peut ma
 ![mucocorps.jpg](/cascliniques/mucocele/mucocorps.jpg)
 *Pointe de l'appendice distendue (7.5 mm de large)*![mucopointe.jpg](/cascliniques/mucocele/mucopointe.jpg)
 ## Film d'échographie
-[![IMAGE ALT TEXT](/cascliniques/mucocele/mucocel44.png)]((https://player.vimeo.com/videos/1139838633"Mucocèle appendiculaire")
 
-<iframe src="https://vimeo.com/manage/videos/1139838633"
-        width="640" height="360" frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen>
-</iframe>
+
+[![IMAGE ALT TEXT](/cascliniques/mucocele/mucocel44.png)](https://vimeo.com/manage/videos/1139838633 "Mucocèle appendiculaire")
+
+
 
 ## Chirurgie
 Anatomopathologie: tumeur bénigne
