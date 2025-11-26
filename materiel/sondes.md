@@ -2,7 +2,7 @@
 title: 2 Les différentes sondes
 description: 
 published: true
-date: 2025-11-07T10:33:55.077Z
+date: 2025-11-26T07:16:04.596Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
@@ -10,9 +10,15 @@ dateCreated: 2025-07-28T16:56:15.722Z
 
 # Les deux grands types de sondes en échographie intestinale
 Il existe deux grands types de sonde utilisées en échographie du tube digestifs, toutes deux indispensables.
+**La fréquence** des sondes, 
+- se rapporte au nombre de cycle d'onde par seconde
+- elle est exprimée en MHZ (mégahertz soit un milion de cycle par seconde)
+
+- **Plus la fréquence est élevée, plus la résolution est grande**
+- **Plus la fréquence est basse, plus la pénétration est grande**
 ## 1) Sonde convexe, basse fréquence (BF) en général 1-5 MHZ
 ![image.jpg](/image.jpg)
-**Utilisation** : on commence toujours avec cette sonde 
+On commence toujours avec cette sonde 
 - Permet une vue d’ensemble de l’abdomen
 - le repérage global des anses (estomac,les portions du colon, iléon, rectum), leur position, repérage d'une éventuelle anse inflammée.
 
@@ -51,7 +57,7 @@ Repérer des **complications** : sténoses, abcès, fistules.
 - Moins de pénétration → limitée aux structures superficielles (jusqu’à ~4–5 cm de profondeur) 
 - ne voit pas les structures au delà (notamment pour le rectum qui est rarement accessible par voie transvésicale en haute fréquence (on pourra souvent y accéder par voie transpérinéale).
 
-*ci-dessous même iléîte terminale vue en basse fréquence et en haute fréquence*![ileitebf.jpg](/techniques/ileitebf.jpg)
+*ci-dessous même iléîte terminale vue en basse fréquence et en haute fréquence, iléïte passant devant les vaisseaux iliaques*![ileitebf.jpg](/techniques/ileitebf.jpg)
 *la sonde HF est la seule qui permette une analyse précise de la paroi*![ileitehf.jpg](/techniques/ileitehf.jpg)
 # Sonde microconvexe (moins répandue)
 **Utilisation :** 
