@@ -2,7 +2,7 @@
 title: 4 Les Dopplers
 description: 
 published: true
-date: 2025-11-26T07:17:25.902Z
+date: 2025-11-26T07:38:41.891Z
 tags: doppler, doppler couleur, doppler energie, microcirculation
 editor: markdown
 dateCreated: 2025-10-30T08:48:45.318Z
