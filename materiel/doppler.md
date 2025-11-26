@@ -2,7 +2,7 @@
 title: 4 Les Dopplers
 description: 
 published: true
-date: 2025-11-08T07:24:30.815Z
+date: 2025-11-26T07:17:25.902Z
 tags: doppler, doppler couleur, doppler energie, microcirculation
 editor: markdown
 dateCreated: 2025-10-30T08:48:45.318Z
@@ -22,7 +22,7 @@ A ces vitesses, les moindres mouvements vont déclencher un signal doppler, il f
 - ne pas bouger la sonde lors de l'enregistrement du doppler
 - demander au patient de ne pas respirer
 - ne pas tenir compte du signal lié au péristaltisme lors que l'intestin se contracte
-- ne pas tenir compte des signaux dans la lumière qui sont des artéfacts
+- ne pas tenir compte des signaux situés dans la lumière qui sont des artéfacts
 
 
 On utilise [**la classification de Limberg Modifiée**](/bases/paroi_inflammee/doppler) beaucoup plus simple (qui ne tient compte que du doppler, alors que la Classification de Limberg initiale mélangeait des éléments d'épaisseur de la paroi et de doppler)
