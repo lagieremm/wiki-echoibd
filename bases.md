@@ -2,7 +2,7 @@
 title: Les bases de l'échographie intestinale
 description: 
 published: true
-date: 2025-10-29T18:25:54.330Z
+date: 2025-11-26T07:07:36.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:11:36.899Z
@@ -11,7 +11,7 @@ dateCreated: 2025-07-28T16:11:36.899Z
 # Les bases de l'échographie intestinale
 
 - Préparation du patient
-- [Les sondes](/bases/sondes)
+- [Les sondes](/materiel/sondes)
 - [Paroi normale et ses variations](/bases/paroi_normale)
 - [Modifications de la paroi en cas d'inflammation](/bases/paroi_inflammee)
 - [Aspect échographique des différents organes du tube digestif](/bases/lesorganes)
