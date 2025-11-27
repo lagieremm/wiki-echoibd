@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2025-11-27T20:03:04.229Z
+date: 2025-11-27T20:04:40.848Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -27,4 +27,5 @@ Ce site est là pour essayer d'y remédier:
 - Partager quelques astuces et conseils pour progresser rapidement
 - perfectionner ses images
 - éviter les erreurs
+- Echographie intestinale dans les MICI
 - [partager des cas cliniques](/cascliniques)
