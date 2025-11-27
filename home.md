@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2025-11-25T22:01:05.583Z
+date: 2025-11-27T20:02:55.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -11,11 +11,11 @@ dateCreated: 2025-07-28T16:06:33.456Z
 # Echographie et MICI (maladies inflammatoires intestinales)
 
 L'échographie est une formidable technique d'exploration du tube digestif, 
-- elle donne des informations immédiates
-- sans aucune irradiation
-- son coût est faible
+- donne des informations immédiates
+- aucune irradiation
+- faible coût
 - c'est la technique qui consomme le moins de CO2
-- non invasive, très bien acceptée par les patients, on peut la répéter facilement
+- non invasive, sans contre indications, très bien acceptée par les patients, on peut la répéter facilement
 - les échographes sont très répandus, disponibles partout
 
 Elle n'est pas assez utilisée,
