@@ -2,7 +2,7 @@
 title: Conduite d'un examen
 description: 
 published: true
-date: 2025-11-27T21:03:16.972Z
+date: 2025-11-27T21:23:34.230Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:33:52.187Z
@@ -30,4 +30,9 @@ Permet d'analyser précisément la paroi (épaisseur, doppler, graisse)
 ## Option: échographie transpérinéale pour l'étude du rectum
 
 # Exploration du colon
+## Suivre le cadre colique
+## Variations anatomiques du colon
+## Ne pas confondre avec le grêle
+# Problème du rectum
 # Exploration du grêle
+
