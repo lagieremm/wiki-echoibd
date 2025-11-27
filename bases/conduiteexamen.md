@@ -2,7 +2,7 @@
 title: Conduite d'un examen
 description: 
 published: true
-date: 2025-11-27T21:23:34.230Z
+date: 2025-11-27T22:49:47.753Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:33:52.187Z
@@ -28,9 +28,26 @@ Occlusion
 ## Deuxième temps: Sonde haute fréquence (8-12 MHZ)
 Permet d'analyser précisément la paroi (épaisseur, doppler, graisse)
 ## Option: échographie transpérinéale pour l'étude du rectum
+# Mouvements de la sonde
+On peut faire 3 types de mouvements pour suivre une anse intestinale
+Le but étant d'arriver à suivre cet anse le plus possible
+
+- Déplacements parallèles, sonde en position horizontale ou verticale
+
+- Torsions autour d'un axe
+- Mouvements de bascule
+
+
 
 # Exploration du colon
+Le côlon est cet organe plein d'air qui gêne l'exploration du foie, des reins, du pancréas, il faut se baser sur ces images aériques pour le suivre
+On voit souvent les haustrations coliques
+L'image de base de la paroi colique a une musculeuse épaissie
 ## Suivre le cadre colique
+### De la vessie à l'angle gauche
+### Du transverse aux angles droit et gauche
+### De l'angle droit au caecum
+### Le rectum
 ## Variations anatomiques du colon
 ## Ne pas confondre avec le grêle
 # Problème du rectum
