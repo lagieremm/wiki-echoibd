@@ -2,7 +2,7 @@
 title: ECHO MICI en pratique
 description: 
 published: true
-date: 2025-11-07T16:06:57.161Z
+date: 2025-12-01T22:54:52.673Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
