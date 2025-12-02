@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T06:24:50.797Z
+date: 2025-12-02T06:32:41.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -21,13 +21,22 @@ Les portions atteintes sont inflammées (donc épaissies avec signal Doppler,  a
 | Inflammation de la graisse              |  Minime autour de l'anse, sinon signe de gravité (Colite aigue grave)                          | Souvent très importante                      |
 | Complications (sténose, fistule, abcès)     |   Sténose parfois, jamais d'abcès ou de fistule            |  Sténose, fistules abcès possibles                         |
 
-## Rectocolite hémorragique
+## Rectocolite hémorragique (RCH)
 ### Répartition des lésions
 **Extension de la maladie**
 En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
+Classification de Montréal
+E1 rectosigmoïde (40-50%), E2 Colite gauche (30-40%), E3 pancolite (20 %)
 - Anse colique épaissie (>3 mm) de façon **continue** (aucun intervalle sain)
-- **cironférentielle** (en coupe l'atteinte est la même sur toute la cirdonférence
-- 
+- **circonférentielle** (en coupe l'atteinte est la même sur toute la cirdonférence
+- **symétrique** (paroi antérieure et postérieure ont le même épaississement)
+Le maximum des lésions est à gauche 
+Un patch du bas fond caecal est possible
+Une iléïte par reflux est possible
+l'appendice peut être atteint de façon isolée
+### Pièges échographiques
+Cet épaississement est non spécifique (on peut le voir dans les colites bactériennes, mais généralement l'atteinte est plus étendue et pas limitée au rectosigmoïde).
+On ne voit pas bien les atteintes rectale E1 par voie abdominale (très bien vue uniquement dans 20 % des cas), il faut utiliser la voie transpérinéale.
 
 ## Maladie de Crohn
 Your content here
