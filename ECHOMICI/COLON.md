@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T09:01:17.436Z
+date: 2025-12-02T09:28:09.738Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -62,6 +62,22 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 **Il n'y a jamais de fistule ou d'abcès**
 
 ### Exemples
-![rch1.jpg](/bases/rch/rch1.jpg)![rch2.jpg](/bases/rch/rch2.jpg)![rch3ct.jpg](/bases/rch/rch3ct.jpg)![rch9_2.jpg](/bases/rch/rch9_2.jpg)![rch10.jpg](/bases/rch/rch10.jpg)
+- La gravité est proportionnelle à l'épaississement 
+- L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), continue, régulier, cironférentiel
+- La structure en couche est conservée
+- La graisse est peu infiltrée
+
+![rch1.jpg](/bases/rch/rch1.jpg)![rch2.jpg](/bases/rch/rch2.jpg)![rch3ct.jpg](/bases/rch/rch3ct.jpg)![rch9_2.jpg](/bases/rch/rch9_2.jpg)![rch10.jpg](/bases/rch/rch10.jpg)![rch5.jpg](/bases/rch/rch5.jpg)![rchct3.jpg](/bases/rch/rchct3.jpg)
+*Sur un sigmoide on a parfois un faux aspect d'irrégularité*
+![rch12div.jpg](/bases/rch/rch12div.jpg)
+
+*Le doppler est souvent limité à la paroi (Limberg 1 et 2)*
+![rchdop1.jpg](/bases/rch/rchdop1.jpg)![rchdop2.jpg](/bases/rch/rchdop2.jpg)![rchdop3.jpg](/bases/rch/rchdop3.jpg)![rchdop7.jpg](/bases/rch/rchdop7.jpg)
+*Les ganglions sont petits*![rchgg1.jpg](/bases/rch/rchgg1.jpg)
+### Formes graves
+L'épaississement est important
+Début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)
+![rchdispcouche.jpg](/bases/rch/rchdispcouche.jpg)
+![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)![rch12div.jpg](/bases/rch/rch12div.jpg)
 ## Maladie de Crohn
 Your content here
