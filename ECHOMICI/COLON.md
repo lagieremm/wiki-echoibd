@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T09:47:27.047Z
+date: 2025-12-02T10:22:00.689Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -73,13 +73,19 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 
 *Le doppler est souvent limité à la paroi (Limberg 1 et 2)*
 ![rchdop1.jpg](/bases/rch/rchdop1.jpg)![rchdop2.jpg](/bases/rch/rchdop2.jpg)![rchdop3.jpg](/bases/rch/rchdop3.jpg)![rchdop7.jpg](/bases/rch/rchdop7.jpg)
-*Les ganglions sont petits*![rchgg1.jpg](/bases/rch/rchgg1.jpg)
+*Les ganglions sont petits*
+![rchgg1.jpg](/bases/rch/rchgg1.jpg)*Malgré sa petite taille, ganglion rond, hypoéchogène inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
 ### Formes graves
 L'épaississement est important
 Début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)
 ![rchdispcouche.jpg](/bases/rch/rchdispcouche.jpg)
 ![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)
+![rchcagdebut.jpg](/bases/rch/rchcagdebut.jpg)![rchcagdebut2.jpg](/bases/rch/rchcagdebut2.jpg)
 Disparition totale de la structure en couche
 ![rchcag1.jpg](/bases/rch/rchcag1.jpg)
+*Paroi totalement hypoéchogène et couple longitudinale, surface irrégulière donc ulcérée ![rchcagcl_2.jpg](/bases/rch/rchcagcl_2.jpg)
+*Paroi hypoéchogène, irrégulière, présence d'air dans la paroi due aux ulcères*![rchcag7_text.jpg](/bases/rch/rchcag7_text.jpg)
+
+
 ## Maladie de Crohn
 Your content here
