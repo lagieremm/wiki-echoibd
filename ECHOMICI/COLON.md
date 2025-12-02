@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T09:28:39.444Z
+date: 2025-12-02T09:47:27.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -78,6 +78,8 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 L'épaississement est important
 Début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)
 ![rchdispcouche.jpg](/bases/rch/rchdispcouche.jpg)
-![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)![rch12div.jpg](/bases/rch/rch12div.jpg)
+![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)
+Disparition totale de la structure en couche
+![rchcag1.jpg](/bases/rch/rchcag1.jpg)
 ## Maladie de Crohn
 Your content here
