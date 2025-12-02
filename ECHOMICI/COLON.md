@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T09:28:09.738Z
+date: 2025-12-02T09:28:39.444Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
