@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T08:08:06.301Z
+date: 2025-12-02T09:01:17.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -62,5 +62,6 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 **Il n'y a jamais de fistule ou d'abcès**
 
 ### Exemples
+![rch1.jpg](/bases/rch/rch1.jpg)![rch2.jpg](/bases/rch/rch2.jpg)![rch3ct.jpg](/bases/rch/rch3ct.jpg)![rch9_2.jpg](/bases/rch/rch9_2.jpg)![rch10.jpg](/bases/rch/rch10.jpg)
 ## Maladie de Crohn
 Your content here
