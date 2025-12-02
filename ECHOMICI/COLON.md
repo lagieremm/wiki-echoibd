@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T10:29:54.876Z
+date: 2025-12-02T10:43:30.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -84,6 +84,7 @@ Début de la disparition de la structure en couches (le contraste entre la muque
 Disparition totale de la structure en couche
 ![rchcag1.jpg](/bases/rch/rchcag1.jpg)
 *Paroi totalement hypoéchogène et couple longitudinale, surface irrégulière donc ulcérée ![rchcagcl_2.jpg](/bases/rch/rchcagcl_2.jpg)
+![rchcag5.jpg](/bases/rch/rchcag5.jpg)![rchcag6dope.jpg](/bases/rch/rchcag6dope.jpg)![rchcag4.jpg](/bases/rch/rchcag4.jpg)
 *Paroi hypoéchogène, irrégulière, présence d'air dans la paroi due aux ulcères*![rchcag7_text.jpg](/bases/rch/rchcag7_text.jpg)
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)![rchcag9.jpg](/bases/rch/rchcag9.jpg)![rchcag10.jpg](/bases/rch/rchcag10.jpg)
