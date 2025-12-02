@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T07:11:11.073Z
+date: 2025-12-02T07:22:57.696Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -20,6 +20,7 @@ Les portions atteintes sont inflammées (donc épaissies avec signal Doppler,  a
 | Doppler             | Surtout pariétal (limberg 1 et 2) Limberg 3 en cas de gravité (extension au delà de la paroi)               | Gros néo vaisseaux, volontier Limberg 3                       |
 | Inflammation de la graisse              |  Minime autour de l'anse, sinon signe de gravité (Colite aigue grave)                          | Souvent très importante                      |
 | Complications (sténose, fistule, abcès)     |   Sténose parfois, jamais d'abcès ou de fistule            |  Sténose, fistules abcès possibles                         |
+| Ganglions |De petite taille (quelques millimètres) |Peuvent être volumineux 10- 15 mm)
 
 ## Rectocolite hémorragique (RCH)
 ### Répartition des lésions
@@ -47,7 +48,14 @@ On observe un épaississement et une perte des haustrations.
 - de 3 à 10 mm (la gravité de la maladie est proportionnelle à l'épaississement) 
 - les ulcérations de surface sont rarement visibles sauf en cas de colite aigue grave (CAG)
 - Perte des haustrations (le bord externe du colon est rectiligne), lors de la cicatrisation on retrouve des haustrations
-- Microcolon 
+- Microcolon dans les formes chroniques
+- **La structure en couche est toujours conservée**, sauf dans les formes graves (l'inflammation gagne en profondeur, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique). **La perte de la structure en couche est un signe de gravité**
+
+Les modifications extra intestinales sont modérées (sauf dans les formes graves)
+- Doppler limité à la paroi (Limberg 1 ou 2)
+- Infiltration modérée de la graisse péricolique (quelques millimètres)
+- ganglions de petite taille (bord interne du cadre colique)
+
 
 
 ## Maladie de Crohn
