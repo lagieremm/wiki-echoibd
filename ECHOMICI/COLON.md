@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T07:22:57.696Z
+date: 2025-12-02T07:24:11.498Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -56,6 +56,7 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 - Infiltration modérée de la graisse péricolique (quelques millimètres)
 - ganglions de petite taille (bord interne du cadre colique)
 
+**Il n'y a jamais de fistule ou d'abcès**
 
 
 ## Maladie de Crohn
