@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T10:26:56.554Z
+date: 2025-12-02T10:29:54.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -89,5 +89,5 @@ Disparition totale de la structure en couche
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)![rchcag9.jpg](/bases/rch/rchcag9.jpg)![rchcag10.jpg](/bases/rch/rchcag10.jpg)
 *Colon hypoéchogène paroi irrégulière*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
 
-## Maladie de Crohn
+## Maladie de Crohn (MC) colique aspect échographique
 Your content here
