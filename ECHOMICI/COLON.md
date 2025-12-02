@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-01T23:39:55.754Z
+date: 2025-12-02T06:24:50.797Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -22,6 +22,12 @@ Les portions atteintes sont inflammées (donc épaissies avec signal Doppler,  a
 | Complications (sténose, fistule, abcès)     |   Sténose parfois, jamais d'abcès ou de fistule            |  Sténose, fistules abcès possibles                         |
 
 ## Rectocolite hémorragique
+### Répartition des lésions
+**Extension de la maladie**
+En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
+- Anse colique épaissie (>3 mm) de façon **continue** (aucun intervalle sain)
+- **cironférentielle** (en coupe l'atteinte est la même sur toute la cirdonférence
+- 
 
 ## Maladie de Crohn
 Your content here
