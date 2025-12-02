@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T06:32:41.707Z
+date: 2025-12-02T06:35:28.106Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -35,8 +35,9 @@ Un patch du bas fond caecal est possible
 Une iléïte par reflux est possible
 l'appendice peut être atteint de façon isolée
 ### Pièges échographiques
-Cet épaississement est non spécifique (on peut le voir dans les colites bactériennes, mais généralement l'atteinte est plus étendue et pas limitée au rectosigmoïde).
-On ne voit pas bien les atteintes rectale E1 par voie abdominale (très bien vue uniquement dans 20 % des cas), il faut utiliser la voie transpérinéale.
+- Cet épaississement est **non spécifique** (on peut le voir dans les colites bactériennes, mais généralement l'atteinte est plus étendue et pas limitée au rectosigmoïde).
+- **L'atteintes rectale E1** est mal vue par voie abdominale (très bien vue uniquement dans 20 % des cas), il faut utiliser la voie transpérinéale.
+- Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
 
 ## Maladie de Crohn
 Your content here
