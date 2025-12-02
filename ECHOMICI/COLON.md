@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-02T06:35:28.106Z
+date: 2025-12-02T07:11:11.073Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -26,7 +26,8 @@ Les portions atteintes sont inflammées (donc épaissies avec signal Doppler,  a
 **Extension de la maladie**
 En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
 Classification de Montréal
-E1 rectosigmoïde (40-50%), E2 Colite gauche (30-40%), E3 pancolite (20 %)
+E1 rectosigmoïde (40-50%), E2 Colite gauche (30-40%), E3 pancolite (20 %)![rchrepartition.jpg](/schémas/rchrepartition.jpg)
+
 - Anse colique épaissie (>3 mm) de façon **continue** (aucun intervalle sain)
 - **circonférentielle** (en coupe l'atteinte est la même sur toute la cirdonférence
 - **symétrique** (paroi antérieure et postérieure ont le même épaississement)
@@ -38,6 +39,16 @@ l'appendice peut être atteint de façon isolée
 - Cet épaississement est **non spécifique** (on peut le voir dans les colites bactériennes, mais généralement l'atteinte est plus étendue et pas limitée au rectosigmoïde).
 - **L'atteintes rectale E1** est mal vue par voie abdominale (très bien vue uniquement dans 20 % des cas), il faut utiliser la voie transpérinéale.
 - Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
+### Aspect échographique de la paroi dans la RCH
+On observe un épaississement et une perte des haustrations.
+- **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) 
+- prédominant à la **3 ième couche hyperéchogène** (> 1/3 de la paroi)
+- continue, circonférentiel, symétrique
+- de 3 à 10 mm (la gravité de la maladie est proportionnelle à l'épaississement) 
+- les ulcérations de surface sont rarement visibles sauf en cas de colite aigue grave (CAG)
+- Perte des haustrations (le bord externe du colon est rectiligne), lors de la cicatrisation on retrouve des haustrations
+- Microcolon 
+
 
 ## Maladie de Crohn
 Your content here
