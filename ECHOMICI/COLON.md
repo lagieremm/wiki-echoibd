@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T20:33:10.533Z
+date: 2025-12-04T20:54:46.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -76,8 +76,20 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 *Les ganglions sont petits*
 ![rchgg1.jpg](/bases/rch/rchgg1.jpg)*Malgré sa petite taille, ganglion rond, hypoéchogène inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
 ### Formes graves
-L'épaississement est important
-Début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)
+<div style="
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    background-color: #f0f0f0;
+">
+    <p>Première ligne de texte</p>
+    <p>Deuxième ligne de texte</p>
+    <p>Troisième ligne de texte</p>
+</div>
+
+- L'épaississement est important
+- Début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)
 ![rchdispcouche.jpg](/bases/rch/rchdispcouche.jpg)
 ![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)
 ![rchcagdebut.jpg](/bases/rch/rchcagdebut.jpg)![rchcagdebut2.jpg](/bases/rch/rchcagdebut2.jpg)
