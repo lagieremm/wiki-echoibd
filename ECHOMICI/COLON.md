@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T22:16:03.106Z
+date: 2025-12-04T22:20:55.022Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -42,7 +42,7 @@ l'appendice peut être atteint de façon isolée
 - Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
 *Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
-### Aspect échographique de la paroi dans la RCH
+### Modifications échographique de la paroi intestinale de la RCH (lésions élémentaires)
 On observe **un épaississement et une perte des haustrations**.
 ![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
 - **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) 
