@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T21:59:48.011Z
+date: 2025-12-04T22:05:00.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -43,16 +43,19 @@ l'appendice peut être atteint de façon isolée
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
 *Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
 ### Aspect échographique de la paroi dans la RCH
-On observe un épaississement et une perte des haustrations.
+On observe **un épaississement et une perte des haustrations**.
 ![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
 - **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) 
 - prédominant à la **3 ième couche hyperéchogène** (> 1/3 de la paroi)
 - continue, circonférentiel, symétrique
+- Perte des haustrations (le bord externe du colon est rectiligne), lors de la cicatrisation on retrouve des haustrations
+
 - de 3 à 10 mm (**la gravité de la maladie est proportionnelle à l'épaississement**) 
 - les ulcérations de surface sont rarement visibles sauf en cas de colite aigue grave (CAG)
-- Perte des haustrations (le bord externe du colon est rectiligne), lors de la cicatrisation on retrouve des haustrations
+- Perte des haustrations (le bord externe du colon est rectiligne, lors de la cicatrisation on retrouve des haustrations)
 - Microcolon dans les formes chroniques
-- **La structure en couche est toujours conservée**, sauf dans les formes graves (cet aspect est du à la diffusion en profondeur de l'inflammation, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique). **La perte de la structure en couche est un signe de gravité**
+
+- **La structure en couche est toujours conservée**, sauf dans les formes graves (cela est du à la diffusion en profondeur de l'inflammation, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique, risque de perforation ). **La perte de la structure en couche est un signe de gravité**
 
 Les modifications extra intestinales sont modérées (sauf dans les formes graves)
 - Doppler limité à la paroi (Limberg 1 ou 2)
