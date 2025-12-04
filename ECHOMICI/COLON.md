@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T21:14:21.874Z
+date: 2025-12-04T21:25:03.249Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -73,8 +73,8 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 
 *Le doppler est souvent limité à la paroi (Limberg 1 et 2)*
 ![rchdop1.jpg](/bases/rch/rchdop1.jpg)![rchdop2.jpg](/bases/rch/rchdop2.jpg)![rchdop3.jpg](/bases/rch/rchdop3.jpg)![rchdop7.jpg](/bases/rch/rchdop7.jpg)
-*Les ganglions sont petits*
-![rchgg1.jpg](/bases/rch/rchgg1.jpg)*Malgré sa petite taille, ganglion rond, hypoéchogène inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
+*Les ganglions sont de petite taille*
+![rchgg1.jpg](/bases/rch/rchgg1.jpg)*Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
 ### Formes graves
 <div style="
     border: 2px solid black;
@@ -84,8 +84,8 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
     background-color: #f0f0f0;
 ">
     <p>Disparition de la structure en couches, temoigne d'une inflammation transpariétale</p>
-    <p>Inflammation importante autour de l'anse (graisse,doppler Limberg 3, voir épanchement)</p>
-    <p>Distension du caecum > 7 cm, perforation imminente</p>
+    <p>Inflammation autour de l'anse (graisse,doppler Limberg 3, voir épanchement)</p>
+    <p>Distension du caecum, lumière > 7 cm, paroi fine paradoxale  perforation imminente</p>
 </div>
 
 - L'épaississement est important
@@ -96,11 +96,12 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 Disparition totale de la structure en couche
 ![rchcag1.jpg](/bases/rch/rchcag1.jpg)
 *Paroi totalement hypoéchogène et couple longitudinale, surface irrégulière donc ulcérée ![rchcagcl_2.jpg](/bases/rch/rchcagcl_2.jpg)
-![rchcag5.jpg](/bases/rch/rchcag5.jpg)![rchcag6dope.jpg](/bases/rch/rchcag6dope.jpg)![rchcag4.jpg](/bases/rch/rchcag4.jpg)
+*Paroi antérieure et postérieure accolées, hypoéchogènes*![rchcag5.jpg](/bases/rch/rchcag5.jpg)*Paroi antérieure et postérieure accolées, hypoéchogènes et doppler *![rchcag6dope.jpg](/bases/rch/rchcag6dope.jpg)![rchcag4.jpg](/bases/rch/rchcag4.jpg)
 *Paroi hypoéchogène, irrégulière, présence d'air dans la paroi due aux ulcères*![rchcag7_text.jpg](/bases/rch/rchcag7_text.jpg)
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
-*Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)![rchcag9.jpg](/bases/rch/rchcag9.jpg)![rchcag10.jpg](/bases/rch/rchcag10.jpg)
+*Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
+### Complications
 
 ## Maladie de Crohn (MC) colique aspect échographique
 Your content here
