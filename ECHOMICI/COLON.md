@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T20:28:28.008Z
+date: 2025-12-04T20:33:10.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -48,11 +48,11 @@ On observe un épaississement et une perte des haustrations.
 - **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) 
 - prédominant à la **3 ième couche hyperéchogène** (> 1/3 de la paroi)
 - continue, circonférentiel, symétrique
-- de 3 à 10 mm (la gravité de la maladie est proportionnelle à l'épaississement) 
+- de 3 à 10 mm (**la gravité de la maladie est proportionnelle à l'épaississement**) 
 - les ulcérations de surface sont rarement visibles sauf en cas de colite aigue grave (CAG)
 - Perte des haustrations (le bord externe du colon est rectiligne), lors de la cicatrisation on retrouve des haustrations
 - Microcolon dans les formes chroniques
-- **La structure en couche est toujours conservée**, sauf dans les formes graves (l'inflammation gagne en profondeur, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique). **La perte de la structure en couche est un signe de gravité**
+- **La structure en couche est toujours conservée**, sauf dans les formes graves (cet aspect est du à la diffusion en profondeur de l'inflammation, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique). **La perte de la structure en couche est un signe de gravité**
 
 Les modifications extra intestinales sont modérées (sauf dans les formes graves)
 - Doppler limité à la paroi (Limberg 1 ou 2)
