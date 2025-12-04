@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T22:10:27.204Z
+date: 2025-12-04T22:16:03.106Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -79,6 +79,9 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 *Les ganglions sont de petite taille*
 ![rchgg1.jpg](/bases/rch/rchgg1.jpg)*Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
 ### Formes graves
+il y a deux formes graves
+- Colite aiguë grave
+- Colectasies
 <div style="
     border: 2px solid black;
     padding: 10px;
@@ -92,7 +95,7 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 </div>
 
 - L'épaississement est important
-- Début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)
+- Début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible).
 ![rchdispcouche.jpg](/bases/rch/rchdispcouche.jpg)
 ![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)
 ![rchcagdebut.jpg](/bases/rch/rchcagdebut.jpg)![rchcagdebut2.jpg](/bases/rch/rchcagdebut2.jpg)
@@ -105,6 +108,10 @@ Disparition totale de la structure en couche
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
 ### Complications
+### Bilan d'extension
+### Mesure de l'activité
+### Réponse aux traitements
+### Cicatrisation 
 
 ## Maladie de Crohn (MC) colique aspect échographique
 Your content here
