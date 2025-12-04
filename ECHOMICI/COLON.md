@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T20:59:01.681Z
+date: 2025-12-04T21:14:21.874Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -41,7 +41,7 @@ l'appendice peut être atteint de façon isolée
 - **L'atteintes rectale E1** est mal vue par voie abdominale (très bien vue uniquement dans 20 % des cas), il faut utiliser la voie transpérinéale.
 - Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
-*Dans les 2 cas l'observation du colon à gauche à partir de la vessie donnera l'impression qu'il n'y a pas de maladie*
+*Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
 ### Aspect échographique de la paroi dans la RCH
 On observe un épaississement et une perte des haustrations.
 ![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
