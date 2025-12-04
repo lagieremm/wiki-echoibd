@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T20:54:46.843Z
+date: 2025-12-04T20:59:01.681Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -83,9 +83,9 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
     width: fit-content;
     background-color: #f0f0f0;
 ">
-    <p>Première ligne de texte</p>
-    <p>Deuxième ligne de texte</p>
-    <p>Troisième ligne de texte</p>
+    <p>Disparition de la structure en couches, temoigne d'une inflammation transpariétale</p>
+    <p>Inflammation importante autour de l'anse (graisse,doppler Limberg 3, voir épanchement)</p>
+    <p>Distension du caecum > 7 cm, perforation imminente</p>
 </div>
 
 - L'épaississement est important
