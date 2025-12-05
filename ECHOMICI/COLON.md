@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-04T22:20:55.022Z
+date: 2025-12-05T08:28:11.457Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -45,14 +45,16 @@ l'appendice peut être atteint de façon isolée
 ### Modifications échographique de la paroi intestinale de la RCH (lésions élémentaires)
 On observe **un épaississement et une perte des haustrations**.
 ![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
-- **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) 
-- prédominant à la **3 ième couche hyperéchogène** (> 1/3 de la paroi)
-- continue, circonférentiel, symétrique
-- Perte des haustrations (le bord externe du colon est rectiligne), lors de la cicatrisation on retrouve des haustrations
-
-- de 3 à 10 mm (**la gravité de la maladie est proportionnelle à l'épaississement**) 
-- les ulcérations de surface sont rarement visibles sauf en cas de colite aigue grave (CAG)
+- **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi 
 - Perte des haustrations (le bord externe du colon est rectiligne, lors de la cicatrisation on retrouve des haustrations)
+- L'épaississement prédomine à la **3 ième couche hyperéchogène** (qui fait > 1/3 de la paroi)
+- continue, circonférentiel, symétrique
+
+- de 3 à 10 mm, rarement plus 
+1. **l'épaississement est proportionnel à la gravité de la maladie**, c'est l'élément le plus important du suivi, il diminue lors des rémission
+1. **la variation de l'épaississement permet de mesurer la réponse aux traitements**.
+- les ulcérations de surface ne sont pas visibles, sauf en cas de colite aigue grave (CAG)
+
 - Microcolon dans les formes chroniques
 
 - **La structure en couche est toujours conservée**, sauf dans les formes graves (cela est du à la diffusion en profondeur de l'inflammation, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique, risque de perforation ). **La perte de la structure en couche est un signe de gravité**
@@ -105,7 +107,7 @@ Disparition totale de la structure en couche
 *Paroi antérieure et postérieure accolées, hypoéchogènes*![rchcag5.jpg](/bases/rch/rchcag5.jpg)*Paroi antérieure et postérieure accolées, hypoéchogènes et doppler *![rchcag6dope.jpg](/bases/rch/rchcag6dope.jpg)![rchcag4.jpg](/bases/rch/rchcag4.jpg)
 *Paroi hypoéchogène, irrégulière, présence d'air dans la paroi due aux ulcères*![rchcag7_text.jpg](/bases/rch/rchcag7_text.jpg)
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
-*Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)![rchcag9.jpg](/bases/rch/rchcag9.jpg)
+*Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
 ### Complications
 ### Bilan d'extension
