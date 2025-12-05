@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-05T08:45:48.257Z
+date: 2025-12-05T08:47:50.090Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -46,7 +46,7 @@ l'appendice peut être atteint de façon isolée
 On observe **un épaississement et une perte des haustrations**.
 ![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
 - **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi 
-- Perte des haustrations (le bord externe du colon est rectiligne, lors de la cicatrisation on retrouve des haustrations)
+- Perte des haustrations (le bord externe du colon est rectiligne, lors de la cicatrisation on retrouve des haustrations) 
 - L'épaississement prédomine à la **3 ième couche hyperéchogène** (qui fait > 1/3 de la paroi)
 - continue, circonférentiel, symétrique
 
@@ -65,6 +65,8 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 - ganglions de petite taille (bord interne du cadre colique)
 
 **Il n'y a jamais de fistule ou d'abcès**
+
+Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées on peut garder des signes cicatriciels.
 
 ### Exemples
 - La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
