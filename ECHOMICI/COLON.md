@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-05T08:28:11.457Z
+date: 2025-12-05T08:38:26.679Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -59,7 +59,7 @@ On observe **un épaississement et une perte des haustrations**.
 
 - **La structure en couche est toujours conservée**, sauf dans les formes graves (cela est du à la diffusion en profondeur de l'inflammation, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique, risque de perforation ). **La perte de la structure en couche est un signe de gravité**
 
-Les modifications extra intestinales sont modérées (sauf dans les formes graves)
+Les modifications extra intestinales sont modérées (sauf dans les formes graves quand l'inflammation devient transmurale)
 - Doppler limité à la paroi (Limberg 1 ou 2)
 - Infiltration modérée de la graisse péricolique (quelques millimètres)
 - ganglions de petite taille (bord interne du cadre colique)
@@ -67,12 +67,12 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 **Il n'y a jamais de fistule ou d'abcès**
 
 ### Exemples
-- La gravité est proportionnelle à l'épaississement 
+- La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
 - L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), continue, régulier, cironférentiel
 - La structure en couche est conservée
-- La graisse est peu infiltrée
+- La graisse est peu infiltrée, l'activité doppler modérée.
 
-![rch1.jpg](/bases/rch/rch1.jpg)![rch2.jpg](/bases/rch/rch2.jpg)![rch3ct.jpg](/bases/rch/rch3ct.jpg)![rch9_2.jpg](/bases/rch/rch9_2.jpg)![rch10.jpg](/bases/rch/rch10.jpg)![rch5.jpg](/bases/rch/rch5.jpg)![rchct3.jpg](/bases/rch/rchct3.jpg)
+![rch1.jpg](/bases/rch/rch1.jpg)![rch2.jpg](/bases/rch/rch2.jpg)![rch3ct.jpg](/bases/rch/rch3ct.jpg)![rch9_2.jpg](/bases/rch/rch9_2.jpg)![rch10.jpg](/bases/rch/rch10.jpg)Aspect tubulisé du côlon, qui devient linéaire ![rch5.jpg](/bases/rch/rch5.jpg)![rchct3.jpg](/bases/rch/rchct3.jpg)
 *Sur un sigmoide on a parfois un faux aspect d'irrégularité*
 ![rch12div.jpg](/bases/rch/rch12div.jpg)
 
@@ -100,7 +100,8 @@ il y a deux formes graves
 - Début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible).
 ![rchdispcouche.jpg](/bases/rch/rchdispcouche.jpg)
 ![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)
-![rchcagdebut.jpg](/bases/rch/rchcagdebut.jpg)![rchcagdebut2.jpg](/bases/rch/rchcagdebut2.jpg)
+![rchcagdebut.jpg](/bases/rch/rchcagdebut.jpg)
+![rchcagdebut2.jpg](/bases/rch/rchcagdebut2.jpg)
 Disparition totale de la structure en couche
 ![rchcag1.jpg](/bases/rch/rchcag1.jpg)
 *Paroi totalement hypoéchogène et couple longitudinale, surface irrégulière donc ulcérée ![rchcagcl_2.jpg](/bases/rch/rchcagcl_2.jpg)
@@ -108,7 +109,7 @@ Disparition totale de la structure en couche
 *Paroi hypoéchogène, irrégulière, présence d'air dans la paroi due aux ulcères*![rchcag7_text.jpg](/bases/rch/rchcag7_text.jpg)
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
-*Colon hypoéchogène paroi irrégulière*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
+*Colon hypoéchogène paroi irrégulière à l'extérieure, l'inflammation est transmurale*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
 ### Complications
 ### Bilan d'extension
 ### Mesure de l'activité
