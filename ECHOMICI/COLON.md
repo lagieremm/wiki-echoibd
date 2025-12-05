@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-05T08:38:26.679Z
+date: 2025-12-05T08:45:48.257Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -42,7 +42,7 @@ l'appendice peut être atteint de façon isolée
 - Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
 *Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
-### Modifications échographique de la paroi intestinale de la RCH (lésions élémentaires)
+### Modifications échographique de la paroi intestinale de la RCH (lésions élémentaires échographiques)
 On observe **un épaississement et une perte des haustrations**.
 ![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
 - **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi 
@@ -84,6 +84,8 @@ Les modifications extra intestinales sont modérées (sauf dans les formes grave
 il y a deux formes graves
 - Colite aiguë grave
 - Colectasies
+
+Signes de gravité échographique dans la RCH
 <div style="
     border: 2px solid black;
     padding: 10px;
@@ -92,8 +94,9 @@ il y a deux formes graves
     background-color: #f0f0f0;
 ">
     <p>Disparition de la structure en couches, temoigne d'une inflammation transpariétale</p>
+  <p>Ulcérations de surfaces et déformations de la ligne externe de la paroi intestinale qui devient irrégulière.</p>
     <p>Inflammation autour de l'anse (graisse,doppler Limberg 3, voir épanchement)</p>
-    <p>Distension du caecum, lumière > 7 cm, paroi fine paradoxale  perforation imminente</p>
+    <p>Distension du caecum, lumière > 7 cm en cas de colectasie, paroi fine paradoxale dans ce contexte de patient qui va mal, perforation imminente</p>
 </div>
 
 - L'épaississement est important
