@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T08:42:30.885Z
+date: 2025-12-06T08:50:05.791Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -89,7 +89,7 @@ il y a deux formes graves
 
 #### Signes de gravité échographique dans la RCH
 
-en soi, une inflammation au delà de 8 mm 
+1. en soi, une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
 2. L'inflammation qui dans la RCH est au départ superficielle (couches 2 et 3) gagne la totalité de la paroi
 - disparition de la structure en couches (la sous muqueuse devient hypoéchogène)
 - on peut voir des ulcères creusant en surface et la bord périphérique de l'anse qui est classiquement rectiligne dans la RCH devient irrégulier
@@ -100,11 +100,11 @@ en soi, une inflammation au delà de 8 mm
 
 
 <div style="
-    border: 3px solid grey;
+    border: 2px solid grey;
     border-radius: 10px;
     padding: 15px;
     margin: 15px;
-    background-color: ;
+    background-color: #f0f0f0;
     color:black;
     font-family: Arial, sans-serif;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -112,25 +112,14 @@ en soi, une inflammation au delà de 8 mm
     <h3 style="text-align: center; color: grey;">Signes de gravité échographiques dans la RCH</h3>
     <ul>
         <li><strong>Épaississement pariétal > 8 mm</strong> </li>
-        <li><strong>Disparition de la structure en couches</strong>  signe d’inflammation transmurale, l'inflammation traverse la paroi.</li>
-        <li><strong>Inflammation importante péri péricolique</strong> : hyperéchogénicité ou aspect « sale » de la graisse péri-colique, Doppler Limberg 3 (l'inflammation atteint l'extérieur de l'anse).</li>
+        <li><strong>Disparition de la structure en couches</strong>  signe d’inflammation transmurale</li>
+        <li><strong>Inflammation péri péricolique</strong> : hyperéchogénicité ou aspect « sale » de la graisse péri-colique, Doppler Limberg 3 (l'inflammation atteint l'extérieur de l'anse).</li>
         <li><strong>Épanchement autour des anses</strong> : présence liquide, risque de perforation </li>
+      <li><strong>Distension de la lumière caecale > 8 cm signant la colectasie</strong> : signe de gravité ultime avant perforation </li
     </ul>
     <p style="font-size: 0.9em; text-align: right; color:black;">
         <em>Ces signes doivent faire évoquer une poussée sévère et nécessitent une prise en charge urgente.</em>
     </p>
-</div>
-<div style="
-    border: 2px solid black;
-    padding: 10px;
-    margin: 10px;
-    width: fit-content;
-    background-color: #f0f0f0;
-">
-    <p>Disparition de la structure en couches, temoigne d'une inflammation transpariétale</p>
-  <p>Ulcérations de surfaces et déformations de la ligne externe de la paroi intestinale qui devient irrégulière.</p>
-    <p>Inflammation autour de l'anse (graisse,doppler Limberg 3, voir épanchement)</p>
-    <p>Distension du caecum, lumière > 7 cm en cas de colectasie, paroi fine paradoxale dans ce contexte de patient qui va mal, perforation imminente</p>
 </div>
 
 - L'épaississement est important
