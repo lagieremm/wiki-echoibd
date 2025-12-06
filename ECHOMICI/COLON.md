@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T17:56:44.114Z
+date: 2025-12-06T17:59:14.023Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -125,10 +125,10 @@ il y a deux formes graves
 </div>
 
 
-*Exemple de début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)*
+*Exemple de paroi de 5 mm avec début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)*
   ![rchcagdebut.jpg](/bases/rch/rchcagdebut.jpg)
 ![rchcagdebut2.jpg](/bases/rch/rchcagdebut2.jpg)
-*L'épaississement est encore plus important, la surface devient irrégulière*
+*L'épaississement est encore plus important (8 mm), la surfacede la lumière devient irrégulière*
 ![rchdispcouche.jpg](/bases/rch/rchdispcouche.jpg)
 ![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)
 
