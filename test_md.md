@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-12-06T08:19:19.926Z
+date: 2025-12-06T08:24:25.883Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -135,29 +135,29 @@ Logiciel -> Utilisateur : Confirmer arrêt et sauvegarder l'image
 </div>
 autre 
 <div style="
-    border: 3px solid #d32f2f;
+    border: 3px solid black;
     border-radius: 10px;
     padding: 15px;
     margin: 15px;
     background-color: #ffebee;
-    color: #d32f2f;
+    color:black;
     font-family: Arial, sans-serif;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 ">
-    <h3 style="text-align: center; color: bleue;">Signes de gravité échographiques dans la RCH</h3>
+    <h3 style="text-align: center; color: blue;">Signes de gravité échographiques dans la RCH</h3>
     <ul>
         <li><strong>Épaississement pariétal > 8 mm</strong> : signe d’inflammation sévère, risque de complications.</li>
         <li><strong>Disparition de la structure en couches</strong> : perte de la différenciation pariétale normale, signe d’inflammation transmurale.</li>
         <li><strong>Inflammation importante de la graisse péricolique</strong> : hypoéchogénicité ou aspect « sale » de la graisse péri-colique.</li>
         <li><strong>Épanchement autour des anses</strong> : liquide péri-colique ou inter-anses, risque de perforation </li>
     </ul>
-    <p style="font-size: 0.9em; text-align: right; color: #757575;">
+    <p style="font-size: 0.9em; text-align: right; color:black;">
         <em>Ces signes doivent faire évoquer une poussée sévère et nécessitent une prise en charge urgente.</em>
     </p>
 </div>
 
 
-culeur rouge #d32f2f;
+couleur rouge #d32f2f;
 
 
 ## attributs d'image
