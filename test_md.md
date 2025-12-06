@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-10-27T10:19:33.451Z
+date: 2025-12-06T08:16:20.866Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -121,6 +121,43 @@ Logiciel -> Utilisateur : Confirmer arrêt et sauvegarder l'image
 - [Requirements *Server and database prerequisites.*](/install/requirements)
 - [Installation Guide *Detailed installation instructions for all platforms.*](/install)
 {.links-list}
+## Rectangles
+<div style="
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    background-color: #f0f0f0;
+">
+    <p>Première ligne de texte</p>
+    <p>Deuxième ligne de texte</p>
+    <p>Troisième ligne de texte</p>
+</div>
+autre 
+<div style="
+    border: 3px solid #d32f2f;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    background-color: #ffebee;
+    color: #d32f2f;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+">
+    <h3 style="text-align: center; color: #d32f2f;">Signes de gravité échographiques dans la RCH</h3>
+    <ul>
+        <li><strong>Épaississement pariétal > 8 mm</strong> : signe d’inflammation sévère, risque de complications.</li>
+        <li><strong>Disparition de la structure en couches</strong> : perte de la différenciation pariétale normale, signe d’inflammation transmurale.</li>
+        <li><strong>Inflammation importante de la graisse péricolique</strong> : hypoéchogénicité ou aspect « sale » de la graisse péri-colique.</li>
+        <li><strong>Épanchement autour des anses</strong> : liquide péri-colique ou inter-anses, risque de perforation </li>
+    </ul>
+    <p style="font-size: 0.9em; text-align: right; color: #757575;">
+        <em>Ces signes doivent faire évoquer une poussée sévère et nécessitent une prise en charge urgente.</em>
+    </p>
+</div>
+
+
+
 
 ## attributs d'image
 
