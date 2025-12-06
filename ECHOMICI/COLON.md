@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T17:59:14.023Z
+date: 2025-12-06T18:03:57.675Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -48,11 +48,14 @@ On observe **un épaississement et une perte des haustrations**.
 - **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi 
 - Perte des haustrations (le bord externe du colon est rectiligne, lors de la cicatrisation on retrouve des haustrations) 
 - L'épaississement prédomine à la **3 ième couche hyperéchogène** (qui fait > 1/3 de la paroi)
-- continue, circonférentiel, symétrique
+- Épaississement continue (pas d'intervalle sain), circonférentiel (en coupe transversale), symétrique (en coupe longitudinale)
 
 - de 3 à 10 mm, rarement plus 
-1. **l'épaississement est proportionnel à la gravité de la maladie**, c'est l'élément le plus important du suivi, il diminue lors des rémission
+1. **l'épaississement est proportionnel à la gravité de la maladie**, c'est l'élément le plus important du suivi
 1. **la variation de l'épaississement permet de mesurer la réponse aux traitements**.
+La paroi est épaissie lors des poussées
+Diminue en cas de réponse
+Se normalise en cas de cicatrisation
 - les ulcérations de surface ne sont pas visibles, sauf en cas de colite aigue grave (CAG)
 
 - Microcolon dans les formes chroniques
