@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-12-06T08:16:20.866Z
+date: 2025-12-06T08:19:19.926Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -144,7 +144,7 @@ autre
     font-family: Arial, sans-serif;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 ">
-    <h3 style="text-align: center; color: #d32f2f;">Signes de gravité échographiques dans la RCH</h3>
+    <h3 style="text-align: center; color: bleue;">Signes de gravité échographiques dans la RCH</h3>
     <ul>
         <li><strong>Épaississement pariétal > 8 mm</strong> : signe d’inflammation sévère, risque de complications.</li>
         <li><strong>Disparition de la structure en couches</strong> : perte de la différenciation pariétale normale, signe d’inflammation transmurale.</li>
@@ -157,6 +157,7 @@ autre
 </div>
 
 
+culeur rouge #d32f2f;
 
 
 ## attributs d'image
