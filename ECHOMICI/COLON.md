@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T18:03:57.675Z
+date: 2025-12-06T18:06:01.020Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -78,13 +78,15 @@ Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de
 - La graisse est peu infiltrée, l'activité doppler modérée.
 
 *Sur un sigmoide on a parfois un faux aspect d'irrégularité,mais la structure en couches est conservée, il s'agit d'une forme récente avec muqueuse est épaissie*
-![rch12div.jpg](/bases/rch/rch12div.jpg)*Muqueuse épaissie en coupe transversale*![rchct3.jpg](/bases/rch/rchct3.jpg)
+![rch12div.jpg](/bases/rch/rch12div.jpg)
+![rchdop2.jpg](/bases/rch/rchdop2.jpg)![rchdop3.jpg](/bases/rch/rchdop3.jpg)![rchdop7.jpg](/bases/rch/rchdop7.jpg)
+*Muqueuse épaissie en coupe transversale*![rchct3.jpg](/bases/rch/rchct3.jpg)
 ![rch1.jpg](/bases/rch/rch1.jpg)*Forme plus chronique, épaississement très important de la sous muqueuse hyperéchogène par rapport à la muqueuse > 3/4* ![rch2.jpg](/bases/rch/rch2.jpg)![rch3ct.jpg](/bases/rch/rch3ct.jpg)![rch9_2.jpg](/bases/rch/rch9_2.jpg)![rch10.jpg](/bases/rch/rch10.jpg)*Forme chronique, aspect tubulisé du côlon, qui devient linéaire et rigide*
 ![rch5.jpg](/bases/rch/rch5.jpg)
 
 
 *Le doppler est souvent limité à la paroi (Limberg 1 et 2), la graisse peu ou pas infiltrée*
-![rchdop1.jpg](/bases/rch/rchdop1.jpg)![rchdop2.jpg](/bases/rch/rchdop2.jpg)![rchdop3.jpg](/bases/rch/rchdop3.jpg)![rchdop7.jpg](/bases/rch/rchdop7.jpg)
+![rchdop1.jpg](/bases/rch/rchdop1.jpg)
 *Les ganglions sont de petite taille*
 ![rchgg1.jpg](/bases/rch/rchgg1.jpg)*Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
 ### Formes graves
