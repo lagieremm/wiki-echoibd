@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2025-12-06T08:24:25.883Z
+date: 2025-12-06T15:16:07.359Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -139,7 +139,7 @@ autre
     border-radius: 10px;
     padding: 15px;
     margin: 15px;
-    background-color: #ffebee;
+    background-color:#ffebee ;
     color:black;
     font-family: Arial, sans-serif;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -159,6 +159,27 @@ autre
 
 couleur rouge #d32f2f;
 
+<div style="
+    border: 3px solid grey;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    background-color: ;
+    color:black;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+">
+    <h3 style="text-align: center; color: grey;">Signes de gravité échographiques dans la RCH</h3>
+    <ul>
+        <li><strong>Épaississement pariétal > 8 mm</strong> </li>
+        <li><strong>Disparition de la structure en couches</strong>  signe d’inflammation transmurale, l'inflammation traverse la paroi.</li>
+        <li><strong>Inflammation importante péri péricolique</strong> : hyperéchogénicité ou aspect « sale » de la graisse péri-colique, Doppler Limberg 3 (l'inflammation atteint l'extérieur de l'anse).</li>
+        <li><strong>Épanchement autour des anses</strong> : présence liquide, risque de perforation </li>
+    </ul>
+    <p style="font-size: 0.9em; text-align: right; color:black;">
+        <em>Ces signes doivent faire évoquer une poussée sévère et nécessitent une prise en charge urgente.</em>
+    </p>
+</div>
 
 ## attributs d'image
 
