@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T08:54:08.235Z
+date: 2025-12-06T08:55:37.163Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -130,11 +130,12 @@ il y a deux formes graves
 ![rchdispcouche.jpg](/bases/rch/rchdispcouche.jpg)
 ![rchdispstruc.jpg](/bases/rch/rchdispstruc.jpg)![rchdispct.jpg](/bases/rch/rchdispct.jpg)
 
-*Disparition totale de la structure en couche et aspecte très irrégulier du bord externe*
+*Disparition totale de la structure en couche et aspect très irrégulier du bord externe*
 ![rchcag1.jpg](/bases/rch/rchcag1.jpg)
 *Paroi totalement hypoéchogène et couple longitudinale, surface irrégulière donc ulcérée ![rchcagcl_2.jpg](/bases/rch/rchcagcl_2.jpg)
-*Paroi antérieure et postérieure accolées, hypoéchogènes*![rchcag5.jpg](/bases/rch/rchcag5.jpg)*Paroi antérieure et postérieure accolées, hypoéchogènes et doppler *![rchcag6dope.jpg](/bases/rch/rchcag6dope.jpg)![rchcag4.jpg](/bases/rch/rchcag4.jpg)
-*Paroi hypoéchogène, irrégulière, présence d'air dans la paroi due aux ulcères*![rchcag7_text.jpg](/bases/rch/rchcag7_text.jpg)
+*Paroi antérieure et postérieure accolées, hypoéchogènes*![rchcag5.jpg](/bases/rch/rchcag5.jpg)*Paroi antérieure et postérieure accolées, hypoéchogènes et doppler *![rchcag6dope.jpg](/bases/rch/rchcag6dope.jpg)
+ *Surface irrégulière ulcérée*![rchcag4.jpg](/bases/rch/rchcag4.jpg)
+*Paroi hypoéchogène, irrégulière en périphérie, présence d'air dans la paroi due aux ulcères*![rchcag7_text.jpg](/bases/rch/rchcag7_text.jpg)
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière à l'extérieure, l'inflammation est transmurale*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
