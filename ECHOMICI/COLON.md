@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T17:50:42.905Z
+date: 2025-12-06T17:56:22.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -141,7 +141,18 @@ il y a deux formes graves
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière à l'extérieure, l'inflammation est transmurale*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
-### Complications
+### Détection des complications par l'échographie intestinale
+  #### Colite aigue grave
+  #### Colectasie
+  #### Sténose
+  #### Cancer colorectal
+  L'échographie intestinale n'est pas un bon moyen de dépistage du cancer colorectal dans la RCH, qui relève de l'endoscopie. On ne verra que les formes évoluées des cancer, il faut y penser devant
+-   une sténose avec raccord brutal, 
+-   aspect localement transmural hypoéchogène, 
+-   irrégularité de lumière
+-   aspect asymétrique  de la paroi(inhabituel dans la rectocolite hémorragique
+  
+  voir page sur le cancer colorectal
 ### Bilan d'extension
 ### Mesure de l'activité
 ### Réponse aux traitements
