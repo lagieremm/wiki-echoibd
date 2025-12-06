@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T17:56:22.324Z
+date: 2025-12-06T17:56:44.114Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -150,7 +150,7 @@ il y a deux formes graves
 -   une sténose avec raccord brutal, 
 -   aspect localement transmural hypoéchogène, 
 -   irrégularité de lumière
--   aspect asymétrique  de la paroi(inhabituel dans la rectocolite hémorragique
+-   aspect asymétrique  de la paroi (inhabituel dans la rectocolite hémorragique)
   
   voir page sur le cancer colorectal
 ### Bilan d'extension
