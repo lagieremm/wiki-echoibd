@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T08:17:37.134Z
+date: 2025-12-06T08:42:30.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -87,7 +87,39 @@ il y a deux formes graves
 - Colite aiguë grave
 - Colectasies
 
-Signes de gravité échographique dans la RCH
+#### Signes de gravité échographique dans la RCH
+
+en soi, une inflammation au delà de 8 mm 
+2. L'inflammation qui dans la RCH est au départ superficielle (couches 2 et 3) gagne la totalité de la paroi
+- disparition de la structure en couches (la sous muqueuse devient hypoéchogène)
+- on peut voir des ulcères creusant en surface et la bord périphérique de l'anse qui est classiquement rectiligne dans la RCH devient irrégulier
+3. L'inflammation atteint la périphérie de l'anse
+- hyperactivité doppler intense paroi et graisse (Limberg 3)
+- présence de liquide en périphérie de l'anse (perforation imminente)
+4. Distension de la lumière caecale, forme de gravité ultime (colectasie)
+
+
+<div style="
+    border: 3px solid grey;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    background-color: ;
+    color:black;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+">
+    <h3 style="text-align: center; color: grey;">Signes de gravité échographiques dans la RCH</h3>
+    <ul>
+        <li><strong>Épaississement pariétal > 8 mm</strong> </li>
+        <li><strong>Disparition de la structure en couches</strong>  signe d’inflammation transmurale, l'inflammation traverse la paroi.</li>
+        <li><strong>Inflammation importante péri péricolique</strong> : hyperéchogénicité ou aspect « sale » de la graisse péri-colique, Doppler Limberg 3 (l'inflammation atteint l'extérieur de l'anse).</li>
+        <li><strong>Épanchement autour des anses</strong> : présence liquide, risque de perforation </li>
+    </ul>
+    <p style="font-size: 0.9em; text-align: right; color:black;">
+        <em>Ces signes doivent faire évoquer une poussée sévère et nécessitent une prise en charge urgente.</em>
+    </p>
+</div>
 <div style="
     border: 2px solid black;
     padding: 10px;
