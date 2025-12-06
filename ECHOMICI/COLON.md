@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-06T17:49:08.465Z
+date: 2025-12-06T17:50:42.905Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -80,14 +80,14 @@ Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de
 ![rch5.jpg](/bases/rch/rch5.jpg)
 
 
-*Le doppler est souvent limité à la paroi (Limberg 1 et 2)*
+*Le doppler est souvent limité à la paroi (Limberg 1 et 2), la graisse peu ou pas infiltrée*
 ![rchdop1.jpg](/bases/rch/rchdop1.jpg)![rchdop2.jpg](/bases/rch/rchdop2.jpg)![rchdop3.jpg](/bases/rch/rchdop3.jpg)![rchdop7.jpg](/bases/rch/rchdop7.jpg)
 *Les ganglions sont de petite taille*
 ![rchgg1.jpg](/bases/rch/rchgg1.jpg)*Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
 ### Formes graves
 il y a deux formes graves
-- Colite aiguë grave
-- Colectasies
+- Colite aiguë grave (l'inflammation traverse la paroi)
+- Colectasies (Distension de lumière caecale)
 
 #### Signes de gravité échographique dans la RCH
 
