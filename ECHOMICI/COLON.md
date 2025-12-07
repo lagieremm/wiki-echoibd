@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-07T09:09:14.634Z
+date: 2025-12-07T09:10:58.378Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -126,7 +126,8 @@ il y a deux formes graves
 *Disparition totale de la structure en couche et aspect très irrégulier du bord externe*
 ![rchcag1.jpg](/bases/rch/rchcag1.jpg)
 *Paroi totalement hypoéchogène et couple longitudinale, surface irrégulière donc ulcérée ![rchcagcl_2.jpg](/bases/rch/rchcagcl_2.jpg)
-*Paroi antérieure et postérieure accolées, hypoéchogènes*![rchcag5.jpg](/bases/rch/rchcag5.jpg)*Paroi antérieure et postérieure accolées, hypoéchogènes et doppler *![rchcag6dope.jpg](/bases/rch/rchcag6dope.jpg)
+*Paroi antérieure et postérieure accolées, hypoéchogènes*
+![rchcag5.jpg](/bases/rch/rchcag5.jpg)*Paroi antérieure et postérieure accolées, hypoéchogènes et doppler *![rchcag6dope.jpg](/bases/rch/rchcag6dope.jpg)
  *Surface irrégulière ulcérée*![rchcag4.jpg](/bases/rch/rchcag4.jpg)
 *Paroi hypoéchogène, irrégulière en périphérie, présence d'air dans la paroi due aux ulcères*![rchcag7_text.jpg](/bases/rch/rchcag7_text.jpg)
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
