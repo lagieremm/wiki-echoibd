@@ -2,28 +2,15 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-07T22:13:28.879Z
+date: 2025-12-07T22:20:25.221Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
 ---
 
-# Atteinte colique des MICI
-## Généralités
-Les modifications échographiques inflammatoires de la paroi intestinale ne sont pas spécifiques des MICI. (infections, colites ischémiques notamment)
-Les portions atteintes par les MICI présentent des signes échographiques d'inflammation (épaississement et signal Doppler,  avec des modifications de l'environnement (graisse, ganglions)
+# Echographie intestinale dans la rectocolite hémorragique (RCH)
 
-|                  | Rectocolite hémorragique (RCH)                                   | Maladie de Crohn colique (MC colique) |
-|-----------------------------------|------------------------------------------------------|----------------------------|
-| Répartitions des lésions        | Continues à partir du rectum, toujours atteint, classiquement pas d'atteinte de l'iléon, possible atteinte de l'appendice          | Discontinues typiquement, intervalles sains, rectum parfois épargné, iléïte associée est un argument majeur, d'autres formes continues miment les RCH|
-| Type de l'épaississement                       |Respect de la structure en couches, surtout muqueux et sous muqueux, continues, symétriques, la disparition de la structure couches est une forme de gravité|Disparition focalisée de la structure en couches, peut toucher toutes les couches, discontinues, asymétriques                       |
-| Doppler             | Surtout pariétal (limberg 1 et 2) Limberg 3 en cas de gravité (extension au delà de la paroi)               | Gros néo vaisseaux, volontier Limberg 3                       |
-| Inflammation de la graisse              |  Minime autour de l'anse, sinon signe de gravité (Colite aigue grave)                          | Souvent très importante                      |
-| Complications (sténose, fistule, abcès)     |   Sténose parfois, jamais d'abcès ou de fistule            |  Sténose, fistules abcès possibles                         |
-| Ganglions |De petite taille (quelques millimètres) |Peuvent être volumineux 10- 15 mm)
-
-## Rectocolite hémorragique (RCH), 
-### Modification de la paroi dans la RCH, lésions élémentaires échographiques
+## Modification de la paroi dans la RCH, lésions élémentaires échographiques
 On observe **un épaississement et une perte des haustrations**.
 
 *RCH classique, respect de la structure en couche,sous muqueuse très épaissie; musculeuse intacte*
@@ -59,7 +46,7 @@ Se normalise en cas de cicatrisation
 
 Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées on peut garder des signes cicatriciels.
  
-### Exemples
+## Exemples
 La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
 L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), continue, régulier, cironférentiel
 La structure en couche est conservée
@@ -78,12 +65,12 @@ La graisse est peu infiltrée, l'activité doppler modérée.
 *Les ganglions sont de petite taille*
 ![rchgg1.jpg](/bases/rch/rchgg1.jpg)
 *Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
-### Formes graves
+## Formes graves
 il y a deux formes graves
 - Colite aiguë grave (l'inflammation traverse la paroi)
 - Colectasies (Distension de lumière caecale)
 
-#### Signes de gravité échographique dans la RCH
+### Signes de gravité échographique dans la RCH
 
 1. en soi, une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
 2. L'inflammation qui dans la RCH est au départ superficielle (couches 2 et 3) gagne la totalité de la paroi
@@ -166,14 +153,14 @@ l'appendice peut être atteint de façon isolée
 - Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
 *Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
-### Mesure de l'activité
-### Réponse aux traitements
-### Cicatrisation 
-### Détection des complications par l'échographie intestinale
-  #### Colite aigue grave
-  #### Colectasie
-  #### Sténose
-  #### Cancer colorectal
+## Mesure de l'activité
+## Réponse aux traitements
+## Cicatrisation 
+## Détection des complications par l'échographie intestinale
+  ### Colite aigue grave
+  ### Colectasie
+  ### Sténose
+  ### Cancer colorectal
   L'échographie intestinale n'est pas un bon moyen de dépistage du cancer colorectal dans la RCH, qui relève de l'endoscopie. On ne verra que les formes évoluées des cancer, il faut y penser devant
 -   une sténose avec raccord brutal, 
 -   aspect localement transmural hypoéchogène, 
