@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-07T16:17:52.114Z
+date: 2025-12-07T22:10:17.230Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -76,7 +76,8 @@ La graisse est peu infiltrée, l'activité doppler modérée.
 *Le doppler est souvent limité à la paroi (Limberg 1 et 2), la graisse peu ou pas infiltrée*
 ![rchdop1.jpg](/bases/rch/rchdop1.jpg)
 *Les ganglions sont de petite taille*
-![rchgg1.jpg](/bases/rch/rchgg1.jpg)*Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
+![rchgg1.jpg](/bases/rch/rchgg1.jpg)
+*Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
 ### Formes graves
 il y a deux formes graves
 - Colite aiguë grave (l'inflammation traverse la paroi)
@@ -90,7 +91,7 @@ il y a deux formes graves
 
 *Disparition de la structure en couches*
 ![schema_rchgrave1.jpg](/bases/rch/schema_rchgrave1.jpg)
-- on peut voir des ulcères creusant en surface et la bord périphérique de l'anse qui est classiquement rectiligne dans la RCH devient irrégulier
+- si l'inflammation s'aggrave, on peut voir des ulcères creusants en surface et le bord périphérique de l'anse (classiquement rectiligne dans la RCH) devient irrégulier
 
 *Ulcères en surface, bord externe irrégulier, graisse infiltrée, voire épanchement liquidien*
 ![schema_rchgrave2.jpg](/bases/rch/schema_rchgrave2.jpg)
@@ -98,7 +99,7 @@ il y a deux formes graves
 - hyperactivité doppler intense paroi et graisse (Limberg 3)
 - présence de liquide en périphérie de l'anse (perforation imminente)
 4. Distension de la lumière caecale, forme de gravité ultime (colectasie)
-Se mesure au caecum
+Se mesure au niveau du caecum
 
 *Lumière caecale distendue, avec paroi caecale fine paradoxale pour patient qui va très mal*
 ![schema_rchcolectasie.jpg](/bases/rch/schema_rchcolectasie.jpg)
