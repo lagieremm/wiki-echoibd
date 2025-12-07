@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-07T22:10:17.230Z
+date: 2025-12-07T22:13:28.879Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -182,6 +182,3 @@ l'appendice peut être atteint de façon isolée
   
   voir page sur le cancer colorectal
 
-
-## Maladie de Crohn (MC) colique aspect échographique
-Your content here
