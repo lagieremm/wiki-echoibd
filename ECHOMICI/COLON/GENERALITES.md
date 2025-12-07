@@ -2,7 +2,7 @@
 title: Atteinte colique des MICI généralités
 description: 
 published: true
-date: 2025-12-07T22:26:07.331Z
+date: 2025-12-07T22:32:22.329Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T09:19:56.317Z
@@ -10,8 +10,10 @@ dateCreated: 2025-12-07T09:19:56.317Z
 
 # Atteintes coliques des MICI, généralités échographiques
 
-Les modifications échographiques inflammatoires de la paroi intestinale ne sont pas spécifiques des MICI. (infections, colites ischémiques notamment)
-Les portions atteintes par les MICI présentent des signes échographiques d'inflammation (épaississement et signal Doppler,  avec des modifications de l'environnement (graisse, ganglions)
+Les [**modifications échographiques inflammatoires**](/bases/paroi_inflammee/GENERALITES) de la paroi intestinale et de l'environnement ne sont pas spécifiques des MICI, on les retrouvent aussi en cas d'infections, colites ischémiques, diverticulites cancer)
+Les modifications échographique inflammatoires se voient au niveau des zones atteintes par les maladies.
+
+Certains éléments échographiques peuvent aider à les différentier les deux maladies.
 
 |                  | Rectocolite hémorragique (RCH)                                   | Maladie de Crohn colique (MC colique) |
 |-----------------------------------|------------------------------------------------------|----------------------------|
