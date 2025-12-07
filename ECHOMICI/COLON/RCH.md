@@ -1,8 +1,8 @@
 ---
-title: Echographie Intestinale et atteinte colique (MICI)
+title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2025-12-07T22:20:25.221Z
+date: 2025-12-07T22:24:06.946Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
