@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-07T09:04:20.543Z
+date: 2025-12-07T09:08:04.299Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -26,7 +26,7 @@ Les portions atteintes par les MICI présentent des signes échographiques d'inf
 RCH (lésions élémentaires échographiques)
 On observe **un épaississement et une perte des haustrations**.
 ![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
-- **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi, la musculeuse est préservée et donc le bord externe est linéaire et régulier
+**Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi, la musculeuse est préservée et donc le bord externe est linéaire et régulier
 - L'épaississement prédomine à la **3 ième couche hyperéchogène** (qui fait > 1/3 de la paroi)
 - Perte des haustrations (le bord externe du colon est rectiligne, lors de la cicatrisation on retrouve des haustrations) 
 - Épaississement continue, circonférentiel, symétrique.
@@ -46,7 +46,8 @@ Se normalise en cas de cicatrisation
 
 - **La structure en couche est toujours conservée**, sauf dans les formes graves (cela est du à la diffusion en profondeur de l'inflammation, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique, risque de perforation ). **La perte de la structure en couche est un signe de gravité**
 
-Les modifications extra intestinales sont modérées (sauf dans les formes graves quand l'inflammation devient transmurale)
+**Les modifications extra intestinales sont modérées** 
+(sauf dans les formes graves quand l'inflammation devient transmurale)
 - Doppler limité à la paroi (Limberg 1 ou 2)
 - Infiltration modérée de la graisse péricolique (quelques millimètres)
 - ganglions de petite taille (bord interne du cadre colique)
@@ -57,12 +58,12 @@ Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de
 
 ### Modifications échographique de la paroi intestinale de la 
 ### Exemples
-- La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
-- L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), continue, régulier, cironférentiel
-- La structure en couche est conservée
-- La graisse est peu infiltrée, l'activité doppler modérée.
+La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
+L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), continue, régulier, cironférentiel
+La structure en couche est conservée
+La graisse est peu infiltrée, l'activité doppler modérée.
 
-*Sur un sigmoide on a parfois un faux aspect d'irrégularité,mais la structure en couches est conservée, il s'agit d'une forme récente avec muqueuse est épaissie*
+*Sur un sigmoide dans une forme récente, la muqueuse est plus épaisse, on a parfois un faux aspect d'irrégularité,mais la structure en couches est conservée*
 ![rch12div.jpg](/bases/rch/rch12div.jpg)
 ![rchdop2.jpg](/bases/rch/rchdop2.jpg)![rchdop3.jpg](/bases/rch/rchdop3.jpg)![rchdop7.jpg](/bases/rch/rchdop7.jpg)
 *Muqueuse épaissie en coupe transversale*![rchct3.jpg](/bases/rch/rchct3.jpg)
