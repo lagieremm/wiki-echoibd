@@ -2,7 +2,7 @@
 title: Atteintes de l'intestin grêle (maladie de Crohn du grêle)
 description: 
 published: true
-date: 2025-12-07T23:05:03.742Z
+date: 2025-12-07T23:05:39.592Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T22:51:38.678Z
