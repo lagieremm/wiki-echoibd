@@ -2,14 +2,14 @@
 title: ECHO MICI en pratique
 description: 
 published: true
-date: 2025-12-07T22:22:41.131Z
+date: 2025-12-07T22:47:12.888Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
 ---
 
 # Lésions intestinales des MICI
-## [Atteintes coliques](/ECHOMICI/COLON)
+## [Atteintes coliques](/ECHOMICI/COLON/ECHOMICI)
 ### [Généralités](/ECHOMICI/COLON/GENERALITES)
 ### [RCH](/ECHOMICI/COLON/RCH)
 ### [Maladie de Crohn colique](/ECHOMICI/COLON/MCcolique)
