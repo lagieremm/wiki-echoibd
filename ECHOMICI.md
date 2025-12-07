@@ -2,7 +2,7 @@
 title: ECHO MICI en pratique
 description: 
 published: true
-date: 2025-12-07T22:54:41.590Z
+date: 2025-12-07T23:03:04.884Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
@@ -17,6 +17,7 @@ dateCreated: 2025-08-05T21:39:15.751Z
 ### Iléïte
 ### Localisations multiples du grêle, atteintes étendues
 ### [Complications des iléïtes](/ECHOMICI/GRELE/COMPLICATIONS)
+[ECHOMICI](/ECHOMICI/GRELE/COMPLICATIONS/ECHOMICI)
 - Sténose,rétrodilatation 
 - [Occlusions](/ECHOMICI/GRELE/COMPLICATIONS/OCCLUSION)
 - Fistule
