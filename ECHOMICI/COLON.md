@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-07T09:11:41.722Z
+date: 2025-12-07T09:17:12.617Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -22,8 +22,8 @@ Les portions atteintes par les MICI présentent des signes échographiques d'inf
 | Complications (sténose, fistule, abcès)     |   Sténose parfois, jamais d'abcès ou de fistule            |  Sténose, fistules abcès possibles                         |
 | Ganglions |De petite taille (quelques millimètres) |Peuvent être volumineux 10- 15 mm)
 
-## Rectocolite hémorragique (RCH) aspect échographique
-RCH (lésions élémentaires échographiques)
+## Rectocolite hémorragique (RCH), 
+### Modification de la paroi dans la RCH, lésions élémentaires échographiques
 On observe **un épaississement et une perte des haustrations**.
 ![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
 **Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi, la musculeuse est préservée et donc le bord externe est linéaire et régulier
@@ -55,8 +55,7 @@ Se normalise en cas de cicatrisation
 **Il n'y a jamais de fistule ou d'abcès**
 
 Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées on peut garder des signes cicatriciels.
-
-### Modifications échographique de la paroi intestinale de la 
+ 
 ### Exemples
 La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
 L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), continue, régulier, cironférentiel
@@ -135,7 +134,7 @@ il y a deux formes graves
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière à l'extérieure, l'inflammation est transmurale*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
 ### Répartition des lésions
-**Extension de la maladie**
+**Bilan d'extension de la maladie, par échographie**
 En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
 Classification de Montréal
 E1 rectosigmoïde (40-50%), E2 Colite gauche (30-40%), E3 pancolite (20 %)![rchrepartition.jpg](/schémas/rchrepartition.jpg)
@@ -153,7 +152,9 @@ l'appendice peut être atteint de façon isolée
 - Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
 *Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
-
+### Mesure de l'activité
+### Réponse aux traitements
+### Cicatrisation 
 ### Détection des complications par l'échographie intestinale
   #### Colite aigue grave
   #### Colectasie
@@ -166,10 +167,7 @@ l'appendice peut être atteint de façon isolée
 -   aspect asymétrique  de la paroi (inhabituel dans la rectocolite hémorragique)
   
   voir page sur le cancer colorectal
-### Bilan d'extension
-### Mesure de l'activité
-### Réponse aux traitements
-### Cicatrisation 
+
 
 ## Maladie de Crohn (MC) colique aspect échographique
 Your content here
