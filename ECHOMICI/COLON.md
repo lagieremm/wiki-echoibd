@@ -2,7 +2,7 @@
 title: Echographie Intestinale et atteinte colique (MICI)
 description: 
 published: true
-date: 2025-12-07T09:17:12.617Z
+date: 2025-12-07T16:17:52.114Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -25,8 +25,11 @@ Les portions atteintes par les MICI présentent des signes échographiques d'inf
 ## Rectocolite hémorragique (RCH), 
 ### Modification de la paroi dans la RCH, lésions élémentaires échographiques
 On observe **un épaississement et une perte des haustrations**.
-![paroirchtext2.jpg](/schemas/paroirchtext2.jpg)
-**Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi, la musculeuse est préservée et donc le bord externe est linéaire et régulier
+
+*RCH classique, respect de la structure en couche,sous muqueuse très épaissie; musculeuse intacte*
+![schema_rch_simple.jpg](/bases/rch/schema_rch_simple.jpg)
+
+**Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi, la musculeuse est intacte et donc le bord externe est linéaire et régulier
 - L'épaississement prédomine à la **3 ième couche hyperéchogène** (qui fait > 1/3 de la paroi)
 - Perte des haustrations (le bord externe du colon est rectiligne, lors de la cicatrisation on retrouve des haustrations) 
 - Épaississement continue, circonférentiel, symétrique.
@@ -84,11 +87,21 @@ il y a deux formes graves
 1. en soi, une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
 2. L'inflammation qui dans la RCH est au départ superficielle (couches 2 et 3) gagne la totalité de la paroi
 - disparition de la structure en couches (la sous muqueuse devient hypoéchogène)
+
+*Disparition de la structure en couches*
+![schema_rchgrave1.jpg](/bases/rch/schema_rchgrave1.jpg)
 - on peut voir des ulcères creusant en surface et la bord périphérique de l'anse qui est classiquement rectiligne dans la RCH devient irrégulier
+
+*Ulcères en surface, bord externe irrégulier, graisse infiltrée, voire épanchement liquidien*
+![schema_rchgrave2.jpg](/bases/rch/schema_rchgrave2.jpg)
 3. L'inflammation atteint la périphérie de l'anse
 - hyperactivité doppler intense paroi et graisse (Limberg 3)
 - présence de liquide en périphérie de l'anse (perforation imminente)
 4. Distension de la lumière caecale, forme de gravité ultime (colectasie)
+Se mesure au caecum
+
+*Lumière caecale distendue, avec paroi caecale fine paradoxale pour patient qui va très mal*
+![schema_rchcolectasie.jpg](/bases/rch/schema_rchcolectasie.jpg)
 
 
 <div style="
