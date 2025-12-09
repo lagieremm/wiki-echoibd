@@ -2,13 +2,16 @@
 title: ECHO MICI en pratique
 description: 
 published: true
-date: 2025-12-07T23:03:57.021Z
+date: 2025-12-09T20:15:02.435Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
 ---
 
 # Lésions intestinales des MICI
+
+![echomici2.jpg](/bases/crohncolique/echomici2.jpg)
+
 ## [Atteintes coliques](/ECHOMICI/COLON)
 ### [Généralités](/ECHOMICI/COLON/GENERALITES)
 ### [RCH](/ECHOMICI/COLON/RCH)
@@ -18,7 +21,7 @@ dateCreated: 2025-08-05T21:39:15.751Z
 ### Localisations multiples du grêle, atteintes étendues
 ### [Complications des iléïtes](/ECHOMICI/GRELE/COMPLICATIONS)
 
-- Sténose,rétrodilatation 
+- Sténose, rétrodilatation 
 - [Occlusions](/ECHOMICI/GRELE/COMPLICATIONS/OCCLUSION)
 - Fistule
 - Abcès
