@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2025-12-09T20:04:40.541Z
+date: 2025-12-09T20:06:03.705Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -27,7 +27,7 @@ Ce site est là pour essayer d'y remédier:
 - Partager quelques astuces et conseils pour progresser rapidement
 - perfectionner ses images
 - éviter les erreurs
-- [L'échographie intestinale dans les MICI](/ECHOMICI/home)
+- [L'échographie intestinale dans les MICI](/ECHOMICI)
 - [partager des cas cliniques](/cascliniques)
 
 ## Empreinte carbone de l'échographie intestinale
