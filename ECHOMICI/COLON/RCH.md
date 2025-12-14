@@ -2,7 +2,7 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2025-12-14T19:16:32.585Z
+date: 2025-12-14T22:26:44.415Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -143,9 +143,7 @@ Se mesure au niveau du caecum
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière à l'extérieure, l'inflammation est transmurale*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
-### Répartition des lésions
-  
-**Bilan d'extension de la maladie, par échographie**
+### Répartition des lésions: bilan d'extension par l'échographie**
   
 En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
 Classification de Montréal
@@ -164,6 +162,10 @@ l'appendice peut être atteint de façon isolée
 - Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
 *Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
+  
+## Aspect échographique des atteintes rectales
+### Rectites par voie transpariétale
+### Rectites par voie transpérinéale
   
 ## Mesure de l'activité
   
