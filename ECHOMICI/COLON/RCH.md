@@ -2,7 +2,7 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2025-12-07T22:24:06.946Z
+date: 2025-12-14T19:12:45.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -11,12 +11,12 @@ dateCreated: 2025-12-01T23:12:33.709Z
 # Echographie intestinale dans la rectocolite hémorragique (RCH)
 
 ## Modification de la paroi dans la RCH, lésions élémentaires échographiques
-On observe **un épaississement et une perte des haustrations**.
+On observe classiquement **un épaississement et une perte des haustrations**.
 
 *RCH classique, respect de la structure en couche,sous muqueuse très épaissie; musculeuse intacte*
 ![schema_rch_simple.jpg](/bases/rch/schema_rch_simple.jpg)
 
-**Epaississement** des couches muqueuse hypo échogène et sous muqueuse hyperéchogène (2 et 3) car il s'agit d'une maladie superficielle de la paroi, la musculeuse est intacte et donc le bord externe est linéaire et régulier
+**Classiquement dans la RCH, l'épaississement** concerne les couches 2 et 3, c'est à dire muqueuse (hypoéchogène) et sous muqueuse (hyperéchogène) car il s'agit d'une maladie superficielle de la paroi, la musculeuse (4 ième couche hypoéchogène) est intacte et donc le bord externe est linéaire et régulier
 - L'épaississement prédomine à la **3 ième couche hyperéchogène** (qui fait > 1/3 de la paroi)
 - Perte des haustrations (le bord externe du colon est rectiligne, lors de la cicatrisation on retrouve des haustrations) 
 - Épaississement continue, circonférentiel, symétrique.
@@ -25,16 +25,20 @@ On observe **un épaississement et une perte des haustrations**.
 **symétrique** (paroi antérieure et postérieure ont le même épaississement)
 
 - de 3 à 10 mm, rarement plus 
-1. **l'épaississement est proportionnel à la gravité de la maladie**, c'est l'élément le plus important du suivi
+1. **l'épaississement est proportionnel à la gravité de la maladie**, 
+c'est l'élément le plus important du suivi, (plus la paroi est épaissie plus la maladie est grave)
 1. **la variation de l'épaississement permet de mesurer la réponse aux traitements**.
 La paroi est épaissie lors des poussées
-Diminue en cas de réponse
-Se normalise en cas de cicatrisation
+En cas de réponse, l'épaississement diminue
+En cas de cicatrisation, la paroi est normale non épaissie
 - les ulcérations de surface ne sont pas visibles, sauf en cas de colite aigue grave (CAG)
 
 - Microcolon dans les formes chroniques
 
-- **La structure en couche est toujours conservée**, sauf dans les formes graves (cela est du à la diffusion en profondeur de l'inflammation, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, aspect associé à la présence d'ulcérations profondes, irrégularités de surface, présence d'air dans la paroi et extension de l'inflammation à la graisse péricolique, risque de perforation ). **La perte de la structure en couche est un signe de gravité**
+- **La structure en couche est toujours conservée** 
+sauf dans les formes graves (cette disparition est due à la diffusion en profondeur de l'inflammation, la sous muqueuse hyperéchogène devient hypoéchogène et disparait, la paroi devient totalement sombre, cet aspect est associé à la présence d'ulcérations profondes
+On peut voir des irrégularités de surface, la présence d'air dans la paroi et l'extension de l'inflammation qui atteint la graisse péricolique, il y a alors risque de perforation ). 
+**La perte de la structure en couche est un signe de gravité**
 
 **Les modifications extra intestinales sont modérées** 
 (sauf dans les formes graves quand l'inflammation devient transmurale)
@@ -44,19 +48,22 @@ Se normalise en cas de cicatrisation
 
 **Il n'y a jamais de fistule ou d'abcès**
 
-Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées on peut garder des signes cicatriciels.
+Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées  on peut voir garder des signes cicatriciels.
  
-## Exemples
+## Exemples d'images échographique dans la RCH
 La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
-L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), continue, régulier, cironférentiel
+L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), il est continue, régulier, cironférentiel
 La structure en couche est conservée
 La graisse est peu infiltrée, l'activité doppler modérée.
 
-*Sur un sigmoide dans une forme récente, la muqueuse est plus épaisse, on a parfois un faux aspect d'irrégularité,mais la structure en couches est conservée*
+*Sur un sigmoide dans une forme récente, la muqueuse est plus épaisse, on a parfois un faux aspect d'irrégularité, mais la structure en couches est conservée*
 ![rch12div.jpg](/bases/rch/rch12div.jpg)
 ![rchdop2.jpg](/bases/rch/rchdop2.jpg)![rchdop3.jpg](/bases/rch/rchdop3.jpg)![rchdop7.jpg](/bases/rch/rchdop7.jpg)
 *Muqueuse épaissie en coupe transversale*![rchct3.jpg](/bases/rch/rchct3.jpg)
-![rch1.jpg](/bases/rch/rch1.jpg)*Forme plus chronique, épaississement très important de la sous muqueuse hyperéchogène par rapport à la muqueuse > 3/4* ![rch2.jpg](/bases/rch/rch2.jpg)![rch3ct.jpg](/bases/rch/rch3ct.jpg)![rch9_2.jpg](/bases/rch/rch9_2.jpg)![rch10.jpg](/bases/rch/rch10.jpg)*Forme chronique, aspect tubulisé du côlon, qui devient linéaire et rigide*
+![rch1.jpg](/bases/rch/rch1.jpg)![rch9_2.jpg](/bases/rch/rch9_2.jpg)
+
+*Forme plus chronique, épaississement très important de la sous muqueuse hyperéchogène par rapport à la muqueuse elle fait plus > 3/4 de la paroi* 
+![rch2.jpg](/bases/rch/rch2.jpg)![rch3ct.jpg](/bases/rch/rch3ct.jpg)![rch10.jpg](/bases/rch/rch10.jpg)*Forme chronique, aspect tubulisé du côlon, qui devient linéaire et rigide*
 ![rch5.jpg](/bases/rch/rch5.jpg)
 
 
@@ -67,20 +74,21 @@ La graisse est peu infiltrée, l'activité doppler modérée.
 *Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
 ## Formes graves
 il y a deux formes graves
-- Colite aiguë grave (l'inflammation traverse la paroi)
+- Colite aiguë grave (lorsque atteint la totalité de la paroi)
 - Colectasies (Distension de lumière caecale)
 
 ### Signes de gravité échographique dans la RCH
 
-1. en soi, une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
-2. L'inflammation qui dans la RCH est au départ superficielle (couches 2 et 3) gagne la totalité de la paroi
-- disparition de la structure en couches (la sous muqueuse devient hypoéchogène)
+1. Epaississement important :
+en soi, une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
+2. disparition de la structure en couches
+L'inflammation qui dans la RCH est au départ superficielle (couches 2 et 3) gagne la totalité de la paroi (la sous muqueuse devient hypoéchogène)
 
 *Disparition de la structure en couches*
 ![schema_rchgrave1.jpg](/bases/rch/schema_rchgrave1.jpg)
 - si l'inflammation s'aggrave, on peut voir des ulcères creusants en surface et le bord périphérique de l'anse (classiquement rectiligne dans la RCH) devient irrégulier
 
-*Ulcères en surface, bord externe irrégulier, graisse infiltrée, voire épanchement liquidien*
+*Paroi totalement déformée, avec ulcères en surface, bord externe irrégulier, graisse infiltrée, voire épanchement liquidien*
 ![schema_rchgrave2.jpg](/bases/rch/schema_rchgrave2.jpg)
 3. L'inflammation atteint la périphérie de l'anse
 - hyperactivité doppler intense paroi et graisse (Limberg 3)
@@ -115,6 +123,7 @@ Se mesure au niveau du caecum
     </p>
 </div>
 
+  
 
 *Exemple de paroi de 5 mm avec début de la disparition de la structure en couches (le contraste entre la muqueuse et  la sous muqueuse est moins visible)*
   ![rchcagdebut.jpg](/bases/rch/rchcagdebut.jpg)
@@ -135,7 +144,9 @@ Se mesure au niveau du caecum
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière à l'extérieure, l'inflammation est transmurale*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
 ### Répartition des lésions
+  
 **Bilan d'extension de la maladie, par échographie**
+  
 En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
 Classification de Montréal
 E1 rectosigmoïde (40-50%), E2 Colite gauche (30-40%), E3 pancolite (20 %)![rchrepartition.jpg](/schémas/rchrepartition.jpg)
@@ -153,9 +164,13 @@ l'appendice peut être atteint de façon isolée
 - Il faut se méfier de la **variante anatomique avec un sigmoide qui part à droite de la vessie** vers la fosse iliaque droite
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
 *Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
+  
 ## Mesure de l'activité
+  
 ## Réponse aux traitements
+  
 ## Cicatrisation 
+  
 ## Détection des complications par l'échographie intestinale
   ### Colite aigue grave
   ### Colectasie
