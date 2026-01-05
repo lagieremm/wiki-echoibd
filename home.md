@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2025-12-27T14:01:22.413Z
+date: 2026-01-05T14:39:03.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-28T16:06:33.456Z
 
 # Echographie et MICI (maladies inflammatoires intestinales)
 
-L'échographie est une formidable technique d'exploration du tube digestif, 
+L'échographie est une très bonne technique d'exploration du tube digestif, 
 - donne des informations immédiates
 - fiables et reproductibles
 - aucune irradiation
@@ -21,7 +21,7 @@ L'échographie est une formidable technique d'exploration du tube digestif,
 Elle n'est pas assez utilisée,
 Elle peut sembler compliquée à apprendre au premier abord
 
-Le but de ce site est:
+Ce site est:
 
 - [Donner rapidement les bases techniques de l'échographie intestinale](/bases)
 - Partager quelques astuces et conseils pour progresser rapidement
