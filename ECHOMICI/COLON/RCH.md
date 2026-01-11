@@ -2,7 +2,7 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2026-01-11T11:52:56.722Z
+date: 2026-01-11T12:04:34.813Z
 tags: rectocolite hémorragique, rch, score de milan
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -143,7 +143,8 @@ Se mesure au niveau du caecum
 ![rchcag8.jpg](/bases/rch/rchcag8.jpg)
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière à l'extérieure, l'inflammation est transmurale*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
-### Répartition des lésions: bilan d'extension par l'échographie**
+  
+### Répartition des lésions: bilan d'extension par l'échographie
   
 En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
 Classification de Montréal
