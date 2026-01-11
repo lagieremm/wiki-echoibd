@@ -2,15 +2,14 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2026-01-11T12:04:34.813Z
+date: 2026-01-11T15:16:02.436Z
 tags: rectocolite hémorragique, rch, score de milan
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
 ---
 
-# Echographie intestinale dans la rectocolite hémorragique (RCH)
 
-## Modification de la paroi dans la RCH, lésions élémentaires échographiques
+# Modification de la paroi dans la RCH, lésions élémentaires échographiques
 On observe classiquement **un épaississement et une perte des haustrations**.
 
 *RCH classique, respect de la structure en couche,sous muqueuse très épaissie; musculeuse intacte*
@@ -50,7 +49,7 @@ On peut voir des irrégularités de surface, la présence d'air dans la paroi et
 
 Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées  on peut voir garder des signes cicatriciels.
  
-## Exemples d'images échographique dans la RCH
+# Exemples d'images échographique dans la RCH
 La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
 L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), il est continue, régulier, cironférentiel
 La structure en couche est conservée
@@ -72,12 +71,12 @@ La graisse est peu infiltrée, l'activité doppler modérée.
 *Les ganglions sont de petite taille*
 ![rchgg1.jpg](/bases/rch/rchgg1.jpg)
 *Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
-## Formes graves
-il y a deux formes graves
-- Colite aiguë grave (lorsque atteint la totalité de la paroi)
-- Colectasies (Distension de lumière caecale)
+# Signes de gravité échographique dans la RCH
+il y a deux formes graves dasn la rectocolite hémorragique
+- La colite aiguë grave (lorsque l'inflammation atteint la totalité de la paroi)
+- La colectasie (distension de lumière caecale)
 
-### Signes de gravité échographique dans la RCH
+Cela se traduit en échographie par 
 
 1. Epaississement important :
 en soi, une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
@@ -144,7 +143,7 @@ Se mesure au niveau du caecum
 *Caecum, paroi 12 mm, surface ulcèrée*![rchcag10.jpg](/bases/rch/rchcag10.jpg)*Ulcérations de surface visibles*![rchcag9.jpg](/bases/rch/rchcag9.jpg)
 *Colon hypoéchogène paroi irrégulière à l'extérieure, l'inflammation est transmurale*![rchcag11.jpg](/bases/rch/rchcag11.jpg)
   
-### Répartition des lésions: bilan d'extension par l'échographie
+# Répartition des lésions: bilan d'extension par l'échographie
   
 En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
 Classification de Montréal
@@ -164,11 +163,11 @@ l'appendice peut être atteint de façon isolée
 ![rchvessie.jpg](/schemas/rchvessie.jpg)
 *Dans les 2 cas l'observation du colon, uniquement à gauche de la vessie donnera l'impression qu'il n'y a pas de maladie*
   
-## Aspect échographique des atteintes rectales
-### Rectites par voie transpariétale
-### Rectites par voie transpérinéale
+# Aspect échographique des atteintes rectales
+## Rectites par voie transpariétale
+## Rectites par voie transpérinéale
   
-## Mesure de l'activité score de MILAN
+# Mesure de l'activité score de MILAN
   L'activé est proportionnelle a l'épaississement et dans une moindre mesure à l'activité doppler. Il existe de nombreux scores pour mesurer l'inflammation et suivre son évolution selon les études,l'un des plus simple et reproductible est le score de Milan 
   
   **Le score de Milan (Milan Ultrasound Criteria —MUC)** repose sur deux paramètres simples mesurés à l’échographie intestinale : l’épaisseur pariétale (BWT) et la présence d’un flux Doppler pariétal (BWF).
@@ -205,11 +204,11 @@ Comment s’interprète-t-il ?
 1. Allocca M et al. Milan Ultrasound Criteria are accurate in assessing disease activity in ulcerative colitis: external validation. United Eur Gastroenterol J, 2021.
 2. Maeda M et al. Milan Ultrasound Criteria Predict Relapse of Ulcerative Colitis in Remission. Inflamm Intest Dis, 2023.
   
-## Réponse aux traitements
+# Réponse aux traitements
   
-## Cicatrisation 
+# Cicatrisation 
   
-## Détection des complications par l'échographie intestinale
+# Détection des complications par l'échographie intestinale
   ### Colite aigue grave
   ### Colectasie
   ### Sténose
