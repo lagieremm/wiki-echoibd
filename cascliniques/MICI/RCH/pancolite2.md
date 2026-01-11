@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T17:56:33.096Z
+date: 2026-01-11T17:57:35.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -99,9 +99,9 @@ La maladie reste faiblement active (mais pas complètement cicatrisée).
 *Colon transverse non épaissi*
 
 ![transve25.jpg](/cascliniques/rchpancolitebarb/transve25.jpg)
-*Sigmoïde coupes transversales et longitudinales*
+*Sigmoïde coupes transversales et longitudinales haute fréquence*
 ![sigmhf25cl.jpg](/cascliniques/rchpancolitebarb/sigmhf25cl.jpg)![sigmoidehf25ct.jpg](/cascliniques/rchpancolitebarb/sigmoidehf25ct.jpg)
-*Sigmoïde coupes transversales et longitudinales et doppler*
+*Sigmoïde coupes transversales et longitudinales et doppler haute fréquence*
 ![hf25doppl.jpg](/cascliniques/rchpancolitebarb/hf25doppl.jpg)![hf25doppl2.jpg](/cascliniques/rchpancolitebarb/hf25doppl2.jpg)
 
  Ci-dessus, images de la paroi du sigmoïde avec la sonde haute fréquence. On a toujours les mêmes caractéristiques
