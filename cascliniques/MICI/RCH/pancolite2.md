@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T15:49:31.052Z
+date: 2026-01-11T15:50:57.884Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -29,8 +29,8 @@ Le film montre des images typiques (mais non spécifiques) de rectocolite hémor
 
 les signes extra-digestifs sont peu marqués (graisse peu infiltrée, faible activité doppler, voir nulle)
 
-Le score de Milan [RCH](/ECHOMICI/COLON/RCH) [[Echographie Intestinale et rectocolite hémorragique (RCH)#Score-de-milan-5muc)-et-mesure-de-l'activite]] est l'un des plus simple pour suivre l'inflammation dans la RCH
-[ECHOMICI/COLON/RCH](/ECHOMICI/COLON/RCH/3SCOREMILAN)
+Le [Score de Milan](/ECHOMICI/COLON/RCH/3SCOREMILAN) est l'un des plus simple pour suivre l'inflammation dans la RCH
+
 
 Ici score de Milan = (1,4 x7+2)=11,8 maladie très active.
 
