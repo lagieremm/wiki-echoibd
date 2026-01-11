@@ -2,27 +2,30 @@
 title: Cas cliniques
 description: 
 published: true
-date: 2025-11-13T23:46:23.269Z
+date: 2026-01-11T14:58:49.444Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-15T08:45:47.400Z
 ---
 
-# Cas cliniques
+# Cas cliniques échographiques
 le dernier cas publié
-# MICI Maladie de Crohn ( MC)
-## Maladie de Crohn iléales
-## Maladie de Crohn coliques
-### [Crohn colique ulcèré avec iléïte (MCC1)](/cascliniques/MICI/MC/MCcolique/MCC1) 
-## complications 
-### Sténose
-### Fistule
-### Abcès
-#  [MICI Rectocolite hémorragique RCH](/cascliniques/MICI/RCH)
+# 1 Maladies inflammatoires intestinales (MICI)
 
-# Estomac
-# Grêle autres que MICI
-# Autres maladies coliques
-## Diverticules
+## MICI Maladie de Crohn ( MC)
+### Maladie de Crohn iléales
+### Maladie de Crohn coliques
+- [Crohn colique ulcèré avec iléïte (MCC1)](/cascliniques/MICI/MC/MCcolique/MCC1) 
+### Complications 
+- Sténose
+- Fistule
+- Abcès
+## [Rectocolite hémorragique RCH](/cascliniques/MICI/RCH)
+- [Pancolite non compliquée jusqu'à l'angle gauche, évolution](/cascliniques/MICI/RCH/pancolite2)
+# 2 Autres maladies coliques
+## Diverticules coliques et diverticulites
 ## Colite ischémique
-# Appendice
+# 3 Grêle autres que MICI
+# 4 Estomac
+# 5 Maladies de l'appendice
+- [Mucocèle appendiculaire](/cascliniques/appendice/mucocele)
