@@ -2,13 +2,13 @@
 title: Maladie de Crohn colique
 description: 
 published: true
-date: 2025-12-07T22:15:34.747Z
+date: 2026-01-11T15:03:47.582Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T22:15:21.425Z
 ---
 
 
-## Maladie de Crohn (MC) colique aspect échographique
+## Aspects échographiques de la maladie de Crohn (MC) colique
 ### Lésions élémentaires échographiques de la MC colique
-### Répartition
+### Répartition des lésions
