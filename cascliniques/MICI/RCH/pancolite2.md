@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T16:33:26.596Z
+date: 2026-01-11T16:37:47.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -16,9 +16,9 @@ Plusieurs examens échographique au cours du temps avec des machines différente
 
 - 2022 (échographe Supersonic Explorer)
 RCH étendue jusqu'à l'angle gauche, continue à partir du sigmoide, non compliquée
+![bbarb1vimeo22.jpeg](/cascliniques/rchpancolitebarb/bbarb1vimeo22.jpeg)
 
-
-[![2022](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1151606063)
+[![2022](bbarb1vimeo22.jpeg](https://player.vimeo.com/video/1151606063)
 
 [![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723937 "iléon")
 
