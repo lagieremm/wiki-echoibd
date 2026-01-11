@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T18:10:21.537Z
+date: 2026-01-11T18:14:19.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -97,6 +97,7 @@ L'évolution est donc favorable
 La maladie reste faiblement active (mais pas complètement cicatrisée). 
 # Janvier 2025 (Echographe Canon Applio A)
 
+*Film en haute fréquence du sigmoïde*
 <div style="position:relative;padding-bottom:56.25%;height:0;">
   <iframe
     src="https://player.vimeo.com/video/1151644052?autoplay=0&title=0&byline=0&portrait=0"
@@ -113,7 +114,9 @@ La maladie reste faiblement active (mais pas complètement cicatrisée).
 *Sigmoïde coupes transversales et longitudinales haute fréquence*
 ![sigmhf25cl.jpg](/cascliniques/rchpancolitebarb/sigmhf25cl.jpg)![sigmoidehf25ct.jpg](/cascliniques/rchpancolitebarb/sigmoidehf25ct.jpg)
 *Sigmoïde coupes transversales et longitudinales et doppler haute fréquence*
-![hf25doppl.jpg](/cascliniques/rchpancolitebarb/hf25doppl.jpg)![hf25doppl2.jpg](/cascliniques/rchpancolitebarb/hf25doppl2.jpg)
+![hf25doppl.jpg](/cascliniques/rchpancolitebarb/hf25doppl.jpg)
+*En doppler énergie*
+![hf25doppl2.jpg](/cascliniques/rchpancolitebarb/hf25doppl2.jpg)
 
  Ci-dessus, images de la paroi du sigmoïde avec la sonde haute fréquence. On a toujours les mêmes caractéristiques
 
@@ -124,6 +127,10 @@ Circonférentielle en (CT)
 La graisse est peu infiltrée, Doppler plus marqué (Limberg 2 voir 3) 
 
 Le score de Milan est de (4,5 x 1,4+2)= 8,3 donc la maladie reste active
+
+# Juillet 2025 (Echographe Canon Applio A) et correspondance en endoscopie
+
+Maladie presque cicatrisée 
 
 ## extension et gravité de la maladie 2022
 echographe hitachi 2022
