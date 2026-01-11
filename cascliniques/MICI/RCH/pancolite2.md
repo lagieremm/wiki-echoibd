@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T17:21:08.295Z
+date: 2026-01-11T17:35:46.508Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -15,7 +15,7 @@ Patient de 39 ans atteint de rectocolite hémorragique (RCH) depuis 2008, avec u
 Automédication aux corticoides, patient régulièrement perdu de vue.
 Plusieurs examens échographique au cours du temps avec des machines différentes,la maladie étendue jusqu'à l'angle gauche, non compliquée
 
-## 2022 (échographe Supersonic Explorer)
+# 2022 (échographe Supersonic Explorer)
 RCH étendue jusqu'à l'angle gauche, continue à partir du sigmoide, non compliquée
 
 <div style="position:relative;padding-bottom:56.25%;height:0;">
@@ -73,9 +73,9 @@ reprise
 
 quelques soit les marques échographe
 
-## Evolution en 2024 (Echographe Hitachi-toshiba)
+# Evolution en 2024 (Echographe Hitachi-toshiba)
 
-![vimeobarb2024.jpg](/cascliniques/rchpancolitebarb/vimeobarb2024.jpg)
+
 
 <div style="position:relative;padding-bottom:56.25%;height:0;">
   <iframe
@@ -91,10 +91,15 @@ quelques soit les marques échographe
 ![sigm2024hf2.jpg](/cascliniques/rchpancolitebarb/sigm2024hf2.jpg)
 
 Paroi 4,1 mm et Doppler négatif (Limberg 0)
-Score de Milan 5,74 (1,4 x4,1 +0)
+Score de Milan = 5,74 (1,4 x4,1 +0)
 
 L'évolution est donc favorable 
-La maladie reste faiblement active mais pas complètement cicatrisée. 
+La maladie reste faiblement active (mais pas complètement cicatrisée). 
+# Janvier 2025 (Echographe Canon Applio A)
+
+
+![transverse25.jpg](/cascliniques/rchpancolitebarb/transverse25.jpg)![transve_copie.jpg](/cascliniques/rchpancolitebarb/transve_copie.jpg)
+
 
 ## extension et gravité de la maladie 2022
 echographe hitachi 2022
