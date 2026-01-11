@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T17:35:46.508Z
+date: 2026-01-11T17:46:56.851Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -96,9 +96,9 @@ Score de Milan = 5,74 (1,4 x4,1 +0)
 L'évolution est donc favorable 
 La maladie reste faiblement active (mais pas complètement cicatrisée). 
 # Janvier 2025 (Echographe Canon Applio A)
+![transve24.jpg](/cascliniques/rchpancolitebarb/transve24.jpg)
 
-
-![transverse25.jpg](/cascliniques/rchpancolitebarb/transverse25.jpg)![transve_copie.jpg](/cascliniques/rchpancolitebarb/transve_copie.jpg)
+![transve25.jpg](/cascliniques/rchpancolitebarb/transve25.jpg)![transve25.jpg](/cascliniques/rchpancolitebarb/transve25.jpg)
 
 
 ## extension et gravité de la maladie 2022
