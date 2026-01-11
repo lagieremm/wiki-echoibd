@@ -2,7 +2,7 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2026-01-11T15:39:44.545Z
+date: 2026-01-11T15:46:38.512Z
 tags: rectocolite hémorragique, rch, score de milan
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -167,7 +167,7 @@ l'appendice peut être atteint de façon isolée
 ## Rectites par voie transpariétale
 ## Rectites par voie transpérinéale
   
-# Score de MILAN (MUC) et mesure de l'activité
+# Score de MILAN (MUC) et mesure de l'activité<a id="score-de-milan"></a>
   L'activé est proportionnelle a l'épaississement et dans une moindre mesure à l'activité doppler. Il existe de nombreux scores pour mesurer l'inflammation et suivre son évolution selon les études,l'un des plus simple et reproductible est le score de Milan 
   
   **Le score de Milan (Milan Ultrasound Criteria —MUC)** repose sur deux paramètres simples mesurés à l’échographie intestinale : l’épaisseur pariétale (BWT) et la présence d’un flux Doppler pariétal (BWF).
