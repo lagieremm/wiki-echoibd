@@ -2,8 +2,8 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2026-01-11T10:54:26.069Z
-tags: 
+date: 2026-01-11T11:52:56.722Z
+tags: rectocolite hémorragique, rch, score de milan
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
 ---
