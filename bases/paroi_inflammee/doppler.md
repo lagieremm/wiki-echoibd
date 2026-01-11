@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2026-01-11T11:05:25.445Z
+date: 2026-01-11T11:10:01.100Z
 tags: doppler, doppler couleur, doppler energie, microcirculation
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
@@ -12,6 +12,28 @@ dateCreated: 2025-07-28T19:11:47.617Z
 C'est un des signes importants de l'inflammation de la paroi intestinale
 On utilise **la classification de Limberg "modifiée"** qui ne tient compte que de l'activité Doppler
 **Attention: les réglages Doppler modifient énormément les résultats!!**
+ En prenant le segment le plus atteint, appliquer la formule suivante :
+  <div style="
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    background-color: #f0f0f0;
+    color:black;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+">
+    <h3 style="text-align: center; color: grey;">Score échographique de Limberg modifié</h3>
+    <ul>
+        <li><strong>Limberg 0	Aucun signal Doppler (paroi intestinale normale, pas de vascularisation détectable)
+</strong> </li>
+    </ul>
+    <p style="font-size: 0.9em; text-align: left; color:black;">
+        <em>BWT= épaisseur pariétale, BWF = doppler (0 absent/1 présent)
+      </em>
+    </p>
+</div>
+
 **Le score de Limberg modifié** est basé sur 4 grades il ne tient compte que de la vascularisation intestinale observée en Doppler:
 
 - **Limberg 0**	Aucun signal Doppler (paroi intestinale normale, pas de vascularisation détectable)
