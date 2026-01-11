@@ -2,7 +2,7 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2025-12-14T22:27:00.652Z
+date: 2026-01-11T10:29:41.981Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -22,7 +22,7 @@ On observe classiquement **un épaississement et une perte des haustrations**.
 - Épaississement continue, circonférentiel, symétrique.
 **continue** (aucun intervalle sain)
 **circonférentiel** (en coupe l'atteinte est la même sur toute la cirdonférence
-**symétrique** (paroi antérieure et postérieure ont le même épaississement)
+**symétrique** (la paroi antérieure et postérieure ont le même épaississement)
 
 - de 3 à 10 mm, rarement plus 
 1. **l'épaississement est proportionnel à la gravité de la maladie**, 
