@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T16:19:05.558Z
+date: 2026-01-11T16:29:18.007Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -16,14 +16,15 @@ Plusieurs examens échographique au cours du temps avec des machines différente
 
 - 2022 (échographe Supersonic Explorer)
 RCH étendue jusqu'à l'angle gauche, continue à partir du sigmoide, non compliquée
-[2022](/Capture d’écran 2026-01-11 à 16.55.01.png)](https://player.vimeo.com/video/1151606063)
 
-[![2022]](https://player.vimeo.com/video/1102723937 "iléon")
+
 [![2022](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1151606063)
 
 [![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723937 "iléon")
 
 Le film montre des images typiques (mais non spécifiques) de rectocolite hémorragique non compliquée. Le transverse n'est pas modifié, la maladie est étendue du sigmoïde de jusqu'à l'angle gauche. Tout d'abord en basse fréquence, en partant de l'angle droit puis dans un second temps en partant du rectum et en remontant le colon gauche. Enfin examen de la paroi avec la sonde haute fréquence.
+![rchbfe.jpg](/cascliniques/rchpancolitebarb/rchbfe.jpg)
+![rchhf2022.jpg](/cascliniques/rchpancolitebarb/rchhf2022.jpg)![rchhf2.jpg](/cascliniques/rchpancolitebarb/rchhf2.jpg)
 
 **Le colon gauche a perdu ses haustrations** il est rigidifié 
 **L'épaississement colique est important** (7 mm) 
