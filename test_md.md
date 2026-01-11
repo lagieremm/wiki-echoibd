@@ -2,7 +2,7 @@
 title: test page markdown
 description: 
 published: true
-date: 2026-01-11T16:17:38.336Z
+date: 2026-01-11T16:55:29.887Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T06:57:18.097Z
@@ -20,6 +20,18 @@ dateCreated: 2025-07-26T06:57:18.097Z
 
 ## une video vimeo
 [![IMAGE ALT TEXT](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723937 "iléon")
+
+ou bien
+
+<div style="position:relative;padding-bottom:56.25%;height:0;">
+  <iframe
+    src="https://player.vimeo.com/video/1151606063?autoplay=0&title=0&byline=0&portrait=0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:url(/bbarb1vimeo22.jpeg) center center / cover no-repeat;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 
