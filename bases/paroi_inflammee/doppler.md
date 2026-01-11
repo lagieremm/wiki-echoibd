@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2026-01-11T11:28:13.221Z
+date: 2026-01-11T11:28:59.065Z
 tags: doppler, doppler couleur, doppler energie, microcirculation
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
@@ -40,15 +40,6 @@ On utilise **la classification de Limberg "modifiée"** qui ne tient compte que 
 
   
 
-
-- **Limberg 0**	Aucun signal Doppler (paroi intestinale normale, pas de vascularisation détectable)
-
-Doppler limité à la paroi
-- **Limberg 1** 	Quelques signaux Doppler, courts, épars, indiquant une faible vascularisation (= inflammation minime)
-- **Limberg 2** 	Vascularisation modérée avec plusieurs signaux Doppler visibles dans la paroi intestinale, signaux nombreux et plus longs dans la paroi (= inflammation modérée)
-
-Doppler touchant la paroi et la graisse mésentérique
-- **Limberg 3** 	Vascularisation marquée avec un signal Doppler abondant, dans la paroi et la graisse mésentèrique 	(= Inflammation sévère)
 
 Une activité Doppler > 1 est corrélée avec la présence d’ulcérations en coloscopie, avec une sensibilité de 67 %, une spécificité de 92 % et une forte valeur prédictive positive à 97 %. (1)
 
