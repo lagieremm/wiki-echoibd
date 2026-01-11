@@ -2,7 +2,7 @@
 title: Extension des lésions de la RCH
 description: 
 published: true
-date: 2026-01-11T12:11:39.719Z
+date: 2026-01-11T12:14:17.316Z
 tags: rch, extension
 editor: markdown
 dateCreated: 2026-01-11T12:11:39.719Z
