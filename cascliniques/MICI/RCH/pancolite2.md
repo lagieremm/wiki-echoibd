@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T17:48:03.932Z
+date: 2026-01-11T17:56:17.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -96,10 +96,23 @@ Score de Milan = 5,74 (1,4 x4,1 +0)
 L'évolution est donc favorable 
 La maladie reste faiblement active (mais pas complètement cicatrisée). 
 # Janvier 2025 (Echographe Canon Applio A)
-![transve24.jpg](/cascliniques/rchpancolitebarb/transve24.jpg)
+*Colon transverse non épaissi*
 
-![transve25.jpg](/cascliniques/rchpancolitebarb/transve25.jpg)![transve25.jpg](/cascliniques/rchpancolitebarb/transve25.jpg)
+![transve25.jpg](/cascliniques/rchpancolitebarb/transve25.jpg)
+*Sigmoïde coupes transversales et longitudinales*
+![sigmhf25cl.jpg](/cascliniques/rchpancolitebarb/sigmhf25cl.jpg)![sigmoidehf25ct.jpg](/cascliniques/rchpancolitebarb/sigmoidehf25ct.jpg)
+*Sigmoïde coupes transversales et longitudinales et doppler*
+![hf25doppl.jpg](/cascliniques/rchpancolitebarb/hf25doppl.jpg)![hf25doppl2.jpg](/cascliniques/rchpancolitebarb/hf25doppl2.jpg)
 
+ Ci-dessus, images de la paroi du sigmoïde avec la sonde haute fréquence. On a toujours les mêmes caractéristiques
+
+Épaississement continu 4.5 mm, les couches sont respectées, la sous muqueuse fait >1/3 de la paroi
+Atteinte symétrique en CL (même épaississement des parois antérieure et postérieure) 
+Circonférentielle en (CT)
+
+La graisse est peu infiltrée, Doppler plus marqué (Limberg 2 voir 3) 
+
+Le score de Milan est de (4,5 x 1,4+2)= 8,3 donc la maladie reste active
 
 ## extension et gravité de la maladie 2022
 echographe hitachi 2022
