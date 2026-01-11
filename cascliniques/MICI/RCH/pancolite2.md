@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T16:54:02.258Z
+date: 2026-01-11T16:54:44.760Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
