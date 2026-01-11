@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T16:51:49.534Z
+date: 2026-01-11T16:53:26.206Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -17,9 +17,12 @@ Plusieurs examens échographique au cours du temps avec des machines différente
 ## 2022 (échographe Supersonic Explorer)
 RCH étendue jusqu'à l'angle gauche, continue à partir du sigmoide, non compliquée
 
-[](/bbarb1vimeo22.jpeg)![bbarb1vimeo22.jpeg](/cascliniques/rchpancolitebarb/bbarb1vimeo22.jpeg)](https://player.vimeo.com/video/1151606063)
+[](/bbarb1vimeo22.jpeg)![bbarb1vimeo22.jpeg](/cascliniques/rchpancolitebarb/bbarb1vimeo22.jpeg)]
 
+mmmmm
+(https://player.vimeo.com/video/1151606063)
 
+xxxxxxxxxxx
 
 <div style="position:relative;padding-bottom:56.25%;height:0;">
   <iframe
@@ -31,7 +34,7 @@ RCH étendue jusqu'à l'angle gauche, continue à partir du sigmoide, non compli
   </iframe>
 </div>
 
-
+YYYYYYYY
 
 
 Le film montre des images typiques (mais non spécifiques) de rectocolite hémorragique non compliquée. Le transverse n'est pas modifié, la maladie est étendue du sigmoïde de jusqu'à l'angle gauche. Tout d'abord en basse fréquence, en partant de l'angle droit puis dans un second temps en partant du rectum et en remontant le colon gauche. Enfin examen de la paroi avec la sonde haute fréquence.
