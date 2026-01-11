@@ -2,7 +2,7 @@
 title: Echographie et maladies inflammatoires (MICI)
 description: 
 published: true
-date: 2026-01-11T10:03:09.208Z
+date: 2026-01-11T10:04:00.171Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
