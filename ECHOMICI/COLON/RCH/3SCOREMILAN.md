@@ -1,8 +1,8 @@
 ---
-title: 3Score de Milan
+title: 3 Score de Milan
 description: 
 published: true
-date: 2026-01-11T14:07:12.689Z
+date: 2026-01-11T14:07:31.740Z
 tags: rch, score de milan
 editor: markdown
 dateCreated: 2026-01-11T12:17:37.201Z
