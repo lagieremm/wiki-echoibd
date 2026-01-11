@@ -1,8 +1,8 @@
 ---
-title: ECHO MICI en pratique
+title: Echographie et maladies inflammatoires (MICI)
 description: 
 published: true
-date: 2025-12-14T22:20:22.533Z
+date: 2026-01-11T10:03:09.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
