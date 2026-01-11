@@ -2,7 +2,7 @@
 title: 3Score de Milan
 description: 
 published: true
-date: 2026-01-11T14:07:08.309Z
+date: 2026-01-11T14:07:12.689Z
 tags: rch, score de milan
 editor: markdown
 dateCreated: 2026-01-11T12:17:37.201Z
