@@ -2,7 +2,7 @@
 title: Echographie des maladies inflammatoires intestinales (MICI)
 description: 
 published: true
-date: 2026-01-11T15:27:26.667Z
+date: 2026-01-11T15:28:38.622Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
