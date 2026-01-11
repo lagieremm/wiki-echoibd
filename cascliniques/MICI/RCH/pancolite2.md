@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T17:14:15.989Z
+date: 2026-01-11T17:15:29.410Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -75,11 +75,12 @@ quelques soit les marques échographe
 
 ## Evolution en 2024 (Echographe Hitachi-toshiba)
 
+![vimeobarb2024.jpg](/cascliniques/rchpancolitebarb/vimeobarb2024.jpg)
 
 <div style="position:relative;padding-bottom:56.25%;height:0;">
   <iframe
     src="https://player.vimeo.com/video/1151621508![vimeobarb2024.jpg](/cascliniques/rchpancolitebarb/vimeobarb2024.jpg)?autoplay=0&title=0&byline=0&portrait=0"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;background:url(/bbarb1vimeo22.jpeg) center center / cover no-repeat;"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:url(/vimeobarb2024.jpg) center center / cover no-repeat;"
     frameborder="0"
     allow="autoplay; fullscreen; picture-in-picture"
     allowfullscreen>
