@@ -2,16 +2,18 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2025-11-13T21:34:24.215Z
+date: 2026-01-11T11:37:13.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
 ---
 
-# Pancolite (transverse gauche) évolution
+# Pancolite étendue jusqu'à l'angle gauche, évolution sur plusieurs années
 ## pancolite barbier
-- RCH pancolite 2012 caecum mayo 3 uceis 7/8
-5 asa corticoides IMUREL non pris
+
+Patient de 39 ans atteint de rectocolite hémorragique (RCH) depuis 2008, avec un suivi des traitements irrégulier, oubliés, lorsqu'il va mieux, automédicationaux corticoides, patient régulièrement perdu de vue.
+Plusieurs examens échographique au cours du temps avec des machines différentes,la maladie étendue jusqu'à l'angle gauche, non compliquée
+
 - 2015 rechute (arret IMUREL et automédication corticoides)
 paroi 5 mm mi transverse
 colo microcolie
