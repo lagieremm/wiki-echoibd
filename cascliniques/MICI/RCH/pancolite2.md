@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-11T16:43:04.846Z
+date: 2026-01-11T16:51:49.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -14,12 +14,23 @@ dateCreated: 2025-11-13T21:27:08.087Z
 Patient de 39 ans atteint de rectocolite hémorragique (RCH) depuis 2008, avec un suivi des traitements irrégulier, oubliés, lorsqu'il va mieux, automédicationaux corticoides, patient régulièrement perdu de vue.
 Plusieurs examens échographique au cours du temps avec des machines différentes,la maladie étendue jusqu'à l'angle gauche, non compliquée
 
-- 2022 (échographe Supersonic Explorer)
+## 2022 (échographe Supersonic Explorer)
 RCH étendue jusqu'à l'angle gauche, continue à partir du sigmoide, non compliquée
 
-[![2022](/bbarb1vimeo22.jpeg)![bbarb1vimeo22.jpeg](/cascliniques/rchpancolitebarb/bbarb1vimeo22.jpeg)](https://player.vimeo.com/video/1151606063)
+[](/bbarb1vimeo22.jpeg)![bbarb1vimeo22.jpeg](/cascliniques/rchpancolitebarb/bbarb1vimeo22.jpeg)](https://player.vimeo.com/video/1151606063)
 
-[![2022](/screenshot_from_2025-08-11_15-12-43.png)](https://player.vimeo.com/video/1102723937 "iléon")
+
+
+<div style="position:relative;padding-bottom:56.25%;height:0;">
+  <iframe
+    src="https://player.vimeo.com/video/1151606063?autoplay=0&title=0&byline=0&portrait=0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:url(/bbarb1vimeo22.jpeg) center center / cover no-repeat;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 
 
