@@ -2,7 +2,7 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2026-01-11T10:48:47.758Z
+date: 2026-01-11T10:52:49.800Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -42,7 +42,7 @@ On peut voir des irrégularités de surface, la présence d'air dans la paroi et
 
 **Les modifications extra intestinales sont modérées** 
 (sauf dans les formes graves quand l'inflammation devient transmurale)
-- Doppler limité à la paroi (Limberg 1 ou 2)
+- Doppler limité à la paroi, le score de Limberg[doppler](/bases/paroi_inflammee/doppler) est plutôt de 0 à 2 rarement 3
 - Infiltration modérée de la graisse péricolique (quelques millimètres)
 - ganglions de petite taille (bord interne du cadre colique)
 
@@ -67,7 +67,7 @@ La graisse est peu infiltrée, l'activité doppler modérée.
 ![rch5.jpg](/bases/rch/rch5.jpg)
 
 
-*Le doppler est souvent limité à la paroi (Limberg 1 et 2), la graisse peu ou pas infiltrée*
+*Le doppler est souvent limité à la paroi, le score de Limberg est plutot de 0 à 2, rarement 3, la graisse peu ou pas infiltrée*
 ![rchdop1.jpg](/bases/rch/rchdop1.jpg)
 *Les ganglions sont de petite taille*
 ![rchgg1.jpg](/bases/rch/rchgg1.jpg)
