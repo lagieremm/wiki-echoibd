@@ -2,13 +2,13 @@
 title: Echographie des maladies inflammatoires intestinales (MICI)
 description: 
 published: true
-date: 2026-01-11T15:28:38.622Z
+date: 2026-01-11T15:29:14.905Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T21:39:15.751Z
 ---
 
-# Lésions intestinales des MICI
+
 
 ![echomici2.jpg](/bases/crohncolique/echomici2.jpg)
 
