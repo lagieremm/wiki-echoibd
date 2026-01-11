@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2026-01-11T11:10:01.100Z
+date: 2026-01-11T11:28:13.221Z
 tags: doppler, doppler couleur, doppler energie, microcirculation
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
@@ -12,8 +12,11 @@ dateCreated: 2025-07-28T19:11:47.617Z
 C'est un des signes importants de l'inflammation de la paroi intestinale
 On utilise **la classification de Limberg "modifiée"** qui ne tient compte que de l'activité Doppler
 **Attention: les réglages Doppler modifient énormément les résultats!!**
- En prenant le segment le plus atteint, appliquer la formule suivante :
-  <div style="
+
+ En prenant le segment le plus atteint,
+ **Le score de Limberg modifié** est basé sur 4 stade il ne tient compte que de la vascularisation intestinale observée en Doppler:
+
+ <div style="
     border: 2px solid grey;
     border-radius: 10px;
     padding: 15px;
@@ -25,16 +28,18 @@ On utilise **la classification de Limberg "modifiée"** qui ne tient compte que 
 ">
     <h3 style="text-align: center; color: grey;">Score échographique de Limberg modifié</h3>
     <ul>
-        <li><strong>Limberg 0	Aucun signal Doppler (paroi intestinale normale, pas de vascularisation détectable)
-</strong> </li>
+        <li><strong>Limberg 0	Aucun signal Doppler </strong> (paroi intestinale normale, pas de vascularisation détectable)</li>
+      Doppler limité à la paroi
+        <li><strong>Limberg 1 	quelques signaux, courts, épars dans la paroi</strong> indiquant une faible vascularisation (= inflammation minime)</li>
+        <li><strong>Limberg 2 signaux nombreux et plus longs dans la paroi </strong> Vascularisation modérée avec plusieurs signaux Doppler visibles dans la paroi intestinale, (= inflammation modérée)</li>
+              Doppler paroi + graisse
+        <li><strong>Limberg 3 signal abondant dans la paroi et la graisse mésentèrique</strong>  vascularisation marquée (= Inflammation sévère)</li>
     </ul>
-    <p style="font-size: 0.9em; text-align: left; color:black;">
-        <em>BWT= épaisseur pariétale, BWF = doppler (0 absent/1 présent)
-      </em>
-    </p>
+  
 </div>
 
-**Le score de Limberg modifié** est basé sur 4 grades il ne tient compte que de la vascularisation intestinale observée en Doppler:
+  
+
 
 - **Limberg 0**	Aucun signal Doppler (paroi intestinale normale, pas de vascularisation détectable)
 
