@@ -2,7 +2,7 @@
 title: L'hyperactivité Doppler
 description: 
 published: true
-date: 2026-01-11T11:28:59.065Z
+date: 2026-01-11T11:31:58.346Z
 tags: doppler, doppler couleur, doppler energie, microcirculation
 editor: markdown
 dateCreated: 2025-07-28T19:11:47.617Z
