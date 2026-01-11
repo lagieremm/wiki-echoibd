@@ -2,7 +2,7 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2026-01-11T10:29:54.612Z
+date: 2026-01-11T10:39:27.943Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
@@ -167,7 +167,24 @@ l'appendice peut être atteint de façon isolée
 ### Rectites par voie transpariétale
 ### Rectites par voie transpérinéale
   
-## Mesure de l'activité
+## Mesure de l'activité score de MILAN
+  L'activé est proportionnelle a l'épaississement et dans une moindre mesure à l'activité doppler. Il existe de nombreux scores pour mesurer l'inflammation et suivre son évolution selon les études,l'un des plus simple et reproductible est le score de Milan 
+  
+  Le score de Milan (Milan Ultrasound Criteria —MUC) repose sur deux paramètres simples mesurés à l’échographie intestinale : l’épaisseur pariétale (BWT) et la présence d’un flux Doppler pariétal (BWF).
+  Comment se calcule-t-il ?
+
+En prenant le segment le plus atteint, appliquer la formule suivante :
+MUC = 1,4 × BWT (mm) + 2 × BWF
+
+Comment s’interprète-t-il ?
+
+• MUC ≤ 6,2 : faible activité / faible risque de rechute.
+• MUC > 6,2 : activité inflammatoire élevée / risque accru de rechute.
+
+Le seuil de 6,2 a été validé dans plusieurs études comme discriminant entre maladie active et rémission.
+  Références
+1. Allocca M et al. Milan Ultrasound Criteria are accurate in assessing disease activity in ulcerative colitis: external validation. United Eur Gastroenterol J, 2021.
+2. Maeda M et al. Milan Ultrasound Criteria Predict Relapse of Ulcerative Colitis in Remission. Inflamm Intest Dis, 2023.
   
 ## Réponse aux traitements
   
