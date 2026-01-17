@@ -2,7 +2,7 @@
 title: Une pancolite, Rectocolite hémorragique (RCH) étendue jusqu'à l'angle gauche, non compliquée, et évolution sur plusieurs années
 description: 
 published: true
-date: 2026-01-17T16:50:37.431Z
+date: 2026-01-17T16:58:48.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -113,6 +113,15 @@ Le score de Milan est de (4,5 x 1,4+2)= 8,3 donc la maladie reste active, elle s
 # Evolution en juillet 2025 (Echographe Canon Applio A) et correspondance endoscopique
 
 Maladie presque cicatrisée 
+<div style="position:relative;padding-bottom:56.25%;height:0;">
+  <iframe
+    src="https://player.vimeo.com/video/1152914769?autoplay=0&title=0&byline=0&portrait=0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;background:url(/bbarb1vimeo22.jpeg) center center / cover no-repeat;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 ![sigmoidecicat1.jpg](/cascliniques/rchpancolitebarb/sigmoidecicat1.jpg)
 ![sigmoid35.jpg](/cascliniques/rchpancolitebarb/sigmoid35.jpg)
 ![sigmoide28.jpg](/cascliniques/rchpancolitebarb/sigmoide28.jpg)
