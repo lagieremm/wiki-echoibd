@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-17T11:34:45.464Z
+date: 2026-01-17T11:38:09.396Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -58,26 +58,6 @@ Mais à part l'importance de l'épaississement aucun élément échographique de
 
 
 
-
-
-
-
-
-
-respect de la structure en couche
-non observant au traitement, refus des perfusions
-Humira 40/ sem réponse mais arret  pusi reprise
-reprise
-11/22 cicatrisation
-3/24cicatrisation
-9/25 vedo
-
-1) extension 
-2) gravité
-3) evolution
-
-quelques soit les marques échographe
-
 # Evolution en 2024 (Echographe Hitachi-toshiba)
 
 
@@ -98,8 +78,8 @@ quelques soit les marques échographe
 Paroi 4,1 mm et Doppler négatif (Limberg 0)
 Score de Milan = 5,74 (1,4 x4,1 +0)
 
-L'évolution est donc favorable 
-La maladie reste faiblement active (mais pas complètement cicatrisée). 
+Donc la maladie va mieux, l'évolution est favorable 
+Mais la maladie reste active (non cicatrisée). 
 # Janvier 2025 (Echographe Canon Applio A)
 
 *Film en haute fréquence du sigmoïde*
@@ -125,13 +105,13 @@ La maladie reste faiblement active (mais pas complètement cicatrisée).
 
  Ci-dessus, images de la paroi du sigmoïde avec la sonde haute fréquence. On a toujours les mêmes caractéristiques
 
-Épaississement continu 4.5 mm, les couches sont respectées, la sous muqueuse fait >1/3 de la paroi
-Atteinte symétrique en CL (même épaississement des parois antérieure et postérieure) 
-Circonférentielle en (CT)
+- Épaississement continu 4.5 mm, les couches sont respectées, la sous muqueuse fait >1/3 de la paroi
+- Atteinte symétrique en CL (même épaississement des parois antérieure et postérieure) 
+- Circonférentielle en (CT)
 
 La graisse est peu infiltrée, Doppler plus marqué (Limberg 2 voir 3) 
 
-Le score de Milan est de (4,5 x 1,4+2)= 8,3 donc la maladie reste active
+Le score de Milan est de (4,5 x 1,4+2)= 8,3 donc la maladie reste active, elle s'est même dégradée. (Score passé de 5.74 à 8.3)
 
 # Juillet 2025 (Echographe Canon Applio A) et correspondance en endoscopie
 
