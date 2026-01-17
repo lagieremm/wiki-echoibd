@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-17T11:46:31.939Z
+date: 2026-01-17T11:59:26.134Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -116,7 +116,9 @@ Le score de Milan est de (4,5 x 1,4+2)= 8,3 donc la maladie reste active, elle s
 # Evolution en juillet 2025 (Echographe Canon Applio A) et correspondance endoscopique
 
 Maladie presque cicatrisée 
-
+![sigmoidecicat1.jpg](/cascliniques/rchpancolitebarb/sigmoidecicat1.jpg)
+![sigmoid35.jpg](/cascliniques/rchpancolitebarb/sigmoid35.jpg)
+![sigmoide28.jpg](/cascliniques/rchpancolitebarb/sigmoide28.jpg)
  Les anomalies échographiques ont régressé on est proche de la normale (mais pas tout à fait)
 
 1. On observe la réapparition des haustrations (la paroi du côlon redevient bosselée).
@@ -124,3 +126,18 @@ Maladie presque cicatrisée
 1. mais **la sous muqueuse hyperéchogène reste hypertrophiée**, trop visible par rapport à un colon normal, en faveur de la persistance d'une activité.
 
 En endoscopie on constate aussi que la maladie garde des petites zones actives sur un colon qui semble presque cicatriciel.
+L’échographie intestinale voit très facilement le colon, superficiel, c’est un très bon examen de suivi des MICI coliques.
+# Conclusions
+Dans la rectocolite hémorragique l'échographie donne immédiatement:
+
+1. L‘extension de la maladie sur le colon. Elle doit être préférée pour cela à l’endoscopie (lorsque la maladie est connue) et au scanner du fait de l’irradiation, du coût, et compte tenu de sa simplicité de réalisation.  Par contre la visualisation du rectum est plus compliquée et les performance de l’échographie à ce niveau sont moindres 
+1.    La gravité, qui est proportionnelle à l’épaisseur de la paroi. 
+1. Elle permet de mesurer l’activité et donc la réponse au traitement
+
+Il existe de nombreux scores échographiques d’activité mais l’un des plus simples et reproductibles est le score de Milan (ep x 1,4+doppler x 2)
+
+ 
+
+Il s’agit d’un excellent élément de suivi, la diminution de l’épaisseur colique est corrélée à la diminution de l’activité.
+
+Il est difficile en échographie d’affirmer une cicatrisation rectale (d’où l’intérêt de la coupler à la calprotectine fécale). La réalisation d’une échographie transpérinéale peut compenser ce défaut de l’échographie abdominale et permettre d’évaluer le rectum. 
