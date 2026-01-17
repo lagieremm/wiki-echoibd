@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-17T11:38:09.396Z
+date: 2026-01-17T11:41:04.346Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -113,9 +113,14 @@ La graisse est peu infiltrée, Doppler plus marqué (Limberg 2 voir 3) 
 
 Le score de Milan est de (4,5 x 1,4+2)= 8,3 donc la maladie reste active, elle s'est même dégradée. (Score passé de 5.74 à 8.3)
 
-# Juillet 2025 (Echographe Canon Applio A) et correspondance en endoscopie
+# Evolution en juillet 2025 (Echographe Canon Applio A) et correspondance endoscopique
 
 Maladie presque cicatrisée 
 
-## extension et gravité de la maladie 2022
-echographe hitachi 2022
+ Les anomalies échographiques ont régressé on est proche de la normale (mais pas tout à fait)
+
+1. On observe la réapparition des haustrations (la paroi du côlon redevient bosselée).
+1. L'épaisseur est normale ou subnormale ( entre 2,5 et 3,5 mm selon les portions), pas de doppler.
+1. mais **la sous muqueuse hyperéchogène reste hypertrophiée**, trop visible par rapport à un colon normal, en faveur de la persistance d'une activité.
+
+En endoscopie on constate aussi que la maladie garde des petites zones actives sur un colon qui semble presque cicatriciel.
