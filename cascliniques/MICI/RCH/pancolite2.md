@@ -2,14 +2,11 @@
 title: Une pancolite, Rectocolite hémorragique (RCH) étendue jusqu'à l'angle gauche, non compliquée, et évolution sur plusieurs années
 description: 
 published: true
-date: 2026-01-17T16:50:03.185Z
+date: 2026-01-17T16:50:37.431Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
 ---
-
-# Une pancolite, Rectocolite hémorragique (RCH) étendue jusqu'à l'angle gauche, non compliquée, et évolution sur plusieurs années
-
 
 Patient de 39 ans, rectocolite hémorragique (RCH) depuis 2008, suivi des traitements irréguliers, oubliés lorsqu'il va mieux, régulièrement perdu de vue, maladie jamais complètement cicatrisée.
 
