@@ -2,7 +2,7 @@
 title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
 description: 
 published: true
-date: 2026-01-17T11:30:53.919Z
+date: 2026-01-17T11:34:45.464Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
@@ -32,17 +32,18 @@ RCH étendue jusqu'à l'angle gauche, continue à partir du sigmoide, non compli
 </div>
 
 
-Le film montre des images typiques (mais non spécifiques) de rectocolite hémorragique non compliquée. Le transverse n'est pas modifié, la maladie est étendue du sigmoïde de jusqu'à l'angle gauche. Tout d'abord en basse fréquence, en partant de l'angle droit puis dans un second temps en partant du rectum et en remontant le colon gauche. Enfin examen de la paroi du sigmoïde avec la sonde haute fréquence.
+Le film montre des images typiques (mais non spécifiques) de rectocolite hémorragique non compliquée. Le transverse n'est pas modifié, la maladie est étendue du sigmoïde de jusqu'à l'angle gauche.
+La vidéo est d'abord en **basse fréquence**, en partant de l'angle droit puis dans un second temps en partant du rectum. Enfin examen de la paroi du sigmoïde avec **la sonde haute fréquence**.
 
 *Sigmoïde basse fréquence*
 ![rchbfe.jpg](/cascliniques/rchpancolitebarb/rchbfe.jpg)
 *Même lésions avec la sonde haute fréquence, épasissement de 7 mm prédominant à la 3 ième couche, c'est à dire la sous muqueuse, hyperéchogène*
 ![rchhf2022.jpg](/cascliniques/rchpancolitebarb/rchhf2022.jpg)![rchhf2.jpg](/cascliniques/rchpancolitebarb/rchhf2.jpg)
 
-**Le colon gauche a perdu ses haustrations** il est rigidifié 
-**L'épaississement colique est important** (7 mm) 
+1. **Le colon gauche a perdu ses haustrations** il est rigidifié 
+1. **L'épaississement colique est important** (ici 7 mm), il est 
 
-- est **continu** à partir du sigmoide
+- **continu** à partir du sigmoide
 - **symétrique**
 - **circonférentiel**
 - **les couches sont respectées**
@@ -53,6 +54,7 @@ Le [Score de Milan](/ECHOMICI/COLON/RCH/3SCOREMILAN) est l'un des plus simple po
 
 
 Ici score de Milan = (1,4 x7+2)=11,8 maladie très active.
+Mais à part l'importance de l'épaississement aucun élément échographique de gravité.
 
 
 
