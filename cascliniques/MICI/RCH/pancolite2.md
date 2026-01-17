@@ -1,8 +1,8 @@
 ---
-title: RCH pancolite jusqu'à l'angle gauche et évolution sous traitement
+title: Une pancolite, Rectocolite hémorragique (RCH) étendue jusqu'à l'angle gauche, non compliquée, et évolution sur plusieurs années
 description: 
 published: true
-date: 2026-01-17T16:48:27.296Z
+date: 2026-01-17T16:50:03.185Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-13T21:27:08.087Z
