@@ -2,7 +2,7 @@
 title: Echographie intestinale et maladies inflammatoires intestinales (MICI)
 description: 
 published: true
-date: 2026-01-17T11:04:47.465Z
+date: 2026-01-17T11:07:04.358Z
 tags: mici
 editor: markdown
 dateCreated: 2026-01-17T11:04:47.465Z
@@ -14,7 +14,7 @@ Echographie et atteintes de l'intestin grêle
 - Complications des iléites
 -sténose
 -Rétrodilatation
--occlusion
+-[Occlusion](/ECHOMICI/GRELE/COMPLICATIONS/OCCLUSION)
 -Fistule
 -Abcès
 - Atteintes étendues
