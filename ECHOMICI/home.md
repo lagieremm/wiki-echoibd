@@ -2,7 +2,7 @@
 title: Echographie intestinale et maladies inflammatoires intestinales (MICI)
 description: 
 published: true
-date: 2026-01-17T11:13:47.528Z
+date: 2026-01-17T11:24:19.232Z
 tags: mici
 editor: markdown
 dateCreated: 2026-01-17T11:04:47.465Z
@@ -20,7 +20,7 @@ Echographie et atteintes de l'intestin grêle
 - Atteintes étendues
 - Atteintes jéjunales
 
-[Echographie et atteinte colique](/ECHOMICI/COLON/home)
+Echographie et atteinte colique
 - [Généralités](/ECHOMICI/COLON/GENERALITES)
 - [Echographie et rectocolite hémorragique (RCH)](/ECHOMICI/COLON/RCH)
 - Maladie de Crohn colique
