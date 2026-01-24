@@ -2,13 +2,18 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2026-01-24T11:38:36.382Z
+date: 2026-01-24T11:41:30.230Z
 tags: rectocolite hémorragique, rch, score de milan
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
 ---
 
 
+Modifications échographiques de la paroi dans la RCH, exemples
+Bilan d'extension par échographie
+Signe de gravité échographiques
+Mesure de l'activité
+Mesure de la réponse aux traitements
 # Modifications échographiques de la paroi dans la RCH
 On observe classiquement **un épaississement et une perte des haustrations**.
 
