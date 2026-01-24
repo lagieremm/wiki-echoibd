@@ -2,7 +2,7 @@
 title: 3 Évaluation échgraphique de l'activité, Score de Milan
 description: 
 published: true
-date: 2026-01-24T11:28:37.878Z
+date: 2026-01-24T11:30:02.148Z
 tags: rch, score de milan
 editor: markdown
 dateCreated: 2026-01-11T12:17:37.201Z
@@ -28,7 +28,7 @@ dateCreated: 2026-01-11T12:17:37.201Z
     font-family: Arial, sans-serif;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 
-    <h3 style="text-align: center; color: grey;" > Score de Milan dans la RCH (Milan Ultrasound Criteria-MUC) </h3>
+    <h3 style="text-align: center; color: grey;""> Score de Milan dans la RCH (Milan Ultrasound Criteria-MUC)</h3>
     <ul>
         <li><strong>MUC =1,4 X BWT (mm) + 2 x BWF</strong> </li>
     </ul>
