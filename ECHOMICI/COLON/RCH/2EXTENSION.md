@@ -1,14 +1,14 @@
 ---
-title: 2 Extension des lésions de la RCH
+title: 2 Évaluation de l'extension de la RCH par l'échographie
 description: 
 published: true
-date: 2026-01-24T11:21:26.046Z
+date: 2026-01-24T11:22:49.797Z
 tags: rch, extension
 editor: markdown
 dateCreated: 2026-01-11T12:11:39.719Z
 ---
 
-**Répartition des lésions: bilan d'extension par l'échographie**
+
   
 En suivant le colon gauche à partir de la vessie, l'échographie donne très facilement et précisément l'extension
 Classification de Montréal
