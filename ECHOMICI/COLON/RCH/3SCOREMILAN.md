@@ -1,8 +1,8 @@
 ---
-title: 3 Évaluation échgraphique de l'activité, Score de Milan
+title: 3 Évaluation échographique de l'activité, Score de Milan
 description: 
 published: true
-date: 2026-01-24T11:30:02.148Z
+date: 2026-01-24T11:30:27.547Z
 tags: rch, score de milan
 editor: markdown
 dateCreated: 2026-01-11T12:17:37.201Z
