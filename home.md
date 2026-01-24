@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2026-01-24T14:38:24.110Z
+date: 2026-01-24T14:40:30.058Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -45,9 +45,11 @@ Le scanner----------> 76 km
 L'IRM-------------------> 145 km
  
 ## Accessibilité du tube digestif à l'échographie
-On voit très bien **le colon** et **l'iléon terminal** (les parties les plus superficielles du tube).
 
-**Le rectum** et le **grêle proximal** sont moins accessibles (car plus profonds)
+En règle générale
+- **le colon** et **l'iléon terminal** sont très accessibles (les parties les plus superficielles du tube).
+- **Le rectum** et le **grêle proximal** sont moins accessibles (car plus profonds)
+
 ![schéma_colon-grèle21.jpg](/schémas/schéma_colon-grèle21.jpg)
 
 
