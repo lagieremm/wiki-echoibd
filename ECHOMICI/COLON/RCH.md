@@ -2,14 +2,14 @@
 title: Echographie Intestinale et rectocolite hémorragique (RCH)
 description: 
 published: true
-date: 2026-01-11T15:46:38.512Z
+date: 2026-01-24T11:13:01.196Z
 tags: rectocolite hémorragique, rch, score de milan
 editor: markdown
 dateCreated: 2025-12-01T23:12:33.709Z
 ---
 
 
-# Modification de la paroi dans la RCH, lésions élémentaires échographiques
+# Modifications échographiques de la paroi dans la RCH
 On observe classiquement **un épaississement et une perte des haustrations**.
 
 *RCH classique, respect de la structure en couche,sous muqueuse très épaissie; musculeuse intacte*
@@ -47,9 +47,32 @@ On peut voir des irrégularités de surface, la présence d'air dans la paroi et
 
 **Il n'y a jamais de fistule ou d'abcès**
 
-Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées  on peut voir garder des signes cicatriciels.
+Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées  on peut voir garder des signes cicatriciels (notamment un épaississement de la sosu muqueuse.
  
-# Exemples d'images échographique dans la RCH
+ <div style="
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    background-color: #f0f0f0;
+    color:black;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+">
+    <h3 style="text-align: center; color: grey;">Modification échographique de la paroi dans la RCH</h3>
+    <ul>
+        <li><strong>Épaississement pariétal > 3 mm</strong> : continue, régulier, symétrique prédominant à la sous muqueuse (3 ième hyper)</li>
+        <li><strong>La structure en couches est conservée</strong> </li>
+      <li><strong>La gravité est proportionnelle à l'épaississement</strong> : </li>
+        <li><strong>Inflammation péri péricolique modérée</strong> : graisse péri-colique peu inflammée, Doppler souvent Limberg 1 ou 2, jamais de fistule ni d'abcès.</li>
+    </ul>
+    <p style="font-size: 0.9em; text-align: right; color:black;">
+        <em>Ces signes doivent faire évoquer une poussée sévère et nécessitent une prise en charge urgente.</em>
+    </p>
+</div>
+
+  
+# Exemples d'images de RCH
 La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
 L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), il est continue, régulier, cironférentiel
 La structure en couche est conservée
@@ -71,12 +94,12 @@ La graisse est peu infiltrée, l'activité doppler modérée.
 *Les ganglions sont de petite taille*
 ![rchgg1.jpg](/bases/rch/rchgg1.jpg)
 *Malgré sa petite taille, ganglion rond, hypoéchogène donc inflammatoire*![rchgg2.jpg](/bases/rch/rchgg2.jpg)
-# Signes de gravité échographique dans la RCH
+# Signes de gravité dans la RCH
 il y a deux formes graves dasn la rectocolite hémorragique
 - La colite aiguë grave (lorsque l'inflammation atteint la totalité de la paroi)
 - La colectasie (distension de lumière caecale)
 
-Cela se traduit en échographie par 
+En échographie cela se traduit par 
 
 1. Epaississement important :
 en soi, une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
