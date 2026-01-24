@@ -2,15 +2,13 @@
 title: 1 RCH modifications de la paroi
 description: 
 published: true
-date: 2026-01-24T11:15:16.778Z
+date: 2026-01-24T11:20:03.899Z
 tags: rch
 editor: markdown
 dateCreated: 2026-01-11T12:01:46.210Z
 ---
 
 # Modifications échographiques de la paroi par la rectocolite hémorragique (RCH)
-
-## lésions élémentaires échographiques
 On observe classiquement **un épaississement et une perte des haustrations**.
 
 *RCH classique, respect de la structure en couche,sous muqueuse très épaissie; musculeuse intacte*
@@ -48,7 +46,29 @@ On peut voir des irrégularités de surface, la présence d'air dans la paroi et
 
 **Il n'y a jamais de fistule ou d'abcès**
 
-Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées  on peut voir garder des signes cicatriciels.
+Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de la paroi (épaisseur normale, et haustrations), mais après plusieurs poussées  on peut voir garder des signes cicatriciels (notamment un épaississement de la sosu muqueuse.
+ 
+ <div style="
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    background-color: #f0f0f0;
+    color:black;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+">
+    <h3 style="text-align: center; color: grey;">Modification échographique de la paroi dans la RCH</h3>
+    <ul>
+        <li><strong>Disparition des haustrations et épaississement pariétal > 3 mm</strong> : continue, régulier, symétrique prédominant à la sous muqueuse (3 ième hyper)</li>
+        <li><strong>La structure en couches est conservée</strong> </li>
+      <li><strong>La gravité est proportionnelle à l'épaississement</strong> : </li>
+        <li><strong>Inflammation péri péricolique modérée</strong> : graisse péri-colique peu inflammée, Doppler souvent Limberg 1 ou 2, jamais de fistule ni d'abcès.</li>
+    </ul>
+   
+</div>
+
+
  
 ## Exemples d'images échographique dans la RCH
 La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
