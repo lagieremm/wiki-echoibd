@@ -2,7 +2,7 @@
 title: 1 RCH modifications de la paroi
 description: 
 published: true
-date: 2026-01-24T11:20:03.899Z
+date: 2026-01-24T11:46:41.924Z
 tags: rch
 editor: markdown
 dateCreated: 2026-01-11T12:01:46.210Z
@@ -71,8 +71,9 @@ Lors de la réponse aux traitement on peut avoir une restitution ad intégrum de
 
  
 ## Exemples d'images échographique dans la RCH
-La gravité des maladies dans les exemples suivants est proportionnelle à l'épaississement 
-L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), il est continue, régulier, cironférentiel
+Dans les exemples suivants:
+La gravité des maladies  est proportionnelle à l'épaississement 
+L'épaississement prédomine à la 3 ième couche hyperéchogène( > 1/3 de la paroi), il est continue, régulier, circonférentiel
 La structure en couche est conservée
 La graisse est peu infiltrée, l'activité doppler modérée.
 
