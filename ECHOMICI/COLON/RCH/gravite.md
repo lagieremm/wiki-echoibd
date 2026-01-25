@@ -2,22 +2,22 @@
 title: 3 Signes échographiques de gravité dans la RCH
 description: 
 published: true
-date: 2026-01-24T15:34:55.503Z
+date: 2026-01-25T14:16:54.754Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T11:36:42.053Z
 ---
 
 # Signes de gravité dans la RCH
-il y a deux formes graves dasn la rectocolite hémorragique
+il y a deux formes graves de rectocolite hémorragique
 - La colite aiguë grave (lorsque l'inflammation atteint la totalité de la paroi)
 - La colectasie (distension de lumière caecale)
 
-En échographie cela se traduit par 
+En échographie la colite aigüe grave se traduit par 
 
-1. Epaississement important :
-en soi, une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
-2. disparition de la structure en couches
+1. **Epaississement important :**
+une inflammation au delà de 8 mm, voir 10 ou exceptionnellement 12 mm est un signe de gravité
+2. **disparition de la structure en couches**
 L'inflammation qui dans la RCH est au départ superficielle (couches 2 et 3) gagne la totalité de la paroi (la sous muqueuse devient hypoéchogène)
 
 *Disparition de la structure en couches*
@@ -25,11 +25,11 @@ L'inflammation qui dans la RCH est au départ superficielle (couches 2 et 3) gag
 
 - si l'inflammation s'aggrave, on peut voir des ulcères creusants en surface et le bord périphérique de l'anse (classiquement rectiligne dans la RCH) devient irrégulier
 
-*Paroi totalement déformée, avec ulcères en surface, bords externes irréguliers, graisse infiltrée, la graisse est infiltrée, voire apparition d'un épanchement liquidien, signe de gravité extrème*
+*Paroi totalement déformée, avec ulcères en surface, bords externes irréguliers, la graisse est infiltrée, voire apparition d'un épanchement liquidien, signe de gravité extrème*
 ![schema-rchcag2_copie.jpg](/bases/rch/schema-rchcag2_copie.jpg)
 
 3. L'inflammation atteint la périphérie de l'anse
-- hyperactivité doppler intense paroi et graisse (Limberg 3)
+- hyperactivité doppler intense de la paroi et de la graisse (Limberg 3)
 - présence de liquide en périphérie de l'anse (perforation imminente)
 4. Distension de la lumière caecale, forme de gravité ultime (colectasie)
 Se mesure au niveau du caecum
