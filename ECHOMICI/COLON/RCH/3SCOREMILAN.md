@@ -2,7 +2,7 @@
 title: 4 Évaluation échographique de l'activité, Score de Milan
 description: 
 published: true
-date: 2026-01-24T11:31:25.890Z
+date: 2026-01-25T16:15:40.970Z
 tags: rch, score de milan
 editor: markdown
 dateCreated: 2026-01-11T12:17:37.201Z
@@ -45,6 +45,8 @@ Comment s’interprète-t-il ?
 • MUC > 6,2 : activité inflammatoire élevée / risque accru de rechute.
 
 **Le seuil de 6,2** a été validé dans plusieurs études comme discriminant entre maladie active et rémission.
+
+
   Références
 *1. Allocca M et al. Milan Ultrasound Criteria are accurate in assessing disease activity in ulcerative colitis: external validation. United Eur Gastroenterol J, 2021.
 2. Maeda M et al. Milan Ultrasound Criteria Predict Relapse of Ulcerative Colitis in Remission. Inflamm Intest Dis, 2023.*
