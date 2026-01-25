@@ -2,7 +2,7 @@
 title: 3 Signes échographiques de gravité dans la RCH
 description: 
 published: true
-date: 2026-01-25T14:16:54.754Z
+date: 2026-01-25T16:14:30.321Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T11:36:42.053Z
