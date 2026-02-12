@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2026-01-24T14:40:30.058Z
+date: 2026-02-12T07:42:13.755Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
@@ -10,18 +10,19 @@ dateCreated: 2025-07-28T16:06:33.456Z
 
 # Echographie et MICI (maladies inflammatoires intestinales)
 
-L'échographie est une très bonne technique d'exploration du tube digestif, 
-- donne des informations **immédiates** (c'est la technique la plus rapide comparée à la biologie, au scanner, à l'IRM) on peut la faire dès la consultation
+L'échographie est une excellente technique d'exploration du tube digestif, 
+- donne des résultats **immédiates** (c'est la technique la plus rapide comparée à la biologie, au scanner, à l'IRM) on peut la faire dès la consultation 
 - fiables et reproductibles
 - sans irradiation
-- faible coût
-- c'est la technique qui consomme le moins de CO2
+- c'est la technique la moins cher
+- c'est la technique la plus écologique, celle qui consomme le moins de CO2
 - non invasive, sans contre indications, très bien acceptée par les patients, on peut la répéter facilement
 - les échographes sont très répandus, disponibles partout
+
 Elle n'est pas assez utilisée,
 Elle peut sembler compliquée à apprendre au premier abord
 
-Le but de ce site est là pour aider à apprendre ou perfectionner sa technique:
+Le but de ce site est d'aider à apprendre ou se perfectionner:
 
 - [Rappeler les bases techniques de l'échographie intestinale](/bases)
 - Quelques astuces et conseils pour progresser rapidement
@@ -46,9 +47,9 @@ L'IRM-------------------> 145 km
  
 ## Accessibilité du tube digestif à l'échographie
 
-En règle générale
-- **le colon** et **l'iléon terminal** sont très accessibles (les parties les plus superficielles du tube).
-- **Le rectum** et le **grêle proximal** sont moins accessibles (car plus profonds)
+En règle général.
+- **le colon** et **l'iléon terminal** sont très accessibles ( parties les plus superficielles du tube).
+- **Le rectum** et le **grêle proximal** sont moins accessibles (car plus profonds ou masquées par d'autre portions du tube)
 
 ![schéma_colon-grèle21.jpg](/schémas/schéma_colon-grèle21.jpg)
 
