@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2026-02-12T07:42:13.755Z
+date: 2026-02-12T07:42:19.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:06:33.456Z
