@@ -2,7 +2,7 @@
 title: Atteinte colique des MICI généralités
 description: 
 published: true
-date: 2026-02-16T22:42:11.514Z
+date: 2026-02-16T22:42:19.579Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T09:19:56.317Z
