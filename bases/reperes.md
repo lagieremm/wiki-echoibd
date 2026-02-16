@@ -2,7 +2,7 @@
 title: Technique d'examen et repères anatomiques
 description: Comment ne pas être perdu?
 published: true
-date: 2026-02-16T22:10:50.225Z
+date: 2026-02-16T22:12:46.446Z
 tags: repères anatomiques
 editor: markdown
 dateCreated: 2025-07-10T22:03:15.885Z
