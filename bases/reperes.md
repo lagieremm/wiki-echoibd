@@ -2,7 +2,7 @@
 title: Technique d'examen et repères anatomiques
 description: Comment ne pas être perdu?
 published: true
-date: 2025-11-11T20:15:53.904Z
+date: 2026-02-16T22:10:50.225Z
 tags: repères anatomiques
 editor: markdown
 dateCreated: 2025-07-10T22:03:15.885Z
@@ -29,7 +29,7 @@ Il faut connaitre la localisation des portions relativement fixes du tube digest
 ## En pratique
 
 
-On voit bien :
+On voit bien les structures les plus superficielles: 
 -   l'iléon terminal
 -   le colon
 À ce niveau (échographie=Scanner=IRM)
