@@ -2,13 +2,13 @@
 title: Atteinte colique des MICI généralités
 description: 
 published: true
-date: 2026-02-16T22:42:19.579Z
+date: 2026-02-16T22:48:08.476Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T09:19:56.317Z
 ---
 
-# Atteintes coliques des MICI, généralités échographiques
+# Atteintes coliques des MICI, généralités échographiques 
 
 Les [modifications échographiques inflammatoires](/bases/paroi_inflammee/GENERALITES) de la paroi intestinale ne sont pas spécifiques des MICI, on les retrouve aussi en cas d'infections, colites ischémiques, diverticulites cancer)
 Situées au niveau des zones atteintes par les maladies.
@@ -23,3 +23,7 @@ Situées au niveau des zones atteintes par les maladies.
 | Inflammation de la graisse              |  **Minime** autour de l'anse, sinon signe de gravité (Colite aigue grave)                          | **Souvent très importante**                      |
 | Complications (sténose, fistule, abcès)     |   **Sténose parfois**,          jamais d'abcès ou de fistule            |  **Sténose, fistules abcès** possibles                         |
 | Ganglions |De **petite taille** (quelques millimètres) |Peuvent être **volumineux** 10- 15 mm)
+*Image typique de localisation colique de maladie de Crohn, lésions asymétriques discontinues*
+![35_202505281636458770035_copie.jpg](/mccolique1/35_202505281636458770035_copie.jpg)
+*image typique de RCH, lésions continues, structure en couches conservées, prédominant à la sous muqueuse*
+![rchhf2022.jpg](/cascliniques/rchpancolitebarb/rchhf2022.jpg)
