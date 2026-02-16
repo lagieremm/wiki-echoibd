@@ -2,7 +2,7 @@
 title: 2 Les différentes sondes
 description: 
 published: true
-date: 2025-11-26T07:16:04.596Z
+date: 2026-02-16T22:08:27.589Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T16:56:15.722Z
@@ -14,8 +14,11 @@ Il existe deux grands types de sonde utilisées en échographie du tube digestif
 - se rapporte au nombre de cycle d'onde par seconde
 - elle est exprimée en MHZ (mégahertz soit un milion de cycle par seconde)
 
+- **Plus la fréquence est basse, plus la pénétration est grande** 
+on voit en profondeur
 - **Plus la fréquence est élevée, plus la résolution est grande**
-- **Plus la fréquence est basse, plus la pénétration est grande**
+On aprécie les détails de la paroi, les mesures sont plus précises.
+
 ## 1) Sonde convexe, basse fréquence (BF) en général 1-5 MHZ
 ![image.jpg](/image.jpg)
 On commence toujours avec cette sonde 
@@ -66,13 +69,14 @@ Repérer des **complications** : sténoses, abcès, fistules.
 
 **Avantages :** 
 - Bon compromis entre résolution et pénétration
-- Ergonomie (notamment très pratique pour l'examen du rectum par voie transpérinéale).
+- Ergonomie (notamment **idéale pour l'examen du rectum par voie transpérinéale**).
 
 # En pratique pour les MICI (maladies inflammatoires intestinales)
-On utilise souvent les deux types de sondes, toutes deux indispensables :
+On utilise souvent les deux types de sondes, toutes deux indispensables et complémentaires :
 
 **Sonde BF :**
 - repérage global des structures (colon, estomac)
+Il faut la reprendre si on est perdu pour avoir une vue d'ensemble des structures intestinales.
 - recherche de complications (épanchement, abcès, infiltration de la graisse).
 
 **Sonde HF :**
